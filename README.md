@@ -1,2 +1,3 @@
 # Bridge
 &spades;
+&hearts;
