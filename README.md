@@ -1,6 +1,6 @@
 # Bridge notes:
-Souvik-Sounak 2/1 GF
-Replace
+Souvik-Sounak 2/1 GF  
+Replace  
 !s ```<span style="color:black;">♠</span>```
 !h ```<span style="color:red;">♥</span>```
 !d ```<span style="color:red;">♦</span>```
