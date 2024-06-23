@@ -1,3 +1,1 @@
-# Bridge
-&spades;
-&hearts;
+<span style="color:red;">♥</span>
