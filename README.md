@@ -1,3 +1,10 @@
+# Bridge notes:
+Souvik-Sounak 2/1 GF
+Replace
+!s ```<span style="color:black;">♠</span>```
+!h ```<span style="color:red;">♥</span>```
+!d ```<span style="color:red;">♦</span>```
+!c ```<span style="color:black;">♣</span>```
 # No-Trump Openings
 ## 1NT opening
 - With 4-4 Stayman 
