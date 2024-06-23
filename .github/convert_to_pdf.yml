@@ -1,0 +1,37 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert README.md to PDF
+        run: |
+          pandoc README.md -o README.pdf --pdf-engine=xelatex
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v2
+        with:
+          name: README-pdf
+          path: README.pdf
