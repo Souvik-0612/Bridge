@@ -9,7 +9,7 @@ replacements = {
 }
 
 # Read the README template
-with open('README_template.md', 'r') as file:
+with open('System note.md', 'r') as file:
     content = file.read()
 
 # Replace the shortcuts with the corresponding HTML
