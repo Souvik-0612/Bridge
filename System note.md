@@ -1,20 +1,19 @@
-
 # No-Trump Openings
 ## 1NT opening
 - With 4-4 Stayman 
-- With 5-5 in majors, Transfer to :spades: and then bid !h (GF)
+- With 5-5 in majors, Transfer to !s and then bid !h (GF)
 - With 5-4 in majors 
    - First bid 2!c stayman, raise if supported.
    - After 2!d response, 
-       -  ~~bid 2:spades: (inv), 3:spades:( GF) with 5:spades:, without Smolen~~
-       - bid 2:spades: (inv), 3!h (GF) with Smolen
+       -  ~~bid 2!s (inv), 3!s( GF) with 5!s, without Smolen~~
+       - bid 2!s (inv), 3!h (GF) with Smolen
 - With 4-5 in majors 
-   - inv: transfer to !h and bid 2:spades: 
+   - inv: transfer to !h and bid 2!s 
    - GF: Stayman, and bid 3!h after 2!d response
 
 
 ### [4-way transfers with range asks](https://www.bridgewebs.com/ocala/Four-way%20transfers.pdf)
-- 1NT-2:spades:-? (range ask for !c, bid with balanced invit hands)
+- 1NT-2!s-? (range ask for !c, bid with balanced invit hands)
      - 2N (15 pts)  
           -  pass with balanced invit
           -  correct to 3!c with clubs
@@ -36,8 +35,8 @@
 With 3 card minors,  bid 3!c puppet Stayman
   - 3!d denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
-      - 3:spades:/3!h (4cM)
-  - 3!h/3:spades:: 5 cM
+      - 3!s/3!h (4cM)
+  - 3!h/3!s: 5 cM
   - 3NT (no 5cM or 4cM)
 
 # After 1M openings 
@@ -51,8 +50,8 @@ With 3 card minors,  bid 3!c puppet Stayman
    - Real NT hands, 10+ pts 
 
 ## When opponents interfere with suit bid
- 1!h~(1:spades:/2!c/2!d) ~?   
-or 1:spades: ~ (2!c/2!d/2!h) ~?
+ 1!h~(1!s/2!c/2!d) ~?   
+or 1!s ~ (2!c/2!d/2!h) ~?
 
 - 2NT ( 4+ cards limit raise)
 - Cuebid (3 cards limit raise)
@@ -62,25 +61,25 @@ or 1:spades: ~ (2!c/2!d/2!h) ~?
 ## When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
 
-When the opener's 1NT is interfered with.  1NT-(2:spades:)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3!c relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *slow denies* version, which is in contrast to the more popular *slow shows* version.
+When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3!c relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *slow denies* version, which is in contrast to the more popular *slow shows* version.
 
 
 *Example with 3 levels*, weak, invit and GF
-- 1NT-(2!h)-2:spades: (5/6 :spades:, want to sign off)
-- 1NT-(2!h)-2NT-3!c-3:spades: (5/6 :spades:, invitational )
-- 1NT-(2!h)-3:spades: (5/6 :spades: game forcing)
+- 1NT-(2!h)-2!s (5/6 !s, want to sign off)
+- 1NT-(2!h)-2NT-3!c-3!s (5/6 !s, invitational )
+- 1NT-(2!h)-3!s (5/6 !s game forcing)
 
 *Example with 2 levels, no invitational sequence*:
-- 1NT-(2:spades:)-2NT-3!h (!h, want to sign off)
-- 1NT-(2:spades:)-3!h (!h, game force)
+- 1NT-(2!s)-2NT-3!h (!h, want to sign off)
+- 1NT-(2!s)-3!h (!h, game force)
 
 *Stronger Hands, stopper showing (slow denies, fast shows)*
-- 1NT-(2:spades:)-3NT (game force, :spades: stopper fast shows)
-- 1NT-(2:spades:)-2NT-3!c-3NT (game force, no :spades: stopper, slow denies)
+- 1NT-(2!s)-3NT (game force, !s stopper fast shows)
+- 1NT-(2!s)-2NT-3!c-3NT (game force, no !s stopper, slow denies)
 
 *Other Major, "Stayman in the other major"*
-- 1NT-(2:spades:)-3:spades: (game force, 4!h, :spades: stopper, fast shows)
-- 1NT-(2:spades:)-2NT-3!c-3:spades: (game force, no :spades: stopper, slow denies)
+- 1NT-(2!s)-3!s (game force, 4!h, !s stopper, fast shows)
+- 1NT-(2!s)-2NT-3!c-3!s (game force, no !s stopper, slow denies)
 
 
 
@@ -91,27 +90,27 @@ When the opener's 1NT is interfered with.  1NT-(2:spades:)-? . The problem is th
 This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
 *Examples when 3 levels of bids are available*
-- 2!h-(x)-2:spades: (weak)
-- 2!h-(x)-2NT-3!c-3:spades: (invit)
-- 2!h-(x)- 3:spades: (GF)
+- 2!h-(x)-2!s (weak)
+- 2!h-(x)-2NT-3!c-3!s (invit)
+- 2!h-(x)- 3!s (GF)
 
 *Examples when 2 levels of bids are available* 
-- 2:spades:-2NT-3!c-3!d (weak, could be 0 points, instead of invit)
-- 2:spades:-3!d (invit, 8/9+, instead of GF)
+- 2!s-2NT-3!c-3!d (weak, could be 0 points, instead of invit)
+- 2!s-3!d (invit, 8/9+, instead of GF)
 
 The cuebid-stayman and 3NT bids are 
 ## After a simple reverse
-Simple reverse: 1!d-1:spades:-2!h     
+Simple reverse: 1!d-1!s-2!h     
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3!c 
     -  Any other bid (disobeying the relay) shows GF from the opener
-- Any other bid by the responder is 1RF. 1!d-1:spades:-2!h-2:spades: usually shows 6 :spades:, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
+- Any other bid by the responder is 1RF. 1!d-1!s-2!h-2!s usually shows 6 !s, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
 
 # 2/1 Continuations
 ## Standard sequences
-1:spades:-2!c-2:spades: :  5 cards  
-1:spades:-2!c-2!d/2!h:  4 !d/!h   
-1:spades:-2!c-2NT: 12-14 pts or 18-19 pts (rebid later), guarantees balanced. stoppers desirable  
-~~Alternative:  ***Schuler Shift***: 2NT shows 6 :spades:~~
+1!s-2!c-2!s :  5 cards  
+1!s-2!c-2!d/2!h:  4 !d/!h   
+1!s-2!c-2NT: 12-14 pts or 18-19 pts (rebid later), guarantees balanced. stoppers desirable  
+~~Alternative:  ***Schuler Shift***: 2NT shows 6 !s~~
 
 ## Picture-bid sequences
 We should follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
@@ -124,15 +123,15 @@ The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture ju
 Examples: 
 
 **When only 3-level and 4-level raises are avialble**
--  1:spades:-2!d-2:spades:-? 
-    - 4:spades: : Picture Jump hand
-    - 3:spades: : all other game forcing hands with :spades: support
--  1:spades:-2!d-3!d-? 
-    - 4:spades: : Picture Jump hand
-    - 3:spades: : all other game forcing hands with :spades: support
-- 1:spades:-2!h- ?
+-  1!s-2!d-2!s-? 
+    - 4!s : Picture Jump hand
+    - 3!s : all other game forcing hands with !s support
+-  1!s-2!d-3!d-? 
+    - 4!s : Picture Jump hand
+    - 3!s : all other game forcing hands with !s support
+- 1!s-2!h- ?
     - 3!h : hearts support
-    - 4!h : Picture jump in !h. 5 :spades:, good  !h support, no outside controls
+    - 4!h : Picture jump in !h. 5 !s, good  !h support, no outside controls
 
 **When 2, 3 and 4-level bids are available**
 
@@ -141,14 +140,14 @@ When all three bids are available. We use the 3-level bid as a picture jump whic
  - Good 5 card second suit 
  - 1 or 2 outside controls.
 
-- 1:spades:-2!c-2!d-?
-   - 2:spades: game force, 5 spades.
-   - 3:spades:, strong Picture Jump (with outside controls)
-   - 4:spades:, normal picture Jump.
-- Openers Rebids: 1:spades:-2!c-?
-     - 3:spades:. Solid 1 loser suit, 1 or 2 outside controls (outside !c and :spades:)
-     - 4:spades:. Solid 1 loser suit, no outside controls.
-     - 2:spades: : all other.
+- 1!s-2!c-2!d-?
+   - 2!s game force, 5 spades.
+   - 3!s, strong Picture Jump (with outside controls)
+   - 4!s, normal picture Jump.
+- Openers Rebids: 1!s-2!c-?
+     - 3!s. Solid 1 loser suit, 1 or 2 outside controls (outside !c and !s)
+     - 4!s. Solid 1 loser suit, no outside controls.
+     - 2!s : all other.
 
 **To add**: Minor suit auctions    
 
@@ -160,10 +159,10 @@ When all three bids are available. We use the 3-level bid as a picture jump whic
 
 Examples: 
 
-- 1:spades:-2!c-2:spades: (no Picture Jump)- ?
+- 1!s-2!c-2!s (no Picture Jump)- ?
     - 3NT Frivolous slam try --- partner to bid on with extras.
     - Cuebid : opener interested in slam, strong hand.
-- 1:spades:-2!h-3!h (no Picture Jump)- ?
+- 1!s-2!h-3!h (no Picture Jump)- ?
   - 3NT, unserious slam try
   - cuebid, serious slam try.
 
@@ -205,22 +204,22 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 1!h~(2NT)~? :  
 - Their Lower suit is a raise of our lower suit and vice versa:  
  - 3!c shows limit raise or better in !h  
- - 3!d shows GF raise with 5+ :spades:s
+ - 3!d shows GF raise with 5+ !ss
  - 3!h preempt  
- - 3:spades: 6+ cards, <10/11 pts  
+ - 3!s 6+ cards, <10/11 pts  
  - 4!d/ 4!c splinter.
 
 **Only 1 suit is known**
 
-1!h-(2!h showing :spades: and minor)-?
-- 2:spades: : limit raise or better in hearts.   
+1!h-(2!h showing !s and minor)-?
+- 2!s : limit raise or better in hearts.   
 - X : 10 + points no fit in openers suit
      The idea here is to wait for opponents to find their second suit. After the opponents bid, the Xer rebids as follows :
     - X : for penalty
    - 3NT : game forcing, promises stoppers in known suits
    - cuebid in any of the opponents suit: game forcing, stopper *asking*
 - 3!h: hearts with preemptive quality, weaker than limit raise
-- 4!c/4!d/3:spades:: splinter type bids
+- 4!c/4!d/3!s: splinter type bids
 
 # Jacoby 2NT  
 1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
@@ -230,7 +229,7 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 - 3NT: balanced hand, 12-14 HCP
 - 4(!c/!d/oM): 5 cards  
 >Note :
-1. You cannot bid 1!h-2NT-4:spades: to show 5 cards :spades: because we cannot stop at 4!h level!  
+1. You cannot bid 1!h-2NT-4!s to show 5 cards !s because we cannot stop at 4!h level!  
 2. The priority of bids: 
 - First show the 5 cards other suit.
 - Second show the short suit.  
@@ -246,7 +245,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 ***Shows 2 lowest unbid suits***
 
 1!h-(2NT):!d and !c   
-1:spades:-(2NT):  !d and !c   
+1!s-(2NT):  !d and !c   
 1!c-(2NT) !d and !h   
 1!d-(2NT) !h and !c  
 
@@ -254,16 +253,16 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 ## Extended Michaels :  
 ***Highest and another Lower suit***     
 
-1!h-(2!h)- :spades: and minor  
-1:spades:-(2:spades:)- !h and minor  
-1!d-(2!d)- :spades: and !h/!d  
-1!c-(2!c)- :spades: and !h/!d
+1!h-(2!h)- !s and minor  
+1!s-(2!s)- !h and minor  
+1!d-(2!d)- !s and !h/!d  
+1!c-(2!c)- !s and !h/!d
 
 ## Leaping Michaels
 > This is not as frequent as the above.  
 
-(2:spades:/!h)-?  
-- 4!c/!d(jump bid): min 5-5 cards !c/!d with !h/:spades:  
+(2!s/!h)-?  
+- 4!c/!d(jump bid): min 5-5 cards !c/!d with !h/!s  
 
 (2!d)-?  
 - 
@@ -273,16 +272,16 @@ Generally, after interference we play *Positive Freebids*
 2. 3 level bids in new suit GF. 
 
 Examples :
-1. 1:spades:-(2!c)-2!d (5 !ds, 10+ points).
-2. 1:spades:-(2!h)-3!c (5 !cs, game forcing)
-3. 1!d-(1!h)-1:spades: (5 :spades:s, 6+ points. With 4 :spades: s, bid Neg. X)
-4. 1!c-(1!d)-1:spades:/1!h( 4 cards, double shows 4-4 in majors)
+1. 1!s-(2!c)-2!d (5 !ds, 10+ points).
+2. 1!s-(2!h)-3!c (5 !cs, game forcing)
+3. 1!d-(1!h)-1!s (5 !ss, 6+ points. With 4 !s s, bid Neg. X)
+4. 1!c-(1!d)-1!s/1!h( 4 cards, double shows 4-4 in majors)
 
 *Negative Freebids* (weak, <10 points) also show 5 cards. They are applicable after opponents double, or bid NT.  Examples :
 
-1. 1!h-(X)-1:spades: (5:spades:, <10 points. With more than 10 points we Rdbl).
-2. (1!d)-1:spades:-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
-3. (1!d)-1:spades:-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
+1. 1!h-(X)-1!s (5!s, <10 points. With more than 10 points we Rdbl).
+2. (1!d)-1!s-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
+3. (1!d)-1!s-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
 # ~Interfere with our 2NT opening or puppet Stayman~ 
 # Slam Bidding Agreements
 Presently we play RKC 1430 with King ask showing specific kings. 
