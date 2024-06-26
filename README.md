@@ -1,10 +1,10 @@
 # Bridge notes:
 Souvik-Sounak 2/1 GF  
 Replace  
-!s ```<span style="color:black;">♠</span>```  
-!h ```<span style="color:red;">♥</span>```  
-!d ```<span style="color:red;">♦</span>```  
-!c ```<span style="color:black;">♣</span>```  
+! s ```<span style="color:black;">♠</span>```  
+! h ```<span style="color:red;">♥</span>```  
+! d ```<span style="color:red;">♦</span>```  
+! c ```<span style="color:black;">♣</span>```  
 # No-Trump Openings
 ## 1NT opening
 - With 4-4 Stayman 
@@ -303,12 +303,12 @@ Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tou
 > This is essentisl to rescue from panalty dbl.  
 
 Consider the following,  
-(1!d)-2!c-(Pass)-Pass  
+(1<span style="color:red;">♦</span>)-2<span style="color:black;">♣</span>-(Pass)-Pass  
 (Dbl)-Pass-(Pass*)-?  
-* Making the Dbl to panalty.
-And you have the hand !sQ8543!hKj954!c3!d54, would you pass at this situation?  
+(*) Making the Dbl to panalty.  
+And you have the hand <span style="color:black;">♠</span>Q8543<span style="color:red;">♥</span>Kj954<span style="color:black;">♣</span>3<span style="color:red;">♦</span>54, would you pass at this situation?  
 **No!** You should ***Rdbl*** to tell the partner bid any ***unbid*** suit.  
 
-> Two condition should be followed to use SOS Rdbl.
+> Two conditions should be followed to use SOS Rdbl.
 * Support at least 4-4 cards in unbid suit.
 * Lack of support partner's suit.
