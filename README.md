@@ -299,3 +299,11 @@ Future Improvements:
   - Standard void showing responses.
 # Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
+# SOS redouble
+> This is essentisl to rescue from panalty dbl.
+Consider the following,  
+(1!d)-2!c-(Pass)-Pass  
+(Dbl)-Pass-(Pass*)-?  
+* Making the Dbl to panalty.
+And you have the hand !sQ8543!hKj954!c3!d54, would you pass at this situation?  
+**No!** You should ***Rdbl*** to tell the partner bid any ***unbid*** suit.
