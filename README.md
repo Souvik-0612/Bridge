@@ -311,4 +311,25 @@ And you have the hand <span style="color:black;">♠</span>Q8543<span style="col
 
 > Two conditions should be followed to use SOS Rdbl.
 * Support at least 4-4 cards in unbid suit.
-* Lack of support partner's suit.
+* Lack of support partner's suit.  
+* SOS Rdbl is upto 3 level!
+1. We can find some example in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
+2. (Write whatever you like from the "considerations" section of bridgebum)
+# Touching Escapes
+> If opponents dbl after your(partner) 1NT as panalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
+
+1NT-(Dbl*)-?
+- Pass: At least 4-4 in two ***non-touching suit***(e.g, <span style="color:black;">♣</span> and <span style="color:red;">♥</span> or <span style="color:black;">♣</span> and <span style="color:black;">♠</span> or <span style="color:red;">♦</span> and <span style="color:black;">♠</span>) forcing partner to bid Rdbl
+  - Pass: Balanced hand with pts. "Dekhe nebo opponent k 🤣🤣"
+  - 2<span style="color:black;">♣</span>: <span style="color:black;">♣</span> and a higher (<span style="color:red;">♥</span>/<span style="color:black;">♠</span>)
+    - Pass: Opener have <span style="color:black;">♣</span>s
+    - 2<span style="color:red;">♥</span>: Pass or correct
+  - 2<span style="color:red;">♦</span>: <span style="color:red;">♦</span> and <span style="color:black;">♠</span>
+- Rbl: One suited hand. Forcing partner to bid 2<span style="color:black;">♣</span>
+  - Pass: Responder have 5+ <span style="color:black;">♣</span>s
+  - 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: 5+ Cards
+- 2<span style="color:black;">♣</span>: At least 4-4 in ***toucing suits*** (<span style="color:black;">♣</span> and <span style="color:red;">♦</span>)
+- 2<span style="color:red;">♦</span>: At least 4-4 in ***toucing suits*** <span style="color:red;">♦</span> and <span style="color:red;">♥</span>
+- 2<span style="color:red;">♥</span>: At least 4-4 in ***toucing suits*** <span style="color:red;">♥</span> and <span style="color:black;">♠</span>
+- 2<span style="color:black;">♠</span>: 5+<span style="color:black;">♠</span> weaker than to bid Dbl
+> Question we might think: **If the responder have 0 HCP then what he can do?** *Actually playing 1NTX is much better than playing suits in 2 level*. That is the main philosophy!
