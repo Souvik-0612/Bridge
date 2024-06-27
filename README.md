@@ -57,10 +57,9 @@ or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span
 - Cuebid (3 cards limit raise)
 - All other hands, X  
 # Weak 2 Opening
-> With exactly 6 cards having 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>
+> Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>
 Responder bids
-- 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*)
-  - **Ogust** bids are following
+- 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*, **Ogust**)
   - 3<span style="color:black;">♣</span>: one of the top three honor 6-8 pts
   - 3<span style="color:red;">♦</span>: two of the top three honor 6-8 pts
   - 3<span style="color:red;">♥</span>: one of the top three honor 9-11 pts
@@ -334,3 +333,9 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 - 2<span style="color:red;">♥</span>: At least 4-4 in ***toucing suits*** <span style="color:red;">♥</span> and :spades:
 - 2:spades:: 5+:spades: weaker than to bid Dbl
 > Question we might think: **If the responder have 0 HCP then what he can do?** *Actually playing 1NTX is much better than playing suits in 2 level*. That is the main philosophy!
+# Rules of thamb:
+## Rule of 20:
+> Guideline for opening bid less than 12 HCP.
+Count the total HCP and then add total number of cards of longest suits, if the value is equal or more than 20 then open at 1 level.
+
+## Restricted play
