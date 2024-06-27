@@ -56,7 +56,18 @@ or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span
 - 2NT ( 4+ cards limit raise)
 - Cuebid (3 cards limit raise)
 - All other hands, X  
-
+# Weak 2 Opening
+> With exactly 6 cards having 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>
+Responder bids
+- 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*)
+  - **Ogust** bids are following
+  - 3<span style="color:black;">♣</span>: one of the top three honor 6-8 pts
+  - 3<span style="color:red;">♦</span>: two of the top three honor 6-8 pts
+  - 3<span style="color:red;">♥</span>: one of the top three honor 9-11 pts
+  - 3<span style="color:black;">♠</span>: two of the top three honor 9-11 pts
+  - 3NT: three of the top three honor 9-11 pts
+- 3<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: If you have 3 cards fit no interested in game. ***Law of total tricks***
+- 4<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: 4 cards fit
 # Lebensohls
 ## When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
