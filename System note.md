@@ -35,7 +35,7 @@
 With 3 card minors,  bid 3!c puppet Stayman
   - 3!d denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
-      - 3!s/3!h (4cM)
+      - 3!s/3!h (4ocM)
   - 3!h/3!s: 5 cM
   - 3NT (no 5cM or 4cM)
 
