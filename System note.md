@@ -56,7 +56,18 @@ or 1!s-(2!c/2!d/2!h)-?
 - 2NT ( 4+ cards limit raise)
 - Cuebid (3 cards limit raise)
 - All other hands, X  
-
+# Weak 2 Opening
+> With exactly 6 cards having 6-11 pts(Not HCP) open 2!d/!h/!s
+Responder bids
+- 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*)
+  - **Ogust** bids are following
+  - 3!c: one of the top three honor 6-8 pts
+  - 3!d: two of the top three honor 6-8 pts
+  - 3!h: one of the top three honor 9-11 pts
+  - 3!s: two of the top three honor 9-11 pts
+  - 3NT: three of the top three honor 9-11 pts
+- 3!d/!h/!s: If you have 3 cards fit no interested in game. ***Law of total tricks***
+- 4!d/!h/!s: 4 cards fit
 # Lebensohls
 ## When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
