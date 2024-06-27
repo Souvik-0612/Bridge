@@ -50,8 +50,8 @@ With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman
    - Real NT hands, 10+ pts 
 
 ## When opponents interfere with suit bid
- 1<span style="color:red;">♥</span>~(1<span style="color:black;">♠</span>/2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>) ~?   
-or 1<span style="color:black;">♠</span> ~ (2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>) ~?
+ 1<span style="color:red;">♥</span>-(1<span style="color:black;">♠</span>/2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>)-?   
+or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>)-?
 
 - 2NT ( 4+ cards limit raise)
 - Cuebid (3 cards limit raise)
@@ -167,7 +167,6 @@ Examples:
   - cuebid, serious slam try.
 
 # XYZ Continuations
-
 Perhaps it is useful to separate auctions XYNT and XYZ.
 
 ### 1m-1M-1NT
@@ -191,9 +190,7 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
    -  3m raise after relay 1m-1M-1NT-2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3m
   
 ## 1x-1y-1z
-
-
-**Work under progress**
+Work under progress
 
 
 # Defence against 2 suiters
