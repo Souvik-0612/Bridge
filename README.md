@@ -35,7 +35,7 @@
 With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
-      - 3<span style="color:black;">♠</span>/3<span style="color:red;">♥</span> (4cM)
+      - 3<span style="color:black;">♠</span>/3<span style="color:red;">♥</span> (4ocM)
   - 3<span style="color:red;">♥</span>/3<span style="color:black;">♠</span>: 5 cM
   - 3NT (no 5cM or 4cM)
 
