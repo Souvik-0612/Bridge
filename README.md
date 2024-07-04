@@ -65,55 +65,8 @@ Responder bids
   - 3<span style="color:red;">♥</span>: one of the top three honor 9-11 pts
   - 3<span style="color:black;">♠</span>: two of the top three honor 9-11 pts
   - 3NT: three of the top three honor 9-11 pts
-- 3<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: If you have 3 cards fit no interested in game. ***Law of total tricks***
+- 3<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: If you have 3 card support and not interested in game. Law of total tricks. RONF (Raise only non forcing)
 - 4<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: 4 cards fit
-# Lebensohls
-## When Opponents interfere with our 1NT opening
-This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
-
-When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠</span>)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3<span style="color:black;">♣</span> relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *slow denies* version, which is in contrast to the more popular *slow shows* version.
-
-
-*Example with 3 levels*, weak, invit and GF
-- 1NT-(2<span style="color:red;">♥</span>)-2<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span>, want to sign off)
-- 1NT-(2<span style="color:red;">♥</span>)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span>, invitational )
-- 1NT-(2<span style="color:red;">♥</span>)-3<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span> game forcing)
-
-*Example with 2 levels, no invitational sequence*:
-- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:red;">♥</span> (<span style="color:red;">♥</span>, want to sign off)
-- 1NT-(2<span style="color:black;">♠</span>)-3<span style="color:red;">♥</span> (<span style="color:red;">♥</span>, game force)
-
-*Stronger Hands, stopper showing (slow denies, fast shows)*
-- 1NT-(2<span style="color:black;">♠</span>)-3NT (game force, <span style="color:black;">♠</span> stopper fast shows)
-- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:black;">♣</span>-3NT (game force, no <span style="color:black;">♠</span> stopper, slow denies)
-
-*Other Major, "Stayman in the other major"*
-- 1NT-(2<span style="color:black;">♠</span>)-3<span style="color:black;">♠</span> (game force, 4<span style="color:red;">♥</span>, <span style="color:black;">♠</span> stopper, fast shows)
-- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (game force, no <span style="color:black;">♠</span> stopper, slow denies)
-
-
-
-
-
-## When partner doubles their weak TWO
-
-This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
-
-*Examples when 3 levels of bids are available*
-- 2<span style="color:red;">♥</span>-(x)-2<span style="color:black;">♠</span> (weak)
-- 2<span style="color:red;">♥</span>-(x)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (invit)
-- 2<span style="color:red;">♥</span>-(x)- 3<span style="color:black;">♠</span> (GF)
-
-*Examples when 2 levels of bids are available* 
-- 2<span style="color:black;">♠</span>-2NT-3<span style="color:black;">♣</span>-3<span style="color:red;">♦</span> (weak, could be 0 points, instead of invit)
-- 2<span style="color:black;">♠</span>-3<span style="color:red;">♦</span> (invit, 8/9+, instead of GF)
-
-The cuebid-stayman and 3NT bids are 
-## After a simple reverse
-Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>     
--  2NT( Lebensohl), weak. < 8 pts, relay to 3<span style="color:black;">♣</span> 
-    -  Any other bid (disobeying the relay) shows GF from the opener
-- Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
 
 # 2/1 Continuations
 ## Standard sequences
@@ -203,8 +156,80 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 Work under progress
 
 
-# Defence against 2 suiters
-  > The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm):   
+
+# Jacoby 2NT  
+1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
+1M-2NT-?  
+- 3(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
+- 3M: Interest in slam
+- 3NT: balanced hand, 12-14 HCP
+- 4(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): 5 cards  
+>Note :
+1. You cannot bid 1<span style="color:red;">♥</span>-2NT-4<span style="color:black;">♠</span> to show 5 cards <span style="color:black;">♠</span> because we cannot stop at 4<span style="color:red;">♥</span> level!  
+2. The priority of bids: 
+- First show the 5 cards other suit.
+- Second show the short suit.  
+
+After the opener bid any bid by the responder is **control bids** and 4NT is RKCB.
+
+
+
+# Extended Michaels and U2NT (minimax style)
+## Leaping Michaels
+> This is not as frequent as the above.  
+
+(2<span style="color:black;">♠</span>/<span style="color:red;">♥</span>)-?  
+- 4<span style="color:black;">♣</span>/<span style="color:red;">♦</span>(jump bid): min 5-5 cards <span style="color:black;">♣</span>/<span style="color:red;">♦</span> with <span style="color:red;">♥</span>/<span style="color:black;">♠</span>  
+
+(2<span style="color:red;">♦</span>)-?  
+- 
+# General Competitive Auction agreements
+## Bidding new suits: +ve and -ve Freebids 
+ - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
+ - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
+
+After an interference 
+
+1. 2 level bids in new suits are 10+ points and show 5 cards (not 4) .
+2. 3 level bids in new suit GF. 
+
+Examples :
+1. 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span>)-2<span style="color:red;">♦</span> (5 <span style="color:red;">♦</span>s, 10+ points).
+2. 1<span style="color:black;">♠</span>-(2<span style="color:red;">♥</span>)-3<span style="color:black;">♣</span> (5 <span style="color:black;">♣</span>s, game forcing)
+3. 1<span style="color:red;">♦</span>-(1<span style="color:red;">♥</span>)-1<span style="color:black;">♠</span> (5 <span style="color:black;">♠</span>s, 6+ points. With 4 <span style="color:black;">♠</span> s, bid Neg. X)
+4. 1<span style="color:black;">♣</span>-(1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>/1<span style="color:red;">♥</span>( 4 cards, X shows 4-4 in majors)
+5. 1<span style="color:black;">♣</span>-(1<span style="color:red;">♥</span>)-1<span style="color:black;">♠</span>( 5 cards, neg. X shows 4 <span style="color:black;">♠</span>)
+
+*Negative Freebids* (weak, <10 points) also show 5 cards. They are applicable after opponents double, or bid NT.  Examples :
+
+1. 1<span style="color:red;">♥</span>-(X)-1<span style="color:black;">♠</span> (5<span style="color:black;">♠</span>, <10 points. With more than 10 points we Rdbl).
+1. 1<span style="color:red;">♥</span>-(X)-2<span style="color:black;">♣</span> (5<span style="color:black;">♠</span>, <10 points. With more than 10 points we Rdbl).
+2. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-(P)-2<span style="color:black;">♣</span> (*Positive Freebid*, 10+ points 5<span style="color:black;">♣</span>).
+3. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-1NT-2<span style="color:black;">♣</span> (*negative Freebid*, <10 points, 5<span style="color:black;">♣</span>) 
+
+## 2 suiters: Extended Michaels and U2NT
+
+We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
+Responder assumes the weaker hand. Opener must bid again with the stronger hand.
+### U2NT 
+***Shows 2 lowest unbid suits***
+
+1<span style="color:red;">♥</span>-(2NT):<span style="color:red;">♦</span> and <span style="color:black;">♣</span>   
+1<span style="color:black;">♠</span>-(2NT):  <span style="color:red;">♦</span> and <span style="color:black;">♣</span>   
+1<span style="color:black;">♣</span>-(2NT) <span style="color:red;">♦</span> and <span style="color:red;">♥</span>   
+1<span style="color:red;">♦</span>-(2NT) <span style="color:red;">♥</span> and <span style="color:black;">♣</span>  
+
+
+### Extended Michaels :  
+***Highest and another Lower suit***     
+
+1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span>)- <span style="color:black;">♠</span> and minor  
+1<span style="color:black;">♠</span>-(2<span style="color:black;">♠</span>)- <span style="color:red;">♥</span> and minor  
+1<span style="color:red;">♦</span>-(2<span style="color:red;">♦</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>  
+1<span style="color:black;">♣</span>-(2<span style="color:black;">♣</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>
+
+## Defence against 2 suiters
+The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The same system can be used when our 1NT is interferred with 2-suited bids. But wecome back to it later   
 
 **Both Suits are Known**
 
@@ -228,68 +253,65 @@ Work under progress
 - 3<span style="color:red;">♥</span>: hearts with preemptive quality, weaker than limit raise
 - 4<span style="color:black;">♣</span>/4<span style="color:red;">♦</span>/3<span style="color:black;">♠</span>: splinter type bids
 
-# Jacoby 2NT  
-1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
-1M-2NT-?  
-- 3(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
-- 3M: Interest in slam
-- 3NT: balanced hand, 12-14 HCP
-- 4(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): 5 cards  
->Note :
-1. You cannot bid 1<span style="color:red;">♥</span>-2NT-4<span style="color:black;">♠</span> to show 5 cards <span style="color:black;">♠</span> because we cannot stop at 4<span style="color:red;">♥</span> level!  
-2. The priority of bids: 
-- First show the 5 cards other suit.
-- Second show the short suit.  
+# Lebensohls
+## When Opponents interfere with our 1NT opening
+This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
 
-After the opener bid any bid by the responder is **control bids** and 4NT is RKCB.
+When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠</span>)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3<span style="color:black;">♣</span> relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *FASS* (Fast arrival shows stoppers) version, or *slow denies, fast shows* version, which is in contrast to the more popular *slow shows* version.
 
 
+*Example with 3 levels*, weak, invit and GF
+- 1NT-(2<span style="color:red;">♥</span>)-2<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span>, want to sign off)
+- 1NT-(2<span style="color:red;">♥</span>)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span>, invitational )
+- 1NT-(2<span style="color:red;">♥</span>)-3<span style="color:black;">♠</span> (5/6 <span style="color:black;">♠</span> game forcing)
 
-# Extended Michaels and U2NT (minimax style)
->Minimax Style: With 11-15 HCP open the **higher** suit.
-Responder assumes the weaker hand. Opener must bid again with the stronger hand.
-## U2NT
-***Shows 2 lowest unbid suits***
+*Example with 2 levels, no invitational sequence*:
+- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:red;">♥</span> (<span style="color:red;">♥</span>, want to sign off)
+- 1NT-(2<span style="color:black;">♠</span>)-3<span style="color:red;">♥</span> (<span style="color:red;">♥</span>, game force)
 
-1<span style="color:red;">♥</span>-(2NT):<span style="color:red;">♦</span> and <span style="color:black;">♣</span>   
-1<span style="color:black;">♠</span>-(2NT):  <span style="color:red;">♦</span> and <span style="color:black;">♣</span>   
-1<span style="color:black;">♣</span>-(2NT) <span style="color:red;">♦</span> and <span style="color:red;">♥</span>   
-1<span style="color:red;">♦</span>-(2NT) <span style="color:red;">♥</span> and <span style="color:black;">♣</span>  
+*Stronger Hands, stopper showing (slow denies, fast shows)*
+- 1NT-(2<span style="color:black;">♠</span>)-3NT (game force, <span style="color:black;">♠</span> stopper fast shows)
+- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:black;">♣</span>-3NT (game force, no <span style="color:black;">♠</span> stopper, slow denies)
+
+*Other Major, "Stayman in the other major"*
+- 1NT-(2<span style="color:black;">♠</span>)-3<span style="color:black;">♠</span> (game force, 4<span style="color:red;">♥</span>, <span style="color:black;">♠</span> stopper, fast shows)
+- 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (game force, no <span style="color:black;">♠</span> stopper, slow denies)
 
 
-## Extended Michaels :  
-***Highest and another Lower suit***     
 
-1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span>)- <span style="color:black;">♠</span> and minor  
-1<span style="color:black;">♠</span>-(2<span style="color:black;">♠</span>)- <span style="color:red;">♥</span> and minor  
-1<span style="color:red;">♦</span>-(2<span style="color:red;">♦</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>  
-1<span style="color:black;">♣</span>-(2<span style="color:black;">♣</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>
 
-## Leaping Michaels
-> This is not as frequent as the above.  
 
-(2<span style="color:black;">♠</span>/<span style="color:red;">♥</span>)-?  
-- 4<span style="color:black;">♣</span>/<span style="color:red;">♦</span>(jump bid): min 5-5 cards <span style="color:black;">♣</span>/<span style="color:red;">♦</span> with <span style="color:red;">♥</span>/<span style="color:black;">♠</span>  
+## When partner doubles their weak TWO
 
-(2<span style="color:red;">♦</span>)-?  
-- 
-# General Competitive Auction agreements
-Generally, after interference we play *Positive Freebids* 
-1. 2 level bids in new suits are 10+ points and show 5 cards (not 4) .
-2. 3 level bids in new suit GF. 
+This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
-Examples :
-1. 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span>)-2<span style="color:red;">♦</span> (5 <span style="color:red;">♦</span>s, 10+ points).
-2. 1<span style="color:black;">♠</span>-(2<span style="color:red;">♥</span>)-3<span style="color:black;">♣</span> (5 <span style="color:black;">♣</span>s, game forcing)
-3. 1<span style="color:red;">♦</span>-(1<span style="color:red;">♥</span>)-1<span style="color:black;">♠</span> (5 <span style="color:black;">♠</span>s, 6+ points. With 4 <span style="color:black;">♠</span> s, bid Neg. X)
-4. 1<span style="color:black;">♣</span>-(1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>/1<span style="color:red;">♥</span>( 4 cards, double shows 4-4 in majors)
+*Examples when 3 levels of bids are available*
+- 2<span style="color:red;">♥</span>-(x)-2<span style="color:black;">♠</span> (weak)
+- 2<span style="color:red;">♥</span>-(x)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (invit)
+- 2<span style="color:red;">♥</span>-(x)- 3<span style="color:black;">♠</span> (GF)
 
-*Negative Freebids* (weak, <10 points) also show 5 cards. They are applicable after opponents double, or bid NT.  Examples :
+*Examples when 2 levels of bids are available* 
+- 2<span style="color:black;">♠</span>-2NT-3<span style="color:black;">♣</span>-3<span style="color:red;">♦</span> (weak, could be 0 points, instead of invit)
+- 2<span style="color:black;">♠</span>-3<span style="color:red;">♦</span> (invit, 8/9+, instead of GF)
 
-1. 1<span style="color:red;">♥</span>-(X)-1<span style="color:black;">♠</span> (5<span style="color:black;">♠</span>, <10 points. With more than 10 points we Rdbl).
-2. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-(P)-2<span style="color:black;">♣</span> (*Positive Freebid*, 10+ points 5<span style="color:black;">♣</span>).
-3. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-1NT-2<span style="color:black;">♣</span> (*negative Freebid*, <10 points, 5<span style="color:black;">♣</span>) 
+The cuebid-stayman and 3NT bids are 
+## After a simple reverse
+Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>     
+-  2NT( Lebensohl), weak. < 8 pts, relay to 3<span style="color:black;">♣</span> 
+    -  Any other bid (disobeying the relay) shows GF from the opener
+- Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
+
 # ~Interfere with our 2NT opening or puppet Stayman~ 
+## Strong 2<span style="color:black;">♣</span> opening
+- Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
+- There are  **only two non-forcing** sequences:
+    1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
+    2. Responder bids cheapest new suit at 3 level called a *second negative*
+          1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (2nd neg)-3<span style="color:black;">♠</span>
+          2. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
+          3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
+ - Kokish Relay. What does it do?
+
 # Slam Bidding Agreements
 Presently we play RKC 1430 with King ask showing specific kings. 
 Future Improvements:
@@ -297,6 +319,7 @@ Future Improvements:
   - Kickback
   - Exclusion Keycard
   - Standard void showing responses.
+  - Kantar's book
 # Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
 # SOS redouble
@@ -315,8 +338,10 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 * SOS Rdbl is upto 3 level!
 1. We can find some example in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
 2. (Write whatever you like from the "considerations" section of bridgebum)
-# Touching Escapes
-> If opponents dbl after your(partner) 1NT as panalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
+# Runouts (Run after opponents double 1NT)
+
+## Touching Escapes
+> If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 
 1NT-(Dbl*)-?
 - Pass: At least 4-4 in two ***non-touching suit***(e.g, <span style="color:black;">♣</span> and <span style="color:red;">♥</span> or <span style="color:black;">♣</span> and :spades: or <span style="color:red;">♦</span> and :spades:) forcing partner to bid Rdbl
@@ -328,12 +353,15 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 - Rbl: One suited hand. Forcing partner to bid 2<span style="color:black;">♣</span>
   - Pass: Responder have 5+ <span style="color:black;">♣</span>s
   - 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/:spades:: 5+ Cards
-- 2<span style="color:black;">♣</span>: At least 4-4 in ***toucing suits*** (<span style="color:black;">♣</span> and <span style="color:red;">♦</span>)
-- 2<span style="color:red;">♦</span>: At least 4-4 in ***toucing suits*** <span style="color:red;">♦</span> and <span style="color:red;">♥</span>
-- 2<span style="color:red;">♥</span>: At least 4-4 in ***toucing suits*** <span style="color:red;">♥</span> and :spades:
+- 2<span style="color:black;">♣</span>: At least 4-4 in ***touching suits*** (<span style="color:black;">♣</span> and <span style="color:red;">♦</span>)
+- 2<span style="color:red;">♦</span>: At least 4-4 in ***touching suits*** <span style="color:red;">♦</span> and <span style="color:red;">♥</span>
+- 2<span style="color:red;">♥</span>: At least 4-4 in ***touching suits*** <span style="color:red;">♥</span> and :spades:
 - 2:spades:: 5+:spades: weaker than to bid Dbl
 > Question we might think: **If the responder have 0 HCP then what he can do?** *Actually playing 1NTX is much better than playing suits in 2 level*. That is the main philosophy!
-# Rules of thamb:
+
+## Are we just playing DONT here ?
+
+# Rules of thumb:
 ## Rule of 20:
 > Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add total number of cards of longest suits, if the value is equal or more than 20 then open at 1 level.
