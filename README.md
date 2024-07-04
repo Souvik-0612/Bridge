@@ -302,7 +302,7 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
 
-## Strong 2<span style="color:black;">♣</span> opening
+# Strong 2<span style="color:black;">♣</span> opening
 - Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
@@ -310,7 +310,8 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
           1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (2nd neg)-3<span style="color:black;">♠</span>
           2. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
- - [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR). What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
+## [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+> What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
     - Balanced  Hands
         1. Strong Balanced hand: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-2NT (24/25+ pts)
         2. Weak Balanced hand:  2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (22-23/24 pts)
