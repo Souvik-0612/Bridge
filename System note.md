@@ -302,7 +302,7 @@ Simple reverse: 1!d-1!s-2!h
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1!d-1!s-2!h-2!s usually shows 6 !s, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
 
-## Strong 2!c opening
+# Strong 2!c opening
 - Standard 2!c, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2!c-2!d-2NT (shows 22-23/24 pts) 
@@ -310,7 +310,8 @@ Simple reverse: 1!d-1!s-2!h
           1. 2!c-2!d-2!s-3!c (2nd neg)-3!s
           2. 2!c-2!d-3!d-3!h(2nd neg)-4!d
           3. 2!c-2!d-2!s-3!c-3!s-4!c (responder rebids 2nd neg. suit to say he has real !c)
- - [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR). What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
+## [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+> What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
     - Balanced  Hands
         1. Strong Balanced hand: 2!c-2!d-2!h-2!s-2NT (24/25+ pts)
         2. Weak Balanced hand:  2!c-2!d-2NT (22-23/24 pts)
