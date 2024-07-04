@@ -174,15 +174,6 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 
 
-# Extended Michaels and U2NT (minimax style)
-## Leaping Michaels
-> This is not as frequent as the above.  
-
-(2<span style="color:black;">♠</span>/<span style="color:red;">♥</span>)-?  
-- 4<span style="color:black;">♣</span>/<span style="color:red;">♦</span>(jump bid): min 5-5 cards <span style="color:black;">♣</span>/<span style="color:red;">♦</span> with <span style="color:red;">♥</span>/<span style="color:black;">♠</span>  
-
-(2<span style="color:red;">♦</span>)-?  
-- 
 # General Competitive Auction agreements
 ## Bidding new suits: +ve and -ve Freebids 
  - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
@@ -227,6 +218,15 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:black;">♠</span>-(2<span style="color:black;">♠</span>)- <span style="color:red;">♥</span> and minor  
 1<span style="color:red;">♦</span>-(2<span style="color:red;">♦</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>  
 1<span style="color:black;">♣</span>-(2<span style="color:black;">♣</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>
+
+### Leaping and non-leaping Michaels
+
+Extend Michaels' philosophy to over calls of weak 2 and weak 3 bids
+
+
+(2<span style="color:black;">♠</span>/<span style="color:red;">♥</span>)-?  
+- 4<span style="color:black;">♣</span>/<span style="color:red;">♦</span>(jump bid): min 5-5 cards <span style="color:black;">♣</span>/<span style="color:red;">♦</span> with <span style="color:red;">♥</span>/<span style="color:black;">♠</span>  
+(2<span style="color:red;">♦</span>)-?  
 
 ## Defence against 2 suiters
 The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The same system can be used when our 1NT is interferred with 2-suited bids. But wecome back to it later   
@@ -294,14 +294,14 @@ This situation is similar to the case after 1NT, but after a takeout double the 
 - 2<span style="color:black;">♠</span>-2NT-3<span style="color:black;">♣</span>-3<span style="color:red;">♦</span> (weak, could be 0 points, instead of invit)
 - 2<span style="color:black;">♠</span>-3<span style="color:red;">♦</span> (invit, 8/9+, instead of GF)
 
-The cuebid-stayman and 3NT bids are 
+The cuebid-stayman and 3NT bids are game-forcing, as after 1NT, employing FASS as usual
+
 ## After a simple reverse
 Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>     
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3<span style="color:black;">♣</span> 
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
 
-# ~Interfere with our 2NT opening or puppet Stayman~ 
 ## Strong 2<span style="color:black;">♣</span> opening
 - Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
@@ -310,7 +310,19 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
           1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (2nd neg)-3<span style="color:black;">♠</span>
           2. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
- - Kokish Relay. What does it do?
+ - [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR). What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
+    - Balanced  Hands
+        1. Strong Balanced hand: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-2NT (24/25+ pts)
+        2. Weak Balanced hand:  2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (22-23/24 pts)
+    - Real hearts
+        1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:red;">♥</span> (6 hearts single suiter)
+        2. with 5-3-3-2 and 5 hearts, bid NT (as usual)
+    - Two suiters with hearts
+        1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (double suiter, hearts and <span style="color:black;">♣</span>, 5-4 or better)
+    - Two suiters with spades (later)
+    
+    
+
 
 # Slam Bidding Agreements
 Presently we play RKC 1430 with King ask showing specific kings. 
@@ -323,12 +335,12 @@ Future Improvements:
 # Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
 # SOS redouble
-> This is essentisl to rescue from panalty dbl.  
+> This is essentisl to rescue from penalty dbl.  
 
 Consider the following,  
 (1<span style="color:red;">♦</span>)-2<span style="color:black;">♣</span>-(Pass)-Pass  
 (Dbl)-Pass-(Pass*)-?  
-(*) Making the Dbl to panalty.  
+(*) Making the Dbl to penalty.  
 And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span style="color:black;">♣</span>3<span style="color:red;">♦</span>54, would you pass at this situation?  
 **No!** You should ***Rdbl*** to tell the partner bid any ***unbid*** suit.  
 
@@ -336,14 +348,14 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 * Support at least 4-4 cards in unbid suit.
 * Lack of support partner's suit.  
 * SOS Rdbl is upto 3 level!
-1. We can find some example in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
+1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
 2. (Write whatever you like from the "considerations" section of bridgebum)
 # Runouts (Run after opponents double 1NT)
 
 ## Touching Escapes
 > If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 
-1NT-(Dbl*)-?
+1NT-(X)-?
 - Pass: At least 4-4 in two ***non-touching suit***(e.g, <span style="color:black;">♣</span> and <span style="color:red;">♥</span> or <span style="color:black;">♣</span> and :spades: or <span style="color:red;">♦</span> and :spades:) forcing partner to bid Rdbl
   - Pass: Balanced hand with pts. "Dekhe nebo opponent k 🤣🤣"
   - 2<span style="color:black;">♣</span>: <span style="color:black;">♣</span> and a higher (<span style="color:red;">♥</span>/:spades:)
@@ -359,7 +371,15 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 - 2:spades:: 5+:spades: weaker than to bid Dbl
 > Question we might think: **If the responder have 0 HCP then what he can do?** *Actually playing 1NTX is much better than playing suits in 2 level*. That is the main philosophy!
 
-## Are we just playing DONT here ?
+## Moscow Escapes (DONT)
+
+1NT-(X)-?
+  - Pass, to play
+  - XX, single suiter, opener bids 2<span style="color:black;">♣</span>
+  - 2<span style="color:black;">♣</span>, <span style="color:black;">♣</span> and higher
+  - 2<span style="color:red;">♦</span>, <span style="color:red;">♦</span> and higher
+  - 2<span style="color:red;">♥</span>, <span style="color:red;">♥</span> and <span style="color:black;">♠</span>
+  - 2<span style="color:black;">♠</span>, 5+ spades
 
 # Rules of thumb:
 ## Rule of 20:
