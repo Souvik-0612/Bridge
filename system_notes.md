@@ -299,7 +299,7 @@ Simple reverse: 1!d-1!s-2!h
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1!d-1!s-2!h-2!s usually shows 6 !s, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
 
-# Strong 2Club opening
+# Strong 2 !c opening
 - Standard 2!c, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2!c-2!d-2NT (shows 22-23/24 pts) 
