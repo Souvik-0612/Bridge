@@ -40,7 +40,7 @@ def add_back_to_toc_links(markdown_text):
         link = re.sub(r'\s+', '-', link)  # Create anchor link
         anchor="<a id=\"%s\"> </a>"%(link)
         #new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back☝️](#table-of-contents)\n")
-        new_content.append(f"{anchor} {header} {title}\n{content.strip()}\n\n[🔙](#table-of-contents)\n")
+        new_content.append(f"{anchor}{header} {title}\n{content.strip()}\n\n[🔙](#table-of-contents)\n")
     
     return sections[0] + "".join(new_content)
 
