@@ -7,7 +7,7 @@
   - [When opponents double](#when-opponents-double)
   - [When opponents interfere with suit bid](#when-opponents-interfere-with-suit-bid)
 - [Weak 2 Opening](#weak-2-opening)
-- [2/1 Continuations](#2/1-continuations)
+- [2 ove 1 Continuations](#2-ove-1-continuations)
   - [Standard sequences](#standard-sequences)
   - [Picture-bid sequences](#picture-bid-sequences)
 - [XYZ Continuations](#xyz-continuations)
@@ -114,7 +114,7 @@ Responder bids
 - 4<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: 4 cards fit
 
 [🔙](#table-of-contents)
-# 2/1 Continuations
+# 2 ove 1 Continuations
 
 
 [🔙](#table-of-contents)
