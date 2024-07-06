@@ -20,11 +20,12 @@ def add_back_to_toc_links(markdown_text):
     sections = header_regex.split(markdown_text)
     
     new_content = [sections[0]]  # Initial content before the first header
-    for i in range(1, len(sections), 2):
+    for i in range(1, len(sections), 3):
         if sections[i].startswith('#'):
             header = sections[i]
             title = sections[i+1].strip()
-            new_content.append(f"{header} {title}\n\n{sections[i+2].strip()}\n\n[Back☝️](#table-of-contents)\n")
+            content = sections[i+2].strip()
+            new_content.append(f"{header} {title}\n\n{content}\n\n[Back☝️](#table-of-contents)\n")
         else:
             new_content.append(sections[i] + sections[i+1])
     
