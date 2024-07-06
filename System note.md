@@ -174,7 +174,7 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 # General Competitive Auction agreements
 
-## Bidding new suits: +ve and -ve Freebids
+## Bidding new suits (+ve and -ve Freebids)
  - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
@@ -197,7 +197,7 @@ Examples :
 2. (1!d)-1!s-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
 3. (1!d)-1!s-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
 
-## 2 suiters: Extended Michaels and U2NT
+## Two suiter
 
 We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
@@ -362,8 +362,8 @@ And you have the hand !s Q8543!hKj954!c3!d54, would you pass at this situation?
   - 2!h, !h and !s
   - 2!s, 5+ spades
 
-# Rules of thumb:
-## Rule of 20:
+# Rules of thumb
+## Rule of 20
 > Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
