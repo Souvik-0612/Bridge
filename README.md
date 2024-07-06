@@ -45,7 +45,6 @@
 - With 5-4 in majors 
    - First bid 2<span style="color:black;">♣</span> stayman, raise if supported.
    - After 2<span style="color:red;">♦</span> response, 
-       -  ~~bid 2<span style="color:black;">♠</span> (inv), 3<span style="color:black;">♠</span>( GF) with 5<span style="color:black;">♠</span>, without Smolen~~
        - bid 2<span style="color:black;">♠</span> (inv), 3<span style="color:red;">♥</span> (GF) with Smolen
 - With 4-5 in majors 
    - inv: transfer to <span style="color:red;">♥</span> and bid 2<span style="color:black;">♠</span> 
@@ -67,7 +66,7 @@
          - bid shortness with strong hand.
 
 
-~To include: 3<span style="color:black;">♣</span> as 5 card GF stayman~
+- 1NT-3<span style="color:black;">♣</span>-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener.
 
 [Back](#table-of-contents)
 ## 2NT opening
@@ -370,8 +369,10 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
           1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (2nd neg)-3<span style="color:black;">♠</span>
           2. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
-[Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
-> What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
+
+ ### [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+
+ Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
 
 - Balanced  Hands
    1. Strong Balanced hand: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-2NT (24/25+ pts)
@@ -382,6 +383,7 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
 - Two suiters with hearts
    1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (double suiter, hearts and <span style="color:black;">♣</span>, 5-4 or better)
 - Two suiters with spades (later)
+- Unassigned sequence: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♥</span> (without relay)
 
 [Back](#table-of-contents)
 # Slam Bidding Agreements
