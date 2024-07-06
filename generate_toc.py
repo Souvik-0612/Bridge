@@ -15,8 +15,8 @@ def generate_toc(markdown_text):
     return "\n".join(toc_lines)
 
 def add_back_to_toc_links(markdown_text):
-    # Regular expression to match markdown headers
-    header_regex = re.compile(r'^(#{1,6})\s*(.+)$', re.MULTILINE)
+    # Regular expression to match top-level headers
+    header_regex = re.compile(r'^(#)\s*(.+)$', re.MULTILINE)
     sections = header_regex.split(markdown_text)
     
     new_content = []
