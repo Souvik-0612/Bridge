@@ -174,7 +174,7 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 # General Competitive Auction agreements
 
-## Bidding new suits (+ve and -ve Freebids)
+## Freebids of new suits
  - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 

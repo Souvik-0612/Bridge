@@ -9,7 +9,9 @@ def generate_toc(markdown_text):
     for match in matches:
         level = len(match[0])
         title = match[1]
-        link = re.sub(r'\s+', '-', title.lower())  # Create anchor link
+        link=title.lower()
+        link=re.sub(r'\s+$','',link)
+        link = re.sub(r'\s+', '-', link)  # Create anchor link
         toc_lines.append(f"{'  ' * (level - 1)}- [{title}](#{link})")
     
     return "\n".join(toc_lines)
@@ -24,8 +26,12 @@ def add_back_to_toc_links(markdown_text):
         header = sections[i]
         title = sections[i+1]
         content = sections[i+2]
+        print(header)
+        print(title)
+        print(content)
         
-        new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back☝️](#table-of-contents)\n")
+        #new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back☝️](#table-of-contents)\n")
+        new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back](#table-of-contents)\n")
     
     return sections[0] + "".join(new_content)
 
