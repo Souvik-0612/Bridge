@@ -25,7 +25,7 @@
   - [When Opponents interfere with our 1NT opening](#when-opponents-interfere-with-our-1nt-opening)
   - [When partner doubles their weak TWO](#when-partner-doubles-their-weak-two)
   - [After a simple reverse](#after-a-simple-reverse)
-- [Strong 2<span style="color:black;">♣</span> opening](#strong-2<span-style="color:black;">♣</span>-opening)
+- [Strong 2Club opening](#strong-2club-opening)
 - [Slam Bidding Agreements](#slam-bidding-agreements)
 - [Scoring techniques matter!](#scoring-techniques-matter!)
 - [SOS redouble](#sos-redouble)
@@ -362,7 +362,7 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
 - Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
 
 [Back☝️](#table-of-contents)
-# Strong 2<span style="color:black;">♣</span> opening
+# Strong 2Club opening
 - Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
