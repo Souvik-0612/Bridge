@@ -322,8 +322,10 @@ Simple reverse: 1!d-1!s-2!h
    1. 2!c-2!d-2!h-2!s-3!c (double suiter, hearts and !c, 5-4 or better)
 - Two suiters with spades (later)
 - Unassigned sequence: 2!c-2!d-3!h (without relay)
-    
-    
+
+# Opponents don't play standard systems
+## Precision 2!c opening
+> Treat as **natural**.
 
 
 # Slam Bidding Agreements
