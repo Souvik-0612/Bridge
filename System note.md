@@ -64,7 +64,7 @@ Responder bids
 - 3!d/!h/!s: If you have 3 card support and not interested in game. Law of total tricks. RONF (Raise only non forcing)
 - 4!d/!h/!s: 4 cards fit
 
-# 2/1 Continuations
+# 2 ove 1 Continuations
 ## Standard sequences
 1!s-2!c-2!s :  5 cards  
 1!s-2!c-2!d/2!h:  4 !d/!h   
