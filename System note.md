@@ -5,7 +5,6 @@
 - With 5-4 in majors 
    - First bid 2!c stayman, raise if supported.
    - After 2!d response, 
-       -  ~~bid 2!s (inv), 3!s( GF) with 5!s, without Smolen~~
        - bid 2!s (inv), 3!h (GF) with Smolen
 - With 4-5 in majors 
    - inv: transfer to !h and bid 2!s 
@@ -27,8 +26,7 @@
          - bid shortness with strong hand.
 
 
-~To include: 3!c as 5 card GF stayman~
-
+- 1NT-3!c-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
 ## 2NT opening
 With 3 card minors,  bid 3!c puppet Stayman
   - 3!d denies 5 card major (has one 4cM)
@@ -309,8 +307,10 @@ Simple reverse: 1!d-1!s-2!h
           1. 2!c-2!d-2!s-3!c (2nd neg)-3!s
           2. 2!c-2!d-3!d-3!h(2nd neg)-4!d
           3. 2!c-2!d-2!s-3!c-3!s-4!c (responder rebids 2nd neg. suit to say he has real !c)
-[Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
-> What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
+
+ ### [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+
+ Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
 
 - Balanced  Hands
    1. Strong Balanced hand: 2!c-2!d-2!h-2!s-2NT (24/25+ pts)
@@ -321,6 +321,7 @@ Simple reverse: 1!d-1!s-2!h
 - Two suiters with hearts
    1. 2!c-2!d-2!h-2!s-3!c (double suiter, hearts and !c, 5-4 or better)
 - Two suiters with spades (later)
+- Unassigned sequence: 2!c-2!d-3!h (without relay)
     
     
 
