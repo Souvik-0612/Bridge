@@ -312,15 +312,16 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
           3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
 ## [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
 > What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
-    - Balanced  Hands
-        1. Strong Balanced hand: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-2NT (24/25+ pts)
-        2. Weak Balanced hand:  2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (22-23/24 pts)
-    - Real hearts
-        1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:red;">♥</span> (6 hearts single suiter)
-        2. with 5-3-3-2 and 5 hearts, bid NT (as usual)
-    - Two suiters with hearts
-        1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (double suiter, hearts and <span style="color:black;">♣</span>, 5-4 or better)
-    - Two suiters with spades (later)
+
+- Balanced  Hands
+   1. Strong Balanced hand: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-2NT (24/25+ pts)
+   2. Weak Balanced hand:  2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (22-23/24 pts)
+- Real hearts
+   1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:red;">♥</span> (6 hearts single suiter)
+   2. with 5-3-3-2 and 5 hearts, bid NT (as usual)
+- Two suiters with hearts
+   1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (double suiter, hearts and <span style="color:black;">♣</span>, 5-4 or better)
+- Two suiters with spades (later)
     
     
 
