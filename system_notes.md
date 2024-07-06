@@ -1,5 +1,5 @@
 # No-Trump Openings
-## 1NT opening @-lol
+## 1NT opening
 - With 4-4 Stayman 
 - With 5-5 in majors, Transfer to !s and then bid !h (GF)
 - With 5-4 in majors 
