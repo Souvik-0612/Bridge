@@ -5,7 +5,7 @@ def generate_toc(markdown_text):
     header_regex = re.compile(r'^(#{1,6})\s*(.+)$', re.MULTILINE)
     matches = header_regex.findall(markdown_text)
     
-    toc_lines = ["## Table of Contents\n"]
+    toc_lines = ["# Bridge System Notes \n", "## Table of Contents\n"]
     for match in matches:
         level = len(match[0])
         title = match[1]
