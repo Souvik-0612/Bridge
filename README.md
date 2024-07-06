@@ -15,10 +15,10 @@
   - [1x-1y-1z](#1x-1y-1z)
 - [Jacoby 2NT  ](#jacoby-2nt-)
 - [General Competitive Auction agreements](#general-competitive-auction-agreements)
-  - [Bidding new suits: +ve and -ve Freebids ](#bidding-new-suits:-+ve-and--ve-freebids-)
+  - [Bidding new suits: +ve and -ve Freebids](#bidding-new-suits:-+ve-and--ve-freebids)
   - [2 suiters: Extended Michaels and U2NT](#2-suiters:-extended-michaels-and-u2nt)
     - [U2NT ](#u2nt-)
-    - [Extended Michaels :  ](#extended-michaels-:-)
+    - [Extended Michaels](#extended-michaels)
     - [Leaping and non-leaping Michaels](#leaping-and-non-leaping-michaels)
   - [Defence against 2 suiters](#defence-against-2-suiters)
 - [Lebensohls](#lebensohls)
@@ -231,13 +231,13 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 
 [Back☝️](#table-of-contents)
-## Bidding new suits: +ve and -ve Freebids 
+## Bidding new suits: +ve and -ve Freebids
 - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
 After an interference 
 
-1. 2 level bids in new suits are 10+ points and show 5 cards (not 4) .
+1. 2 level bids in new suits are 10+ points and show 5 cards (not 4).
 2. 3 level bids in new suit GF. 
 
 Examples :
@@ -269,7 +269,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:red;">♦</span>-(2NT) <span style="color:red;">♥</span> and <span style="color:black;">♣</span>
 
 [Back☝️](#table-of-contents)
-### Extended Michaels :  
+### Extended Michaels
 ***Highest and another Lower suit***     
 
 1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span>)- <span style="color:black;">♠</span> and minor  
