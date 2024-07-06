@@ -39,11 +39,11 @@
   - [Rule of 20](#rule-of-20)
   - [Restricted play](#restricted-play)
 
-<a id="notrump-openings"> </a># No-Trump Openings
+# <a id="notrump-openings"></a>No-Trump Openings
 
 
 [🔙](#table-of-contents)
-<a id="1nt-opening-lol"> </a>## 1NT opening @-lol
+## <a id="1nt-opening-lol"></a>1NT opening @-lol
 - With 4-4 Stayman 
 - With 5-5 in majors, Transfer to <span style="color:black;">♠</span> and then bid <span style="color:red;">♥</span> (GF)
 - With 5-4 in majors 
@@ -73,7 +73,7 @@
 - 1NT-3<span style="color:black;">♣</span>-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener.
 
 [🔙](#table-of-contents)
-<a id="2nt-opening"> </a>## 2NT opening
+## <a id="2nt-opening"></a>2NT opening
 With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
@@ -82,11 +82,11 @@ With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman
   - 3NT (no 5cM or 4cM)
 
 [🔙](#table-of-contents)
-<a id="after-1m-openings"> </a># After 1M openings 
+# <a id="after-1m-openings"></a>After 1M openings 
 
 
 [🔙](#table-of-contents)
-<a id="when-opponents-double"> </a>## When opponents double
+## <a id="when-opponents-double"></a>When opponents double
 - 2NT Jacoby 
 - 3<span style="color:black;">♣</span>/3<span style="color:red;">♦</span> Bergen Raise 
 - 1NT: requires stopper and 6-10 (***not forcing***)
@@ -96,7 +96,7 @@ With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman
    - Real NT hands, 10+ pts
 
 [🔙](#table-of-contents)
-<a id="when-opponents-interfere-with-suit-bid"> </a>## When opponents interfere with suit bid
+## <a id="when-opponents-interfere-with-suit-bid"></a>When opponents interfere with suit bid
 1<span style="color:red;">♥</span>-(1<span style="color:black;">♠</span>/2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>)-?   
 or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span>/2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>)-?
 
@@ -105,7 +105,7 @@ or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span
 - All other hands, X
 
 [🔙](#table-of-contents)
-<a id="weak-2-opening"> </a># Weak 2 Opening
+# <a id="weak-2-opening"></a>Weak 2 Opening
 > Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>
 Responder bids
 - 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*, **Ogust**)
@@ -118,18 +118,18 @@ Responder bids
 - 4<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>: 4 cards fit
 
 [🔙](#table-of-contents)
-<a id="21-continuations"> </a># 2/1 Continuations
+# <a id="21-continuations"></a>2/1 Continuations
 
 
 [🔙](#table-of-contents)
-<a id="standard-sequences"> </a>## Standard sequences
+## <a id="standard-sequences"></a>Standard sequences
 1<span style="color:black;">♠</span>-2<span style="color:black;">♣</span>-2<span style="color:black;">♠</span> :  5 cards  
 1<span style="color:black;">♠</span>-2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>:  4 <span style="color:red;">♦</span>/<span style="color:red;">♥</span>   
 1<span style="color:black;">♠</span>-2<span style="color:black;">♣</span>-2NT: 12-14 pts or 18-19 pts (rebid later), guarantees balanced. stoppers desirable  
 ~~Alternative:  ***Schuler Shift***: 2NT shows 6 <span style="color:black;">♠</span>~~
 
 [🔙](#table-of-contents)
-<a id="picturebid-sequences"> </a>## Picture-bid sequences
+## <a id="picturebid-sequences"></a>Picture-bid sequences
 We should follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
 
 The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture jump, it  shows 3 things :
@@ -184,11 +184,11 @@ Examples:
   - cuebid, serious slam try.
 
 [🔙](#table-of-contents)
-<a id="xyz-continuations"> </a># XYZ Continuations
+# <a id="xyz-continuations"></a>XYZ Continuations
 Perhaps it is useful to separate auctions XYNT and XYZ.
 
 [🔙](#table-of-contents)
-<a id="1m1m1nt"> </a>### 1m-1M-1NT
+### <a id="1m1m1nt"></a>1m-1M-1NT
 Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
 
 1m-1M-1NT-?
@@ -209,11 +209,11 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
    -  3m raise after relay 1m-1M-1NT-2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3m
 
 [🔙](#table-of-contents)
-<a id="1x1y1z"> </a>## 1x-1y-1z
+## <a id="1x1y1z"></a>1x-1y-1z
 Work under progress
 
 [🔙](#table-of-contents)
-<a id="jacoby-2nt"> </a># Jacoby 2NT  
+# <a id="jacoby-2nt"></a>Jacoby 2NT  
 1M - 2NT: Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
 1M-2NT-?  
 - 3(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
@@ -229,11 +229,11 @@ Work under progress
 After the opener bid any bid by the responder is **control bids** and 4NT is RKCB.
 
 [🔙](#table-of-contents)
-<a id="general-competitive-auction-agreements"> </a># General Competitive Auction agreements
+# <a id="general-competitive-auction-agreements"></a>General Competitive Auction agreements
 
 
 [🔙](#table-of-contents)
-<a id="freebids-of-new-suits"> </a>## Freebids of new suits
+## <a id="freebids-of-new-suits"></a>Freebids of new suits
 - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
@@ -257,12 +257,12 @@ Examples :
 3. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-1NT-2<span style="color:black;">♣</span> (*negative Freebid*, <10 points, 5<span style="color:black;">♣</span>)
 
 [🔙](#table-of-contents)
-<a id="two-suiter"> </a>## Two suiter
+## <a id="two-suiter"></a>Two suiter
 We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 
 [🔙](#table-of-contents)
-<a id="u2nt"> </a>### U2NT 
+### <a id="u2nt"></a>U2NT 
 ***Shows 2 lowest unbid suits***
 
 1<span style="color:red;">♥</span>-(2NT):<span style="color:red;">♦</span> and <span style="color:black;">♣</span>   
@@ -271,7 +271,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:red;">♦</span>-(2NT) <span style="color:red;">♥</span> and <span style="color:black;">♣</span>
 
 [🔙](#table-of-contents)
-<a id="extended-michaels"> </a>### Extended Michaels
+### <a id="extended-michaels"></a>Extended Michaels
 ***Highest and another Lower suit***     
 
 1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span>)- <span style="color:black;">♠</span> and minor  
@@ -280,7 +280,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:black;">♣</span>-(2<span style="color:black;">♣</span>)- <span style="color:black;">♠</span> and <span style="color:red;">♥</span>/<span style="color:red;">♦</span>
 
 [🔙](#table-of-contents)
-<a id="leaping-and-nonleaping-michaels"> </a>### Leaping and non-leaping Michaels
+### <a id="leaping-and-nonleaping-michaels"></a>Leaping and non-leaping Michaels
 Extend Michaels' philosophy to over calls of weak 2 and weak 3 bids
 
 
@@ -289,7 +289,7 @@ Extend Michaels' philosophy to over calls of weak 2 and weak 3 bids
 (2<span style="color:red;">♦</span>)-?
 
 [🔙](#table-of-contents)
-<a id="defence-against-2-suiters"> </a>## Defence against 2 suiters
+## <a id="defence-against-2-suiters"></a>Defence against 2 suiters
 The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The same system can be used when our 1NT is interferred with 2-suited bids. But wecome back to it later   
 
 **Both Suits are Known**
@@ -315,11 +315,11 @@ The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The sa
 - 4<span style="color:black;">♣</span>/4<span style="color:red;">♦</span>/3<span style="color:black;">♠</span>: splinter type bids
 
 [🔙](#table-of-contents)
-<a id="lebensohls"> </a># Lebensohls
+# <a id="lebensohls"></a>Lebensohls
 
 
 [🔙](#table-of-contents)
-<a id="when-opponents-interfere-with-our-1nt-opening"> </a>## When Opponents interfere with our 1NT opening
+## <a id="when-opponents-interfere-with-our-1nt-opening"></a>When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
 
 When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠</span>)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3<span style="color:black;">♣</span> relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *FASS* (Fast arrival shows stoppers) version, or *slow denies, fast shows* version, which contrasts the more popular *slow shows* version.
@@ -343,7 +343,7 @@ When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠<
 - 1NT-(2<span style="color:black;">♠</span>)-2NT-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span> (game force, no <span style="color:black;">♠</span> stopper, slow denies)
 
 [🔙](#table-of-contents)
-<a id="when-partner-doubles-their-weak-two"> </a>## When partner doubles their weak TWO
+## <a id="when-partner-doubles-their-weak-two"></a>When partner doubles their weak TWO
 This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
 *Examples when 3 levels of bids are available*
@@ -358,14 +358,14 @@ This situation is similar to the case after 1NT, but after a takeout double the 
 The cuebid-stayman and 3NT bids are game-forcing, as after 1NT, employing FASS as usual
 
 [🔙](#table-of-contents)
-<a id="after-a-simple-reverse"> </a>## After a simple reverse
+## <a id="after-a-simple-reverse"></a>After a simple reverse
 Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>     
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3<span style="color:black;">♣</span> 
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
 
 [🔙](#table-of-contents)
-<a id="strong-2-c-opening"> </a># Strong 2 <span style="color:black;">♣</span> opening
+# <a id="strong-2-c-opening"></a>Strong 2 <span style="color:black;">♣</span> opening
 - Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
@@ -390,15 +390,15 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
 - Unassigned sequence: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♥</span> (without relay)
 
 [🔙](#table-of-contents)
-<a id="opponents-dont-play-standard-systems"> </a># Opponents don't play standard systems
+# <a id="opponents-dont-play-standard-systems"></a>Opponents don't play standard systems
 
 
 [🔙](#table-of-contents)
-<a id="precision-2c-opening"> </a>## Precision 2<span style="color:black;">♣</span> opening
+## <a id="precision-2c-opening"></a>Precision 2<span style="color:black;">♣</span> opening
 > Treat as **natural**.
 
 [🔙](#table-of-contents)
-<a id="slam-bidding-agreements"> </a># Slam Bidding Agreements
+# <a id="slam-bidding-agreements"></a>Slam Bidding Agreements
 Presently we play RKC 1430 with King Ask showing specific kings. 
 Future Improvements:
   - Minorwood
@@ -408,11 +408,11 @@ Future Improvements:
   - Kantar's book
 
 [🔙](#table-of-contents)
-<a id="scoring-techniques-matter"> </a># Scoring techniques matter!
+# <a id="scoring-techniques-matter"></a>Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
 
 [🔙](#table-of-contents)
-<a id="sos-redouble"> </a># SOS redouble
+# <a id="sos-redouble"></a>SOS redouble
 > This is essential to rescue from penalty dbl.  
 
 Consider the following,  
@@ -430,11 +430,11 @@ And you have the hand <span style="color:black;">♠</span> Q8543<span style="co
 2. (Write whatever you like from the "considerations" section of Bridgebum)
 
 [🔙](#table-of-contents)
-<a id="run-after-opponents-double-1nt"> </a># Run after opponents double 1NT
+# <a id="run-after-opponents-double-1nt"></a>Run after opponents double 1NT
 
 
 [🔙](#table-of-contents)
-<a id="moscow-escapes"> </a>## Moscow Escapes
+## <a id="moscow-escapes"></a>Moscow Escapes
 > If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
@@ -445,16 +445,16 @@ And you have the hand <span style="color:black;">♠</span> Q8543<span style="co
   - 2<span style="color:black;">♠</span>, 5+ spades
 
 [🔙](#table-of-contents)
-<a id="rules-of-thumb"> </a># Rules of thumb
+# <a id="rules-of-thumb"></a>Rules of thumb
 
 
 [🔙](#table-of-contents)
-<a id="rule-of-20"> </a>## Rule of 20
+## <a id="rule-of-20"></a>Rule of 20
 > Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
 [🔙](#table-of-contents)
-<a id="restricted-play"> </a>## Restricted play
+## <a id="restricted-play"></a>Restricted play
 
 
 [🔙](#table-of-contents)
