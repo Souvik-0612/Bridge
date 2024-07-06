@@ -15,8 +15,8 @@
   - [1x-1y-1z](#1x-1y-1z)
 - [Jacoby 2NT  ](#jacoby-2nt-)
 - [General Competitive Auction agreements](#general-competitive-auction-agreements)
-  - [Bidding new suits: +ve and -ve Freebids](#bidding-new-suits:-+ve-and--ve-freebids)
-  - [2 suiters: Extended Michaels and U2NT](#2-suiters:-extended-michaels-and-u2nt)
+  - [Bidding new suits (+ve and -ve Freebids)](#bidding-new-suits-(+ve-and--ve-freebids))
+  - [Two suiter](#two-suiter)
     - [U2NT ](#u2nt-)
     - [Extended Michaels](#extended-michaels)
     - [Leaping and non-leaping Michaels](#leaping-and-non-leaping-michaels)
@@ -31,8 +31,8 @@
 - [SOS redouble](#sos-redouble)
 - [Runouts (Run after opponents double 1NT)](#runouts-(run-after-opponents-double-1nt))
   - [Moscow Escapes (DONT)](#moscow-escapes-(dont))
-- [Rules of thumb:](#rules-of-thumb:)
-  - [Rule of 20:](#rule-of-20:)
+- [Rules of thumb](#rules-of-thumb)
+  - [Rule of 20](#rule-of-20)
   - [Restricted play](#restricted-play)
 
 # No-Trump Openings
@@ -230,7 +230,7 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 
 [Back☝️](#table-of-contents)
-## Bidding new suits: +ve and -ve Freebids
+## Bidding new suits (+ve and -ve Freebids)
 - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
@@ -254,7 +254,7 @@ Examples :
 3. (1<span style="color:red;">♦</span>)-1<span style="color:black;">♠</span>-1NT-2<span style="color:black;">♣</span> (*negative Freebid*, <10 points, 5<span style="color:black;">♣</span>)
 
 [Back☝️](#table-of-contents)
-## 2 suiters: Extended Michaels and U2NT
+## Two suiter
 We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 
@@ -431,11 +431,11 @@ And you have the hand <span style="color:black;">♠</span> Q8543<span style="co
   - 2<span style="color:black;">♠</span>, 5+ spades
 
 [Back☝️](#table-of-contents)
-# Rules of thumb:
+# Rules of thumb
 
 
 [Back☝️](#table-of-contents)
-## Rule of 20:
+## Rule of 20
 > Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
