@@ -28,6 +28,8 @@
   - [When partner doubles their weak TWO](#when-partner-doubles-their-weak-two)
   - [After a simple reverse](#after-a-simple-reverse)
 - [Strong 2Club opening](#strong-2club-opening)
+- [Opponents don't play standard systems](#opponents-dont-play-standard-systems)
+  - [Precision 2<span style="color:black;">♣</span> opening](#precision-2span-stylecolorblackspan-opening)
 - [Slam Bidding Agreements](#slam-bidding-agreements)
 - [Scoring techniques matter!](#scoring-techniques-matter)
 - [SOS redouble](#sos-redouble)
@@ -386,6 +388,14 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
    1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (double suiter, hearts and <span style="color:black;">♣</span>, 5-4 or better)
 - Two suiters with spades (later)
 - Unassigned sequence: 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♥</span> (without relay)
+
+[🔙](#table-of-contents)
+# Opponents don't play standard systems
+
+
+[🔙](#table-of-contents)
+## Precision 2<span style="color:black;">♣</span> opening
+> Treat as **natural**.
 
 [🔙](#table-of-contents)
 # Slam Bidding Agreements
