@@ -29,8 +29,8 @@
 - [Slam Bidding Agreements](#slam-bidding-agreements)
 - [Scoring techniques matter!](#scoring-techniques-matter!)
 - [SOS redouble](#sos-redouble)
-- [Runouts (Run after opponents double 1NT)](#runouts-(run-after-opponents-double-1nt))
-  - [Moscow Escapes (DONT)](#moscow-escapes-(dont))
+- [Run after opponents double 1NT](#run-after-opponents-double-1nt)
+  - [Moscow Escapes](#moscow-escapes)
 - [Rules of thumb](#rules-of-thumb)
   - [Rule of 20](#rule-of-20)
   - [Restricted play](#restricted-play)
@@ -418,11 +418,11 @@ And you have the hand <span style="color:black;">♠</span> Q8543<span style="co
 2. (Write whatever you like from the "considerations" section of Bridgebum)
 
 [🔙](#table-of-contents)
-# Runouts (Run after opponents double 1NT)
+# Run after opponents double 1NT
 
 
 [🔙](#table-of-contents)
-## Moscow Escapes (DONT)
+## Moscow Escapes
 > If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
