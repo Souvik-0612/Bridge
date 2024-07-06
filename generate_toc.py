@@ -31,7 +31,7 @@ def add_back_to_toc_links(markdown_text):
         print(content)
         
         #new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back☝️](#table-of-contents)\n")
-        new_content.append(f"{header} {title}\n{content.strip()}\n\n[Back](#table-of-contents)\n")
+        new_content.append(f"{header} {title}\n{content.strip()}\n\n[🔙](#table-of-contents)\n")
     
     return sections[0] + "".join(new_content)
 
