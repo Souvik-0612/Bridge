@@ -52,8 +52,6 @@
    - inv: transfer to <span style="color:red;">♥</span> and bid 2<span style="color:black;">♠</span> 
    - GF: Stayman, and bid 3<span style="color:red;">♥</span> after 2<span style="color:red;">♦</span> response
 
-
-- [4-way transfers with range asks](https://www.bridgewebs.com/ocala/Four-way%20transfers.pdf)
 - 1NT-2<span style="color:black;">♠</span>-? (range ask for <span style="color:black;">♣</span>, bid with balanced invit hands)
      - 2N (15 pts)  
           -  pass with balanced invit
