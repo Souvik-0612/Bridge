@@ -352,8 +352,8 @@ And you have the hand !s Q8543!hKj954!c3!d54, would you pass at this situation?
 * SOS Rdbl is up to 3 levels!
 1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
 2. (Write whatever you like from the "considerations" section of Bridgebum)
-# Runouts (Run after opponents double 1NT)
-## Moscow Escapes (DONT)
+# Run after opponents double 1NT
+## Moscow Escapes
 > If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
