@@ -300,7 +300,7 @@ The cuebid-stayman and 3NT bids are game-forcing, as after 1NT, employing FASS a
 Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>     
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3<span style="color:black;">♣</span> 
     -  Any other bid (disobeying the relay) shows GF from the opener
-- Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (insted of Leb 2NT) are GF
+- Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1<span style="color:black;">♠</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> usually shows 6 <span style="color:black;">♠</span>, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
 
 # Strong 2<span style="color:black;">♣</span> opening
 - Standard 2<span style="color:black;">♣</span>, 22+ points or 9-ish tricks
@@ -326,7 +326,7 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
 
 
 # Slam Bidding Agreements
-Presently we play RKC 1430 with King ask showing specific kings. 
+Presently we play RKC 1430 with King Ask showing specific kings. 
 Future Improvements:
   - Minorwood
   - Kickback
@@ -336,44 +336,24 @@ Future Improvements:
 # Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
 # SOS redouble
-> This is essentisl to rescue from penalty dbl.  
+> This is essential to rescue from penalty dbl.  
 
 Consider the following,  
 (1<span style="color:red;">♦</span>)-2<span style="color:black;">♣</span>-(Pass)-Pass  
 (Dbl)-Pass-(Pass*)-?  
 (*) Making the Dbl to penalty.  
-And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span style="color:black;">♣</span>3<span style="color:red;">♦</span>54, would you pass at this situation?  
+And you have the hand <span style="color:black;">♠</span> Q8543<span style="color:red;">♥</span>Kj954<span style="color:black;">♣</span>3<span style="color:red;">♦</span>54, would you pass at this situation?  
 **No!** You should ***Rdbl*** to tell the partner bid any ***unbid*** suit.  
 
 > Two conditions should be followed to use SOS Rdbl.
 * Support at least 4-4 cards in unbid suit.
 * Lack of support partner's suit.  
-* SOS Rdbl is upto 3 level!
+* SOS Rdbl is up to 3 levels!
 1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
-2. (Write whatever you like from the "considerations" section of bridgebum)
+2. (Write whatever you like from the "considerations" section of Bridgebum)
 # Runouts (Run after opponents double 1NT)
-
-## Touching Escapes
-> If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
-
-1NT-(X)-?
-- Pass: At least 4-4 in two ***non-touching suit***(e.g, <span style="color:black;">♣</span> and <span style="color:red;">♥</span> or <span style="color:black;">♣</span> and :spades: or <span style="color:red;">♦</span> and :spades:) forcing partner to bid Rdbl
-  - Pass: Balanced hand with pts. "Dekhe nebo opponent k 🤣🤣"
-  - 2<span style="color:black;">♣</span>: <span style="color:black;">♣</span> and a higher (<span style="color:red;">♥</span>/:spades:)
-    - Pass: Opener have <span style="color:black;">♣</span>s
-    - 2<span style="color:red;">♥</span>: Pass or correct
-  - 2<span style="color:red;">♦</span>: <span style="color:red;">♦</span> and :spades:
-- Rbl: One suited hand. Forcing partner to bid 2<span style="color:black;">♣</span>
-  - Pass: Responder have 5+ <span style="color:black;">♣</span>s
-  - 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/:spades:: 5+ Cards
-- 2<span style="color:black;">♣</span>: At least 4-4 in ***touching suits*** (<span style="color:black;">♣</span> and <span style="color:red;">♦</span>)
-- 2<span style="color:red;">♦</span>: At least 4-4 in ***touching suits*** <span style="color:red;">♦</span> and <span style="color:red;">♥</span>
-- 2<span style="color:red;">♥</span>: At least 4-4 in ***touching suits*** <span style="color:red;">♥</span> and :spades:
-- 2:spades:: 5+:spades: weaker than to bid Dbl
-> Question we might think: **If the responder have 0 HCP then what he can do?** *Actually playing 1NTX is much better than playing suits in 2 level*. That is the main philosophy!
-
 ## Moscow Escapes (DONT)
-
+> If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
   - XX, single suiter, opener bids 2<span style="color:black;">♣</span>
@@ -385,6 +365,6 @@ And you have the hand :spades:Q8543<span style="color:red;">♥</span>Kj954<span
 # Rules of thumb:
 ## Rule of 20:
 > Guideline for opening bid less than 12 HCP.
-Count the total HCP and then add total number of cards of longest suits, if the value is equal or more than 20 then open at 1 level.
+Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
 ## Restricted play
