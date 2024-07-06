@@ -26,7 +26,6 @@
   - [When partner doubles their weak TWO](#when-partner-doubles-their-weak-two)
   - [After a simple reverse](#after-a-simple-reverse)
 - [Strong 2<span style="color:black;">♣</span> opening](#strong-2<span-style="color:black;">♣</span>-opening)
-  - [[Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) ](#[kokish-relay](https://www.bridgewebs.com/nkbc/kokish.pdf)-(kr)-)
 - [Slam Bidding Agreements](#slam-bidding-agreements)
 - [Scoring techniques matter!](#scoring-techniques-matter!)
 - [SOS redouble](#sos-redouble)
@@ -371,9 +370,7 @@ Simple reverse: 1<span style="color:red;">♦</span>-1<span style="color:black;"
           1. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span> (2nd neg)-3<span style="color:black;">♠</span>
           2. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:black;">♠</span>-3<span style="color:black;">♣</span>-3<span style="color:black;">♠</span>-4<span style="color:black;">♣</span> (responder rebids 2nd neg. suit to say he has real <span style="color:black;">♣</span>)
-
-[Back☝️](#table-of-contents)
-## [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+- [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
 > What does it do? Like all relays, it creates space. The usual pattern of Kokish Relay is 2<span style="color:black;">♣</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span>, with the 2<span style="color:red;">♥</span>-2<span style="color:black;">♠</span> known as the Kokish relay
 
 - Balanced  Hands
