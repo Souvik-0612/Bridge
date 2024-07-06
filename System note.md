@@ -173,13 +173,14 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 
 # General Competitive Auction agreements
-## Bidding new suits: +ve and -ve Freebids 
+
+## Bidding new suits: +ve and -ve Freebids
  - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
 After an interference 
 
-1. 2 level bids in new suits are 10+ points and show 5 cards (not 4) .
+1. 2 level bids in new suits are 10+ points and show 5 cards (not 4).
 2. 3 level bids in new suit GF. 
 
 Examples :
@@ -209,7 +210,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1!d-(2NT) !h and !c  
 
 
-### Extended Michaels :  
+### Extended Michaels
 ***Highest and another Lower suit***     
 
 1!h-(2!h)- !s and minor  
