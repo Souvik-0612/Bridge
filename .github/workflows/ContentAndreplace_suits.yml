@@ -21,11 +21,8 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Run script to replace suits
-        run: python replace_suits.py
-
       - name: Generate TOC
-        run: python generate_toc.py README.md
+        run: python generate_toc.py system_notes.md README.md
 
       - name: Commit and push changes
         run: |
