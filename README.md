@@ -2,7 +2,6 @@
 
 - [No-Trump Openings](#no-trump-openings)
   - [1NT opening](#1nt-opening)
-    - [[4-way transfers with range asks](https://www.bridgewebs.com/ocala/Four-way%20transfers.pdf)](#[4-way-transfers-with-range-asks](https://www.bridgewebs.com/ocala/four-way%20transfers.pdf))
   - [2NT opening](#2nt-opening)
 - [After 1M openings ](#after-1m-openings-)
   - [When opponents double](#when-opponents-double)
@@ -53,8 +52,8 @@
    - inv: transfer to <span style="color:red;">♥</span> and bid 2<span style="color:black;">♠</span> 
    - GF: Stayman, and bid 3<span style="color:red;">♥</span> after 2<span style="color:red;">♦</span> response
 
-[Back☝️](#table-of-contents)
-### [4-way transfers with range asks](https://www.bridgewebs.com/ocala/Four-way%20transfers.pdf)
+
+- [4-way transfers with range asks](https://www.bridgewebs.com/ocala/Four-way%20transfers.pdf)
 - 1NT-2<span style="color:black;">♠</span>-? (range ask for <span style="color:black;">♣</span>, bid with balanced invit hands)
      - 2N (15 pts)  
           -  pass with balanced invit
@@ -215,7 +214,7 @@ Work under progress
 
 [Back☝️](#table-of-contents)
 # Jacoby 2NT  
-1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
+1M - 2NT: Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
 1M-2NT-?  
 - 3(<span style="color:black;">♣</span>/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
 - 3M: Interest in slam
@@ -295,7 +294,7 @@ The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The sa
 
 **Both Suits are Known**
 
-1<span style="color:red;">♥</span>~(2NT)~? :  
+1<span style="color:red;">♥</span>-(2NT)-? :  
 - Their Lower suit is a raise of our lower suit and vice versa:  
  - 3<span style="color:black;">♣</span> shows limit raise or better in <span style="color:red;">♥</span>  
  - 3<span style="color:red;">♦</span> shows GF raise with 5+ <span style="color:black;">♠</span>s
@@ -323,7 +322,7 @@ The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The sa
 ## When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
 
-When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠</span>)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3<span style="color:black;">♣</span> relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *FASS* (Fast arrival shows stoppers) version, or *slow denies, fast shows* version, which is in contrast to the more popular *slow shows* version.
+When the opener's 1NT is interfered with.  1NT-(2<span style="color:black;">♠</span>)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3<span style="color:black;">♣</span> relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *FASS* (Fast arrival shows stoppers) version, or *slow denies, fast shows* version, which contrasts the more popular *slow shows* version.
 
 
 *Example with 3 levels*, weak, invit and GF
