@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [No-Trump Openings](#notrump-openings)
-  - [1NT opening @-lol](#1nt-opening-lol)
+  - [1NT opening](#1nt-opening)
   - [2NT opening](#2nt-opening)
 - [After 1M openings ](#after-1m-openings)
   - [When opponents double](#when-opponents-double)
@@ -43,7 +43,7 @@
 
 
 [🔙](#table-of-contents)
-## <a id="1nt-opening-lol"></a>1NT opening @-lol
+## <a id="1nt-opening"></a>1NT opening
 - With 4-4 Stayman 
 - With 5-5 in majors, Transfer to <span style="color:black;">♠</span> and then bid <span style="color:red;">♥</span> (GF)
 - With 5-4 in majors 
