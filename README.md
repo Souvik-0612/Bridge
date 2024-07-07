@@ -478,14 +478,14 @@ And you have the hand <span style="color:black;">♠</span> Q8543<span style="co
 
 [🔙](#table-of-contents)
 ## <a id="moscow-escapes"></a>Moscow Escapes
-> If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
+If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
   - XX, single suiter, opener bids 2<span style="color:black;">♣</span>
   - 2<span style="color:black;">♣</span>, <span style="color:black;">♣</span> and higher
   - 2<span style="color:red;">♦</span>, <span style="color:red;">♦</span> and higher
   - 2<span style="color:red;">♥</span>, <span style="color:red;">♥</span> and <span style="color:black;">♠</span>
-  - 2<span style="color:black;">♠</span>, 5+ spades
+  - 2<span style="color:black;">♠</span>, 5+ <span style="color:black;">♠</span>s weaker than XX
 
 [🔙](#table-of-contents)
 # <a id="rules-of-thumb"></a>Rules of thumb
