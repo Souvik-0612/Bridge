@@ -354,7 +354,7 @@ Simple reverse: 1!d-1!s-2!h
           2. 2!c-2!d-3!d-3!h(2nd neg)-4!d
           3. 2!c-2!d-2!s-3!c-3!s-4!c (responder rebids 2nd neg. suit to say he has real !c)
 
- ### [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+ [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
 
  Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
 
