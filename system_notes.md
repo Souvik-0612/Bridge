@@ -73,8 +73,8 @@ The main differences are
   - We can open light, and rarely with 4 cards. 
   - Count *Cansino points*, Open if (HCP + number of !s=15)  
   - No Bergen Raises. 1M-3!c and 1M-3!d are invitational hands with long minors.
-  - 2!c, Drury, 3+ cards, 9-11 HCP 
-  - 2!d,  Drury 4+ cards.  9-11 HCP
+  - 2!c, Drury, 3+ cards, 9-12 HCP 
+  - 2!d,  Drury 4+ cards.  9-12 HCP
   - 1NT can be 6-11 pts, but never with 3 card support for partner. Those must go through Drury
 
 
