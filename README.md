@@ -148,7 +148,8 @@ or 1<span style="color:black;">♠</span>-(2<span style="color:black;">♣</span
 
 [🔙](#table-of-contents)
 # <a id="weak-2-opening"></a>Weak 2 Opening
-> Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>
+Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/<span style="color:black;">♠</span>  
+
 Responder bids
 - 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*, **Ogust**)
   - 3<span style="color:black;">♣</span>: one of the top three honor 6-8 pts
