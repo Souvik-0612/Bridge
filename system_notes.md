@@ -402,14 +402,14 @@ And you have the hand !s Q8543!hKj954!c3!d54, would you pass at this situation?
 2. (Write whatever you like from the "considerations" section of Bridgebum)
 # Run after opponents double 1NT
 ## Moscow Escapes
-> If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
+If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
   - XX, single suiter, opener bids 2!c
   - 2!c, !c and higher
   - 2!d, !d and higher
   - 2!h, !h and !s
-  - 2!s, 5+ spades
+  - 2!s, 5+ !ss weaker than XX
 
 # Rules of thumb
 ## Rule of 20
