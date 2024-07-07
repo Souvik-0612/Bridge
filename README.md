@@ -99,7 +99,7 @@ The direct raises are
  - 1M-2M, Constructive Raise, 7-10 HCP. The increased point range allows easy invites and game tries.
  - 1M-3<span style="color:black;">♣</span>, Bergen, 4 cards, 7-10 HCP, constructive raise
  - 1M-3<span style="color:red;">♦</span>, Bergen, 4 cards, 10-12 HCP, limit raise
- - 1M-2NT, Jacoby 2NT, 4 cards, GF
+ - 1M-2NT, [Jacoby 2NT](#jacoby-2nt), 4 cards, GF
  - 1M-3M, Preempt, <=6 HCP, 4 card support
  - 1M-4M, Preempt, <10 HCP, 5 cards, freaky hands
  - Splinters, double jump raise, GF
