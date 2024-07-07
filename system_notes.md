@@ -28,14 +28,51 @@
 
 - 1NT-3!c-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
 ## 2NT opening
-With 3 card minors,  bid 3!c puppet Stayman
+With 3 card minors,  bid 3!c puppet Stayman (GF)
   - 3!d denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
-      - 3!s/3!h (4ocM)
+      - 3!s/3!h (4c oM)
   - 3!h/3!s: 5 cM
   - 3NT (no 5cM or 4cM)
 
-# After 1M openings 
+# 1 of a suit openings
+
+## 1M openings in 1st/2nd hand 
+After a 1M opening we have  *indirect raises* going through the forcing  1NT or a 2/1 GF bid, and a host of different
+direct raises. These are the example sequences for indirect raises
+ - 1M-1NT-2!c-2M, Weak Raise, 5-7 HCP, 3+ card (indirect)
+ - 1M-1NT-2!c-3M, Limit Raise, 10-12 HCP, 3 card (indirect)
+ - 1M-2!c-2M-3/4 M,  (GF through a 2/1 GF bid)
+
+The direct raises are
+ - 1M-2M, Constructive Raise, 7-10 HCP. The increased point range allows easy invites and game tries.
+ - 1M-3!c, Bergen, 4 cards, 7-10 HCP, constructive raise
+ - 1M-3!d, Bergen, 4 cards, 10-12 HCP, limit raise
+ - 1M-2NT, Jacoby 2NT, 4 cards, GF
+ - 1M-3M, Preempt, <=6 HCP, 4 card support
+ - 1M-4M, Preempt, <10 HCP, 5 cards, freaky hands
+ - Splinters, double jump raise, GF
+
+
+There are at least three different ways to GF with major suit support, we must 
+assign different meanings to these sequences, esp with 4 card support. While we will decide the meanings later, these are the three different ways
+
+- Jacoby 2NT, (4+ cards)
+- 2/1 GF through another suit (3+ cards), and then followed by picture-jumps (later)
+- Splinters, (shortness, 4 card support, undefined point range)
+
+## 1M openings in the 3rd/4th hand
+
+The main differences are 
+  - We can open light, and rarely with 4 cards. Count *Cansino points*, HCP + number of spades=15 can be a good condition to open 
+  - No Bergen Raises.
+  - 2!c and 2!d are Drury bids with 3 and 4 card support. The range can be 9-11 HCP, responder cannot have 12+ hcp
+  - 1NT can be 6-11 pts, but never with 3 card support for partner. Those must go through Drury
+
+
+
+
+
 ## When opponents double
 - 2NT Jacoby 
 - 3!c/3!d Bergen Raise 
