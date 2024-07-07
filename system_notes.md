@@ -61,12 +61,20 @@ assign different meanings to these sequences, esp with 4 card support. While we 
 - 2/1 GF through another suit (3+ cards), and then followed by picture-jumps (later)
 - Splinters, (shortness, 4 card support, undefined point range)
 
+A suggested solution is:
+- Jacoby 2NT, no really guide 2nd suit. With an excellent 5-card side suit go through 2/1, and then picture jump to show 4 card support or good trumps.
+- Splinters, small point range, 12-15 HCP, other wise go through J2NT or 2/1 GF
+- 2/1 bid--- use only if great 2nd suit, or no 4 card support
+
+
 ## 1M openings in the 3rd/4th hand
 
 The main differences are 
-  - We can open light, and rarely with 4 cards. Count *Cansino points*, HCP + number of spades=15 can be a good condition to open 
-  - No Bergen Raises.
-  - 2!c and 2!d are Drury bids with 3 and 4 card support. The range can be 9-11 HCP, responder cannot have 12+ hcp
+  - We can open light, and rarely with 4 cards. 
+  - Count *Cansino points*, Open if (HCP + number of !s=15)  
+  - No Bergen Raises. 1M-3!c and 1M-3!d are invitational hands with long minors.
+  - 2!c, Drury, 3+ cards, 9-11 HCP 
+  - 2!d,  Drury 4+ cards.  9-11 HCP
   - 1NT can be 6-11 pts, but never with 3 card support for partner. Those must go through Drury
 
 
