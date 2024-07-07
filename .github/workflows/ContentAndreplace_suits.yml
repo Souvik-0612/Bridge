@@ -24,12 +24,18 @@ jobs:
       - name: Generate TOC
         run: python generate_toc.py system_notes.md README.md
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          sudo apt-get install -y wkhtmltopdf
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m 'Update README with card suits and TOC'
+          git commit -m 'Update README with card suits and TOC and generate pdf'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
