@@ -98,7 +98,8 @@ or 1!s-(2!c/2!d/2!h)-?
 - Cuebid (3 cards limit raise)
 - All other hands, X  
 # Weak 2 Opening
-> Exactly 6 cards with 6-11 pts(Not HCP) open 2!d/!h/!s
+Exactly 6 cards with 6-11 pts(Not HCP) open 2!d/!h/!s  
+
 Responder bids
 - 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*, **Ogust**)
   - 3!c: one of the top three honor 6-8 pts
