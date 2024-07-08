@@ -4,6 +4,7 @@ hide:
 ---
 ## No-Trump Openings
 ### 1NT opening
+
 - With 4-4 Stayman 
 - With 5-5 in majors, Transfer to !s and then bid !h (GF)
 - With 5-4 in majors 
@@ -29,11 +30,15 @@ hide:
          - pass with weak diamonds
          - bid shortness with strong hand.
 
+We also have some unassigned bids
 
-- 1NT-3!c-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
+- 1NT-3!c-?  Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
+- 1NT-3!d ? Possible use, two suiters in minors
+- 1NT-3!h and 1NT-3!s, possible use: splinters
+
 ### 2NT opening
-We use Stayman and transfers as usual, including texas. 
 
+We use Stayman and transfers as usual, including texas. 
 With 3 card minors,  bid 3!c puppet Stayman (GF)
 
   - 3!d denies 5 card major (has one 4cM)
@@ -47,11 +52,13 @@ With 3 card minors,  bid 3!c puppet Stayman (GF)
 ### 1M openings in 1st/2nd hand 
 After a 1M opening we have  *indirect raises* going through the forcing  1NT or a 2/1 GF bid, and a host of different
 direct raises. These are the example sequences for indirect raises
+
  - 1M-1NT-2!c-2M, Weak Raise, 5-7 HCP, 3+ card (indirect)
  - 1M-1NT-2!c-3M, Limit Raise, 10-12 HCP, 3 card (indirect)
  - 1M-2!c-2M-3/4 M,  (GF through a 2/1 GF bid)
 
 The direct raises are
+
  - 1M-2M, Constructive Raise, 7-10 HCP. The increased point range allows easy invites and game tries.
  - 1M-3!c, Bergen, 4 cards, 7-10 HCP, constructive raise
  - 1M-3!d, Bergen, 4 cards, 10-12 HCP, limit raise
@@ -69,6 +76,7 @@ assign different meanings to these sequences, esp with 4 card support. While we 
 - Splinters, (shortness, 4 card support, undefined point range)
 
 A suggested solution is:
+
 - Jacoby 2NT, no really guide 2nd suit. With an excellent 5-card side suit go through 2/1, and then picture jump to show 4 card support or good trumps.
 - Splinters, small point range, 12-15 HCP, other wise go through J2NT or 2/1 GF
 - 2/1 bid--- use only if great 2nd suit, or no 4 card support
@@ -77,6 +85,7 @@ A suggested solution is:
 ### 1M openings in the 3rd/4th hand
 
 The main differences are 
+
   - We can open light, and rarely with 4 cards. 
   - Count *Cansino points*, Open if (HCP + number of !s=15)  
   - No Bergen Raises. 1M-3!c and 1M-3!d are invitational hands with long minors.
@@ -89,6 +98,9 @@ The main differences are
 
 
 ### When opponents double
+
+After an 1!h/1!s opening is doubled, we try to ignore it as much as possible:
+
 - 2NT Jacoby 
 - 3!c/3!d Bergen Raise 
 - 1NT: requires stopper and 6-10 (***not forcing***)
@@ -98,16 +110,19 @@ The main differences are
    - Real NT hands, 10+ pts 
 
 ### When opponents interfere with suit bid
+
  1!h-(1!s/2!c/2!d)-?   
 or 1!s-(2!c/2!d/2!h)-?
 
-- 2NT ( 4+ cards limit raise)
+- ~2NT ( 4+ cards limit raise)~
+-  2NT: usual, 10-12 pts, with stopper
 - Cuebid (3 cards limit raise)
 - All other hands, X  
-## Weak 2 Opening
+## Weak 2 openings
 Exactly 6 cards with 6-11 pts(Not HCP) open 2!d/!h/!s  
 
-Responder bids
+Responder bids(Ogust) :
+
 - 2NT(GF either 15+HCP or min condition: *3 cards support with 14 HCP so that 14+3 = 17 THUMB rule adopted from Larry Cohen*, **Ogust**)
   - 3!c: one of the top three honor 6-8 pts
   - 3!d: two of the top three honor 6-8 pts
@@ -128,6 +143,7 @@ Responder bids
 We should follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
 
 The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture jump, it  shows 3 things :
+
  1. good trumps (4 cards, or HHx)
  2. good, 5 card, second suit.
  3. *no outside controls*
@@ -135,6 +151,7 @@ The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture ju
 Examples: 
 
 **When only 3-level and 4-level raises are avialble**
+
 -  1!s-2!d-2!s-? 
     - 4!s : Picture Jump hand
     - 3!s : all other game forcing hands with !s support
@@ -148,6 +165,7 @@ Examples:
 **When 2, 3 and 4-level bids are available**
 
 When all three bids are available. We use the 3-level bid as a picture jump which shows the outside controls that the 4 level bid denies :
+
  - Good trumps (4 cards or HHx)
  - Good 5 card second suit 
  - 1 or 2 outside controls.
@@ -185,6 +203,7 @@ Perhaps it is useful to separate auctions XYNT and XYZ.
 Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
 
 1m-1M-1NT-?
+
   -  2NT: Invitational, without 5 cards in M, or 4 in oM.
   -  2 !c: Invitational with 5M or 4oM, or desire to quit in !d. Relays to 2!d from opener. follow ups are 
         - 2!c-2!d-Pass, weak, signoff in !d 
@@ -207,13 +226,17 @@ Work under progress
 
 
 ## Jacoby 2NT  
+
 1M - 2NT: Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
 1M-2NT-?  
+
 - 3(!c/!d/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
 - 3M: Interest in slam
 - 3NT: balanced hand, 12-14 HCP
 - 4(!c/!d/oM): 5 cards  
->Note :
+
+Note :
+
 1. You cannot bid 1!h-2NT-4!s to show 5 cards !s because we cannot stop at 4!h level!  
 2. The priority of bids: 
 - First show the 5 cards other suit.
@@ -235,6 +258,7 @@ After an interference
 2. 3 level bids in new suit GF. 
 
 Examples :
+
 1. 1!s-(2!c)-2!d (5 !ds, 10+ points).
 2. 1!s-(2!h)-3!c (5 !cs, game forcing)
 3. 1!d-(1!h)-1!s (5 !ss, 6+ points. With 4 !s s, bid Neg. X)
@@ -248,26 +272,27 @@ Examples :
 2. (1!d)-1!s-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
 3. (1!d)-1!s-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
 
-### Two suiter
+### Two suiters
 
 We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 #### U2NT 
-***Shows 2 lowest unbid suits***
 
-1!h-(2NT):!d and !c   
-1!s-(2NT):  !d and !c   
-1!c-(2NT) !d and !h   
-1!d-(2NT) !h and !c  
+Shows 2 lowest unbid suits
+
+- 1!h-(2NT):!d and !c   
+- 1!s-(2NT):  !d and !c   
+- 1!c-(2NT) !d and !h   
+- 1!d-(2NT) !h and !c  
 
 
 #### Extended Michaels
-***Highest and another Lower suit***     
+Highest and another Lower suit
 
-1!h-(2!h)- !s and minor  
-1!s-(2!s)- !h and minor  
-1!d-(2!d)- !s and !h/!d  
-1!c-(2!c)- !s and !h/!d
+- 1!h-(2!h)- !s and minor  
+- 1!s-(2!s)- !h and minor  
+- 1!d-(2!d)- !s and !h/!d  
+- 1!c-(2!c)- !s and !h/!d
 
 #### Leaping and non-leaping Michaels
 
@@ -311,21 +336,25 @@ When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the
 
 
 *Example with 3 levels*, weak, invit and GF
+
 - 1NT-(2!h)-2!s (5/6 !s, want to sign off)
 - 1NT-(2!h)-2NT-3!c-3!s (5/6 !s, invitational )
 - 1NT-(2!h)-3!s (5/6 !s game forcing)
 
 *Example with 2 levels, no invitational sequence*:
+
 - 1NT-(2!s)-2NT-3!h (!h, want to sign off)
 - 1NT-(2!s)-3!h (!h, game force)
 
 *Stronger Hands, stopper showing (slow denies, fast shows)*
-- 1NT-(2!s)-3NT (game force, !s stopper fast shows)
-- 1NT-(2!s)-2NT-3!c-3NT (game force, no !s stopper, slow denies)
+
+- 1NT-(2!s)-3NT (game force, !s stopper FASS)
+- 1NT-(2!s)-2NT-3!c-3NT (game force, no !s stopper, FASS)
 
 *Other Major, "Stayman in the other major"*
-- 1NT-(2!s)-3!s (game force, 4!h, !s stopper, fast shows)
-- 1NT-(2!s)-2NT-3!c-3!s (game force, no !s stopper, slow denies)
+
+- 1NT-(2!s)-3!s (game force, 4!h, !s stopper, FASS)
+- 1NT-(2!s)-2NT-3!c-3!s (game force, no !s stopper, FASS)
 
 
 
@@ -336,11 +365,13 @@ When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the
 This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
 *Examples when 3 levels of bids are available*
+
 - 2!h-(x)-2!s (weak)
 - 2!h-(x)-2NT-3!c-3!s (invit)
 - 2!h-(x)- 3!s (GF)
 
 *Examples when 2 levels of bids are available* 
+
 - 2!s-2NT-3!c-3!d (weak, could be 0 points, instead of invit)
 - 2!s-3!d (invit, 8/9+, instead of GF)
 
@@ -348,6 +379,7 @@ The cuebid-stayman and 3NT bids are game-forcing, as after 1NT, employing FASS a
 
 ### After a simple reverse
 Simple reverse: 1!d-1!s-2!h     
+
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3!c 
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1!d-1!s-2!h-2!s usually shows 6 !s, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
