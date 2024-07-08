@@ -2,8 +2,6 @@ site_name: Contract  Bridge system notes and agreements for Souvik (souvik0612) 
 theme:
   name: material
   palette: 
-    primary: blue grey
-    accent: deep orange
     # Palette toggle for light mode
     - scheme: default
       primary: blue grey
