@@ -3,7 +3,7 @@ theme:
   name: material
 
 nav:
-  - Bridge System note: index.md
+  - Bridge System: index.md
   # Add other pages here if needed
 
 markdown_extensions:
