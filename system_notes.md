@@ -32,7 +32,10 @@ hide:
 
 - 1NT-3!c-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
 ### 2NT opening
+We use Stayman and transfers as usual, including texas. 
+
 With 3 card minors,  bid 3!c puppet Stayman (GF)
+
   - 3!d denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
       - 3!s/3!h (4c oM)
