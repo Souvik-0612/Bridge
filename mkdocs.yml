@@ -10,7 +10,7 @@ hide:
 markdown_extensions:
   - toc:
       permalink: True
-      toc_depth: 2  # This ensures that headers up to level 2 (##) are included in the TOC
+      toc_depth: 3  # This ensures that headers up to level 2 (##) are included in the TOC
   - tables
   - admonition
   - codehilite
@@ -29,4 +29,4 @@ extra:
   navigation:
     - name: Home
       title: index.md
-      level: 2  # Set this to ensure all headers up to level 2 (##) are shown
+      level: 3  # Set this to ensure all headers up to level 2 (##) are shown
