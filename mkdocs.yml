@@ -6,6 +6,7 @@ theme:
     accent: deep orange
     # Palette toggle for light mode
     - scheme: default
+      primary: blue grey
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
