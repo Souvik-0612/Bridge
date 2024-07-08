@@ -65,12 +65,12 @@ def replace_suits_only(file_path,file_path2):
     
     # Replace the shortcuts with the corresponding HTML
     for shortcut, entity in replacements.items():
-        new_content = re.sub(re.escape(shortcut), entity, content)
+        content = re.sub(re.escape(shortcut), entity, content)
     
 
     #write
     with open(file_path2, 'w', encoding='utf-8') as file2:
-        file2.write(new_content)
+        file2.write(content)
 
 
 # Example usage: insert TOC into README.md
