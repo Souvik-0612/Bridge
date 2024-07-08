@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 ## No-Trump Openings
 ### 1NT opening
 - With 4-4 Stayman 
