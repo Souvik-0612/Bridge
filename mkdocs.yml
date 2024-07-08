@@ -1,6 +1,6 @@
 site_name: Bridge
 theme:
-  name: readthedocs
+  name: material
 
 nav:
   - Bridge System: index.md
