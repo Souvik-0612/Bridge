@@ -24,8 +24,10 @@ jobs:
       - name: Generate TOC
         run: python generate_toc.py system_notes.md README.md
 
-      - name: makedocs 
+      - name: makedocs index 
         run: python generate_toc.py system_notes.md ./docs/index.md
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
 
       - name: Commit and push changes
         run: |
