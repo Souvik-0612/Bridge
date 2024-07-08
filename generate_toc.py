@@ -59,6 +59,20 @@ def insert_toc_into_markdown(file_path,file_path2):
     #write
     with open(file_path2, 'w', encoding='utf-8') as file2:
         file2.write(new_content)
+def replace_suits_only(file_path,file_path2):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+    
+    new_content = f"{toc}\n\n{add_back_to_toc_links(content)}"
+    
+    # Replace the shortcuts with the corresponding HTML
+    for shortcut, entity in replacements.items():
+        new_content = re.sub(re.escape(shortcut), entity, new_content)
+    
+
+    #write
+    with open(file_path2, 'w', encoding='utf-8') as file2:
+        file2.write(new_content)
 
 
 # Example usage: insert TOC into README.md
@@ -67,4 +81,4 @@ if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python generate_toc.py <markdown_file> newfile")
     else:
-        insert_toc_into_markdown(sys.argv[1],sys.argv[2])
+        replace_suits_only(sys.argv[1],sys.argv[2])

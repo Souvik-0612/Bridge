@@ -24,6 +24,9 @@ jobs:
       - name: Generate TOC
         run: python generate_toc.py system_notes.md README.md
 
+      - name: makedocs 
+        run: python generate_toc.py system_notes.md ./docs/index.md
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
