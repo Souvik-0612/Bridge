@@ -1,0 +1,36 @@
+site_name: Bridge
+theme:
+  name: material
+  # logo: images/logo.png  # Path to your logo image
+  # favicon: images/favicon.ico  # Optional: Path to your favicon
+
+nav:
+  - Home: index.md
+  - Chapter 1: Basics:
+      - Section 1.1: Rules
+      - Section 1.2: Strategies
+  - Chapter 2: Advanced Techniques:
+      - Section 2.1: Bidding
+      - Section 2.2: Playing
+
+markdown_extensions:
+  - toc:
+      permalink: True
+      toc_depth: 2
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  navigation:
+    level: 2
