@@ -2,9 +2,9 @@ import re
 
 # Define the replacements with colored HTML
 replacements = {
-    "!s": '<span style="color:black;">♠</span>',
+    "!s": '♠',
     "!h": '<span style="color:red;">♥</span>',
-    "!c": '<span style="color:black;">♣</span>',
+    "!c": '♣',
     "!d": '<span style="color:red;">♦</span>'
 }
 def generate_toc(markdown_text):
