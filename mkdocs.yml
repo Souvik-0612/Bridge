@@ -1,6 +1,7 @@
 site_name: Souvik-Sounak Bridge
 theme:
   name: material
+  logo: images/logo.png
   palette: 
     # Palette toggle for light mode
     - scheme: default
