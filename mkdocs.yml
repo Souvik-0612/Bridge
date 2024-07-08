@@ -1,6 +1,6 @@
 site_name: Bridge
 theme:
-  name: material
+  name: mkdocs
 
 nav:
   - Bridge System: index.md
