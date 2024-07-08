@@ -32,7 +32,8 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit --allow-empty -m 'Update README with card suits and TOC'
+          git add ./docs/index.md
+          git commit --allow-empty -m 'Update README and index with card suits'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
