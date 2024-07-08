@@ -1,6 +1,6 @@
 site_name: Contract  Bridge system notes and agreements for Souvik (souvik0612) and Sounak (sounakn)
 theme:
-  name: mkdocs
+  name: material
 
 nav:
   - Bridge System: index.md
