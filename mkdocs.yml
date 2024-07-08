@@ -1,0 +1,31 @@
+site_name: Bridge
+theme:
+  name: material
+
+nav:
+  - Bridge System: index.md
+  # Add other pages here if needed
+
+markdown_extensions:
+  - toc:
+      permalink: True
+      toc_depth: 2  # This ensures that headers up to level 2 (##) are included in the TOC
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  navigation:
+    - name: Home
+      title: index.md
+      level: 2  # Set this to ensure all headers up to level 2 (##) are shown
