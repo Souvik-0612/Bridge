@@ -1,5 +1,5 @@
-# No-Trump Openings
-## 1NT opening
+## No-Trump Openings
+### 1NT opening
 - With 4-4 Stayman 
 - With 5-5 in majors, Transfer to !s and then bid !h (GF)
 - With 5-4 in majors 
@@ -27,7 +27,7 @@
 
 
 - 1NT-3!c-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
-## 2NT opening
+### 2NT opening
 With 3 card minors,  bid 3!c puppet Stayman (GF)
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
@@ -35,9 +35,9 @@ With 3 card minors,  bid 3!c puppet Stayman (GF)
   - 3!h/3!s: 5 cM
   - 3NT (no 5cM or 4cM)
 
-# 1 of a suit openings
+## 1 of a suit openings
 
-## 1M openings in 1st/2nd hand 
+### 1M openings in 1st/2nd hand 
 After a 1M opening we have  *indirect raises* going through the forcing  1NT or a 2/1 GF bid, and a host of different
 direct raises. These are the example sequences for indirect raises
  - 1M-1NT-2!c-2M, Weak Raise, 5-7 HCP, 3+ card (indirect)
@@ -67,7 +67,7 @@ A suggested solution is:
 - 2/1 bid--- use only if great 2nd suit, or no 4 card support
 
 
-## 1M openings in the 3rd/4th hand
+### 1M openings in the 3rd/4th hand
 
 The main differences are 
   - We can open light, and rarely with 4 cards. 
@@ -81,7 +81,7 @@ The main differences are
 
 
 
-## When opponents double
+### When opponents double
 - 2NT Jacoby 
 - 3!c/3<span style="color:red;">♦</span> Bergen Raise 
 - 1NT: requires stopper and 6-10 (***not forcing***)
@@ -90,14 +90,14 @@ The main differences are
    - 2/1 GF bids without support
    - Real NT hands, 10+ pts 
 
-## When opponents interfere with suit bid
+### When opponents interfere with suit bid
  1!h-(1!s/2!c/2<span style="color:red;">♦</span>)-?   
 or 1!s-(2!c/2<span style="color:red;">♦</span>/2!h)-?
 
 - 2NT ( 4+ cards limit raise)
 - Cuebid (3 cards limit raise)
 - All other hands, X  
-# Weak 2 Opening
+## Weak 2 Opening
 Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/!h/!s  
 
 Responder bids
@@ -110,14 +110,14 @@ Responder bids
 - 3<span style="color:red;">♦</span>/!h/!s: If you have 3 card support and not interested in game. Law of total tricks. RONF (Raise only non forcing)
 - 4<span style="color:red;">♦</span>/!h/!s: 4 cards fit
 
-# 2/1 Continuations
-## Standard sequences
+## 2/1 Continuations
+### Standard sequences
 1!s-2!c-2!s :  5 cards  
 1!s-2!c-2<span style="color:red;">♦</span>/2!h:  4 <span style="color:red;">♦</span>/!h   
 1!s-2!c-2NT: 12-14 pts or 18-19 pts (rebid later), guarantees balanced. stoppers desirable  
 ~~Alternative:  ***Schuler Shift***: 2NT shows 6 !s~~
 
-## Picture-bid sequences
+### Picture-bid sequences
 We should follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
 
 The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture jump, it  shows 3 things :
@@ -171,7 +171,7 @@ Examples:
   - 3NT, unserious slam try
   - cuebid, serious slam try.
 
-# XYZ Continuations
+## XYZ Continuations
 Perhaps it is useful to separate auctions XYNT and XYZ.
 
 ### 1m-1M-1NT
@@ -194,12 +194,12 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
    -  Direct 3m raise: 1m-1M-1NT-3m
    -  3m raise after relay 1m-1M-1NT-2!c-2<span style="color:red;">♦</span>-3m
   
-## 1x-1y-1z
+### 1x-1y-1z
 Work under progress
 
 
 
-# Jacoby 2NT  
+## Jacoby 2NT  
 1M - 2NT: Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
 1M-2NT-?  
 - 3(!c/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
@@ -216,9 +216,9 @@ After the opener bid any bid by the responder is **control bids** and 4NT is RKC
 
 
 
-# General Competitive Auction agreements
+## General Competitive Auction agreements
 
-## Freebids of new suits
+### Freebids of new suits
  - after interference we play new suits as *Positive Freebids* (Strong, 10+ points, forcing) . The only exception is when opponents bid natural NT, then new suits are *negative freebids*.
  - after opponents X, we play new suits as *Negative Freebids* (Weak, 10- points, not forcing), with stronger hands we Rdbl first.
 
@@ -241,11 +241,11 @@ Examples :
 2. (1<span style="color:red;">♦</span>)-1!s-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
 3. (1<span style="color:red;">♦</span>)-1!s-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
 
-## Two suiter
+### Two suiter
 
 We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
-### U2NT 
+#### U2NT 
 ***Shows 2 lowest unbid suits***
 
 1!h-(2NT):<span style="color:red;">♦</span> and !c   
@@ -254,7 +254,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:red;">♦</span>-(2NT) !h and !c  
 
 
-### Extended Michaels
+#### Extended Michaels
 ***Highest and another Lower suit***     
 
 1!h-(2!h)- !s and minor  
@@ -262,7 +262,7 @@ Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 1<span style="color:red;">♦</span>-(2<span style="color:red;">♦</span>)- !s and !h/<span style="color:red;">♦</span>  
 1!c-(2!c)- !s and !h/<span style="color:red;">♦</span>
 
-### Leaping and non-leaping Michaels
+#### Leaping and non-leaping Michaels
 
 Extend Michaels' philosophy to over calls of weak 2 and weak 3 bids
 
@@ -271,7 +271,7 @@ Extend Michaels' philosophy to over calls of weak 2 and weak 3 bids
 - 4!c/<span style="color:red;">♦</span>(jump bid): min 5-5 cards !c/<span style="color:red;">♦</span> with !h/!s  
 (2<span style="color:red;">♦</span>)-?  
 
-## Defence against 2 suiters
+### Defence against 2 suiters
 The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The same system can be used when our 1NT is interferred with 2-suited bids. But wecome back to it later   
 
 **Both Suits are Known**
@@ -296,8 +296,8 @@ The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The sa
 - 3!h: hearts with preemptive quality, weaker than limit raise
 - 4!c/4<span style="color:red;">♦</span>/3!s: splinter type bids
 
-# Lebensohls
-## When Opponents interfere with our 1NT opening
+## Lebensohls
+### When Opponents interfere with our 1NT opening
 This is the standard situation for Lebensohl,  almost all other situations "derive" from it.
 
 When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the responder has no space to show his possible range of hands, or whether he holds stoppers. Lebensohl creates extra space with the 2NT-3!c relay. Depending on the interference and the responder's suit, the relay can create 3 levels of bids, or 2.  We are playing the *FASS* (Fast arrival shows stoppers) version, or *slow denies, fast shows* version, which contrasts the more popular *slow shows* version.
@@ -324,7 +324,7 @@ When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the
 
 
 
-## When partner doubles their weak TWO
+### When partner doubles their weak TWO
 
 This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
@@ -339,13 +339,13 @@ This situation is similar to the case after 1NT, but after a takeout double the 
 
 The cuebid-stayman and 3NT bids are game-forcing, as after 1NT, employing FASS as usual
 
-## After a simple reverse
+### After a simple reverse
 Simple reverse: 1<span style="color:red;">♦</span>-1!s-2!h     
 -  2NT( Lebensohl), weak. < 8 pts, relay to 3!c 
     -  Any other bid (disobeying the relay) shows GF from the opener
 - Any other bid by the responder is 1RF. 1<span style="color:red;">♦</span>-1!s-2!h-2!s usually shows 6 !s, opener cannot pass. 3 level bids (instead of Leb 2NT) are GF
 
-# Strong 2 !c opening
+## Strong 2 !c opening
 - Standard 2!c, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2!c-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
@@ -369,12 +369,12 @@ Simple reverse: 1<span style="color:red;">♦</span>-1!s-2!h
 - Two suiters with spades (later)
 - Unassigned sequence: 2!c-2<span style="color:red;">♦</span>-3!h (without relay)
 
-# Opponents don't play standard systems
-## Precision 2!c opening
+## Opponents don't play standard systems
+### Precision 2!c opening
 > Treat as **natural**.
 
 
-# Slam Bidding Agreements
+## Slam Bidding Agreements
 Presently we play RKC 1430 with King Ask showing specific kings. 
 Future Improvements:
   - Minorwood
@@ -382,9 +382,9 @@ Future Improvements:
   - Exclusion Keycard
   - Standard void showing responses.
   - Kantar's book
-# Scoring techniques matter!
+## Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
-# SOS redouble
+## SOS redouble
 > This is essential to rescue from penalty dbl.  
 
 Consider the following,  
@@ -400,8 +400,8 @@ And you have the hand !s Q8543!hKj954!c3<span style="color:red;">♦</span>54, w
 * SOS Rdbl is up to 3 levels!
 1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
 2. (Write whatever you like from the "considerations" section of Bridgebum)
-# Run after opponents double 1NT
-## Moscow Escapes
+## Run after opponents double 1NT
+### Moscow Escapes
 If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 1NT-(X)-?
   - Pass, to play
@@ -411,9 +411,9 @@ If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have
   - 2!h, !h and !s
   - 2!s, 5+ !ss weaker than XX
 
-# Rules of thumb
-## Rule of 20
+## Rules of thumb
+### Rule of 20
 > Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
-## Restricted play
+### Restricted play
