@@ -1,4 +1,4 @@
-site_name: Souvik-Sounak Bridge system
+site_name: Souvik-Sounak Bridge
 theme:
   name: material
   palette: 
@@ -7,7 +7,7 @@ theme:
       primary: blue grey
       accent: teal
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-6
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -19,7 +19,7 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Bridge System: index.md
+  - System note: index.md
   # Add other pages here if needed
 hide:
   - navigation
