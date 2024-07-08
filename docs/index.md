@@ -33,6 +33,7 @@ hide:
 - 1NT-3<span style="color:black;">♣</span>-? Unassinged. Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
 ### 2NT opening
 With 3 card minors,  bid 3<span style="color:black;">♣</span> puppet Stayman (GF)
+
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
       - 3<span style="color:black;">♠</span>/3<span style="color:red;">♥</span> (4c oM)
