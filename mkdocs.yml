@@ -1,22 +1,15 @@
 site_name: Bridge
 theme:
   name: material
-  # logo: images/logo.png  # Path to your logo image
-  # favicon: images/favicon.ico  # Optional: Path to your favicon
 
 nav:
-  - Home: index.md
-  - Chapter 1: Basics:
-      - Section 1.1: Rules
-      - Section 1.2: Strategies
-  - Chapter 2: Advanced Techniques:
-      - Section 2.1: Bidding
-      - Section 2.2: Playing
+  - Bridge System note: index.md
+  # Add other pages here if needed
 
 markdown_extensions:
   - toc:
       permalink: True
-      toc_depth: 2
+      toc_depth: 2  # This ensures that headers up to level 2 (##) are included in the TOC
   - tables
   - admonition
   - codehilite
@@ -33,4 +26,6 @@ markdown_extensions:
 
 extra:
   navigation:
-    level: 2
+    - name: Home
+      title: index.md
+      level: 2  # Set this to ensure all headers up to level 2 (##) are shown
