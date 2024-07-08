@@ -17,3 +17,7 @@ ordered_collections:
   - posts
   - pages
   - others
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
