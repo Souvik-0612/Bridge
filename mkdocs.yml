@@ -5,7 +5,8 @@ theme:
 nav:
   - Bridge System: index.md
   # Add other pages here if needed
-
+hide:
+  - navigation
 markdown_extensions:
   - toc:
       permalink: True
