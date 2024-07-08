@@ -63,11 +63,9 @@ def replace_suits_only(file_path,file_path2):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
-    new_content = f"{toc}\n\n{add_back_to_toc_links(content)}"
-    
     # Replace the shortcuts with the corresponding HTML
     for shortcut, entity in replacements.items():
-        new_content = re.sub(re.escape(shortcut), entity, new_content)
+        new_content = re.sub(re.escape(shortcut), entity, content)
     
 
     #write
