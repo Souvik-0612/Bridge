@@ -434,17 +434,18 @@ Consider the following,
 And you have the hand !s Q8543!hKj954!c3!d54, would you pass at this situation?  
 **No!** You should ***Rdbl*** to tell the partner bid any ***unbid*** suit.   
 
-**Two conditions should be followed to use SOS Rdbl.**
-- Support at least 4-4 cards in unbid suit.
-- Lack of support partner's suit.  
-- SOS Rdbl is up to 3 levels!  
-1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).
-2. (Write whatever you like from the "considerations" section of Bridgebum)
+**Two conditions should be followed to use SOS Rdbl.**  
+- Support at least 4-4 cards in unbid suit.  
+- Lack of support partner's suit.   
+- SOS Rdbl is up to 3 levels!
+- 
+1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).  
+2. (Write whatever you like from the "considerations" section of Bridgebum)  
 ## Run after opponents double 1NT
 ### Moscow Escapes
 If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
 
-1NT-(X)-?
+1NT-(X)-?  
 - Pass, to play
 - XX, single suiter, opener bids 2!c
 - 2!c, !c and higher
@@ -458,5 +459,4 @@ If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
 ### Restricted play
-## LOL
-adding to see the website is sync or not
+
