@@ -205,7 +205,7 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 1m-1M-1NT-?
 
   -  2NT: Invitational, without 5 cards in M, or 4 in oM.
-  -  2 ♣: Invitational with 5M or 4oM, or desire to quit in <span style="color:red;">♦</span>. Relays to 2<span style="color:red;">♦</span> from opener. follow ups are 
+  -  2 ♣: Invitational with 5M or 4oM, or desire to quit in <span style="color:red;">♦</span>. It relays to 2<span style="color:red;">♦</span> from the opener. follow-ups are 
         - 2♣-2<span style="color:red;">♦</span>-Pass, weak, signoff in <span style="color:red;">♦</span> 
         - 2♣-2<span style="color:red;">♦</span>-2M, 5 cards in M. classic nmf situation.
         - 2♣-2<span style="color:red;">♦</span>-2oM, 4 cards in other major.  
@@ -318,13 +318,14 @@ The basic philosophy is [Lower-Lower](http://kwbridge.com/bb/b_unus.htm). The sa
 
 **Only 1 suit is known**
 
-1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span> showing ♠ and minor)-?
+1<span style="color:red;">♥</span>-(2<span style="color:red;">♥</span> showing ♠ and minor)-?  
 - 2♠ : limit raise or better in hearts.   
 - X : 10 + points no fit in openers suit
-     The idea here is to wait for opponents to find their second suit. After the opponents bid, the Xer rebids as follows :
-    - X : for penalty
-   - 3NT : game forcing, promises stoppers in known suits
-   - cuebid in any of the opponents suit: game forcing, stopper *asking*
+
+The idea here is to wait for opponents to find their second suit. After the opponents bid, the Xer rebids as follows :
+- X : for penalty
+- 3NT : game forcing, promises stoppers in known suits
+- cuebid in any of the opponents suit: game forcing, stopper *asking*
 - 3<span style="color:red;">♥</span>: hearts with preemptive quality, weaker than limit raise
 - 4♣/4<span style="color:red;">♦</span>/3♠: splinter type bids
 
