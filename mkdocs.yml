@@ -27,6 +27,7 @@ extra_css:
   
 nav:
   - System notes: index.md
+  - Card Play: HandPlayMod.md
   # Add other pages here if needed
 hide:
   - navigation
