@@ -18,7 +18,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
+
+extra_javascript:
+  - js/scroll.js
+extra_css:
+  - css/custom.css
+
 nav:
   - System notes: index.md
   # Add other pages here if needed
