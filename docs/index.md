@@ -458,3 +458,5 @@ If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
 
 ### Restricted play
+## LOL
+adding to see the website is sync or not
