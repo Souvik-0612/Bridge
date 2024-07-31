@@ -4,16 +4,26 @@ hide:
 ---
 ## No-Trump Openings
 ### 1NT opening
-
-- With 4-4 Stayman 
-- With 5-5 in majors, Transfer to ♠ and then bid <span style="color:red;">♥</span> (GF)
-- With 5-4 in majors 
-   - First bid 2♣ stayman, raise if supported.
-   - After 2<span style="color:red;">♦</span> response, 
-       - bid 2♠ (inv), 3<span style="color:red;">♥</span> (GF) with Smolen
-- With 4-5 in majors 
-   - inv: transfer to <span style="color:red;">♥</span> and bid 2♠ 
-   - GF: Stayman, and bid 3<span style="color:red;">♥</span> after 2<span style="color:red;">♦</span> response
+- Standard Stayman and Transfers: not in note.
+- Weak stayman (*not Garbage Stayman*): 1NT- 2♣-2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠: Bad hand, shortness in clubs, willingness to play in any other suit.
+- Garbage Stayman: Weak hand, 4-4 in majors or better. Would play *any major*
+        - 1N-2♣-2<span style="color:red;">♥</span>-P
+        - 1N-2♣-2♠-P
+        - 1N-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (opener passes or corrects to 2♠)
+- Both Majors (at least 5-4 or better)
+   - With 5♠ and 4<span style="color:red;">♥</span> 
+      - First bid 2♣ stayman, raise if opener bids either major.
+      - After 2<span style="color:red;">♦</span> response, 
+          - bid 2♠ (inv), 3<span style="color:red;">♥</span> (GF) with Smolen
+   - With 4♠ and 5<span style="color:red;">♥</span>, **it is a little different*
+      - With GF hands, after Stayman
+         - raise if opener bids either major
+         - After 2<span style="color:red;">♦</span> response, bid 3♠ (GF) with Smolen
+      - With Invitational hands,
+         - 1N-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> *does not work* (because this sequence would be Garbage Stayman)
+         - 1N-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2♠, Transfer to <span style="color:red;">♥</span> and bid ♠.
+   - With 5-5 in majors, Transfer to ♠ and then bid <span style="color:red;">♥</span> (GF)
+         
 
 - 1NT-2♠-? (range ask for ♣, bid with balanced invit hands)
      - 2N (15 pts)  
