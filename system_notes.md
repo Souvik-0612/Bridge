@@ -4,16 +4,26 @@ hide:
 ---
 ## No-Trump Openings
 ### 1NT opening
-
-- With 4-4 Stayman 
-- With 5-5 in majors, Transfer to !s and then bid !h (GF)
-- With 5-4 in majors 
-   - First bid 2!c stayman, raise if supported.
-   - After 2!d response, 
-       - bid 2!s (inv), 3!h (GF) with Smolen
-- With 4-5 in majors 
-   - inv: transfer to !h and bid 2!s 
-   - GF: Stayman, and bid 3!h after 2!d response
+- Standard Stayman and Transfers: not in note.
+- Weak stayman (*not Garbage Stayman*): 1NT- 2!c-2!d/2!h/2!s: Bad hand, shortness in clubs, willingness to play in any other suit.
+- Garbage Stayman: Weak hand, 4-4 in majors or better. Would play *any major*
+        - 1N-2!c-2!h-P
+        - 1N-2!c-2!s-P
+        - 1N-2!c-2!d-2!h (opener passes or corrects to 2!s)
+- Both Majors (at least 5-4 or better)
+   - With 5!s and 4!h 
+      - First bid 2!c stayman, raise if opener bids either major.
+      - After 2!d response, 
+          - bid 2!s (inv), 3!h (GF) with Smolen
+   - With 4!s and 5!h, **it is a little different*
+      - With GF hands, after Stayman
+         - raise if opener bids either major
+         - After 2!d response, bid 3!s (GF) with Smolen
+      - With Invitational hands,
+         - 1N-2!c-2!d-2!h *does not work* (because this sequence would be Garbage Stayman)
+         - 1N-2!d-2!h-2!s, Transfer to !h and bid !s.
+   - With 5-5 in majors, Transfer to !s and then bid !h (GF)
+         
 
 - 1NT-2!s-? (range ask for !c, bid with balanced invit hands)
      - 2N (15 pts)  
