@@ -184,16 +184,16 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
 *Nebulous* 2!c : Real 5+ clubs  and all other balanced hands without 5 card !d/!h.
 
  1. Nebulous 2!c
-   - 1!s-2!d shows 5+ diamonds
-   - 1!s-2!h shows 5+ hearts
-   - 1!s-2!c *nebulous* : all other balanced GF hands or GF hands with real 5+ !c (all GF hands, basically)
+    - 1!s-2!d shows 5+ diamonds
+    - 1!s-2!h shows 5+ hearts
+    - 1!s-2!c *nebulous* : all other balanced GF hands or GF hands with real 5+ !c (all GF hands, basically)
  
  2. Responses to Nebulous 2!c 
-   - 1!s-2!c-2!h : 4+ cards (std)
-   - 1!s-2!c-2!d : nebulous (waiting, all other hands) or real !d 
-   - 1!s-2!c-2!s : 6 card spades
-   - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
-   - 1!h-2!c-2!s: no extras, 4 spades
+    - 1!s-2!c-2!h : 4+ cards (std)
+    - 1!s-2!c-2!d : nebulous (waiting, all other hands) or real !d 
+    - 1!s-2!c-2!s : 6 card spades
+    - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+    - 1!h-2!c-2!s: no extras, 4 spades
  
  3. Responses to the waiting 2!d: 1!s-2!c-2!d-? Bidding is natural except 2oM showing real clubs.
     - 1!s-2!c-2!d-2!h(other major) showing real clubs
