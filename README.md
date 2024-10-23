@@ -172,7 +172,7 @@ What are the two different styles, really:
     - 1<span style="color:red;">♥</span>-2♣-2♠ shows 4 spades with no extras.
 
  3. [Schuler style]() :
-    - 1♠-2♣-2♠ denies 6 cards (lying allowed)
+    - 1♠-2♣-2♠ denies 6 cards (lying allowed), includes all other hands.
     - 2♠ is *nebulous*: 5 card ♠ hands with or without stoppers. 
     - 1♠-2♣-2NT shows 6 ♠
     - The nebulous Schuler 2♠ groups 1) all Lawrence style 2♠ hands without 6 cards , and Lawrence style 2NT hands, whereas the 6 card spades go to 2NT
@@ -183,38 +183,38 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
 
 *Nebulous* 2♣ : Real 5+ clubs  and all other balanced hands without 5 card <span style="color:red;">♦</span>/<span style="color:red;">♥</span>.
 
-1. Nebulous 2♣
-  - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
-  - 1♠-2<span style="color:red;">♥</span> shows 5+ hearts
-  - 1♠-2♣ *nebulous* : all other balanced GF hands or GF hands with real 5+ ♣ (all GF hands, basically)
-
-2. Responses to Nebulous 2♣ 
-  - 1♠-2♣-2<span style="color:red;">♥</span> : 4+ cards (std)
-  - 1♠-2♣-2<span style="color:red;">♦</span> : nebulous (waiting, all other hands) or real <span style="color:red;">♦</span> 
-  - 1♠-2♣-2♠ : 6 card spades
-  - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
-  - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
-
-3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-? Bidding is natural except 2oM showing real clubs.
-   - 1♠-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(other major) showing real clubs
-   - 1<span style="color:red;">♥</span>-2♣-2<span style="color:red;">♦</span>-2♠(other major) showing real clubs
-
-4. Simple Schuler extensions
-   - 1♠-2<span style="color:red;">♦</span>-2♠ (nebulous)
-   - 1♠-2<span style="color:red;">♦</span>-2NT (6 ♠, as in Schuler)
-   - 1♠-2<span style="color:red;">♥</span>-2♠ (nebulous)
-   - 1♠-2<span style="color:red;">♥</span>-2NT (6 ♠, as in Schuler)
-   - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
-   - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2NT (6+ card, as in Schuler)
-
-5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
-   - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(nebulous, might have <span style="color:red;">♥</span>,  to be shown later)
-   - 1♠-2<span style="color:red;">♦</span>-2♠(6 cards)
-   - 1♠-2<span style="color:red;">♦</span>-2NT(18-19, because 12-14 goes through nebulous)
-   - 1♠-2<span style="color:red;">♥</span>-2♠ (nebulous)
-   - 1♠-2<span style="color:red;">♥</span>-2NT (6 ♠, as in Schuler)
-   - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
-   - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2NT (6+ card, as in Schuler)
+ 1. Nebulous 2♣
+   - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
+   - 1♠-2<span style="color:red;">♥</span> shows 5+ hearts
+   - 1♠-2♣ *nebulous* : all other balanced GF hands or GF hands with real 5+ ♣ (all GF hands, basically)
+ 
+ 2. Responses to Nebulous 2♣ 
+   - 1♠-2♣-2<span style="color:red;">♥</span> : 4+ cards (std)
+   - 1♠-2♣-2<span style="color:red;">♦</span> : nebulous (waiting, all other hands) or real <span style="color:red;">♦</span> 
+   - 1♠-2♣-2♠ : 6 card spades
+   - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+   - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
+ 
+ 3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-? Bidding is natural except 2oM showing real clubs.
+    - 1♠-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(other major) showing real clubs
+    - 1<span style="color:red;">♥</span>-2♣-2<span style="color:red;">♦</span>-2♠(other major) showing real clubs
+ 
+ 4. Simple Schuler extensions
+    - 1♠-2<span style="color:red;">♦</span>-2♠ (nebulous)
+    - 1♠-2<span style="color:red;">♦</span>-2NT (6 ♠, as in Schuler)
+    - 1♠-2<span style="color:red;">♥</span>-2♠ (nebulous)
+    - 1♠-2<span style="color:red;">♥</span>-2NT (6 ♠, as in Schuler)
+    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
+    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2NT (6+ card, as in Schuler)
+ 
+ 5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
+    - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(nebulous, might have <span style="color:red;">♥</span>,  to be shown later)
+    - 1♠-2<span style="color:red;">♦</span>-2♠(6 cards)
+    - 1♠-2<span style="color:red;">♦</span>-2NT(18-19, because 12-14 goes through nebulous)
+    - 1♠-2<span style="color:red;">♥</span>-2♠ (nebulous)
+    - 1♠-2<span style="color:red;">♥</span>-2NT (6 ♠, as in Schuler)
+    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
+    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2NT (6+ card, as in Schuler)
 
  
 ## XYZ Continuations
