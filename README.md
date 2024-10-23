@@ -184,16 +184,16 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
 *Nebulous* 2♣ : Real 5+ clubs  and all other balanced hands without 5 card <span style="color:red;">♦</span>/<span style="color:red;">♥</span>.
 
  1. Nebulous 2♣
-   - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
-   - 1♠-2<span style="color:red;">♥</span> shows 5+ hearts
-   - 1♠-2♣ *nebulous* : all other balanced GF hands or GF hands with real 5+ ♣ (all GF hands, basically)
+    - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
+    - 1♠-2<span style="color:red;">♥</span> shows 5+ hearts
+    - 1♠-2♣ *nebulous* : all other balanced GF hands or GF hands with real 5+ ♣ (all GF hands, basically)
  
  2. Responses to Nebulous 2♣ 
-   - 1♠-2♣-2<span style="color:red;">♥</span> : 4+ cards (std)
-   - 1♠-2♣-2<span style="color:red;">♦</span> : nebulous (waiting, all other hands) or real <span style="color:red;">♦</span> 
-   - 1♠-2♣-2♠ : 6 card spades
-   - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
-   - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
+    - 1♠-2♣-2<span style="color:red;">♥</span> : 4+ cards (std)
+    - 1♠-2♣-2<span style="color:red;">♦</span> : nebulous (waiting, all other hands) or real <span style="color:red;">♦</span> 
+    - 1♠-2♣-2♠ : 6 card spades
+    - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+    - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
  
  3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-? Bidding is natural except 2oM showing real clubs.
     - 1♠-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(other major) showing real clubs
