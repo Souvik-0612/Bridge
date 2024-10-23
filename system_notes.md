@@ -15,7 +15,7 @@ hide:
       - First bid 2!c stayman, raise if opener bids either major.
       - After 2!d response, 
           - bid 2!s (inv), 3!h (GF) with Smolen
-   - With 4!s and 5!h, **it is a little different*
+   - With 4!s and 5!h, *it is a little different*
       - With GF hands, after Stayman
          - raise if opener bids either major
          - After 2!d response, bid 3!s (GF) with Smolen
@@ -181,7 +181,7 @@ What are the two different styles, really:
 
 Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce another nebulous bid.
 
-*Nebulous* 2!c : Real 5+ clubs  and all other balanced hands without 5 card suits.
+*Nebulous* 2!c : Real 5+ clubs  and all other balanced hands without 5 card !d/!h.
 
 1. Nebulous 2!c
   - 1!s-2!d shows 5+ diamonds
@@ -195,8 +195,7 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
   - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
   - 1!h-2!c-2!s: no extras, 4 spades
 
-3. Responses to the waiting 2!d: 1!s-2!c-2!d-?
-   - Bidding is natural except :
+3. Responses to the waiting 2!d: 1!s-2!c-2!d-? Bidding is natural except 2oM showing real clubs.
    - 1!s-2!c-2!d-2!h(other major) showing real clubs
    - 1!h-2!c-2!d-2!s(other major) showing real clubs
 
@@ -208,8 +207,7 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
    - 1!h-2!d-2!h (nebulous)
    - 1!h-2!d-2NT (6+ card, as in Schuler)
 
-5. Schuler style extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
-
+5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
    - 1!s-2!d-2!h(nebulous, might have !h,  to be shown later)
    - 1!s-2!d-2!s(6 cards)
    - 1!s-2!d-2NT(18-19, because 12-14 goes through nebulous)
