@@ -15,7 +15,7 @@ hide:
       - First bid 2♣ stayman, raise if opener bids either major.
       - After 2<span style="color:red;">♦</span> response, 
           - bid 2♠ (inv), 3<span style="color:red;">♥</span> (GF) with Smolen
-   - With 4♠ and 5<span style="color:red;">♥</span>, **it is a little different*
+   - With 4♠ and 5<span style="color:red;">♥</span>, *it is a little different*
       - With GF hands, after Stayman
          - raise if opener bids either major
          - After 2<span style="color:red;">♦</span> response, bid 3♠ (GF) with Smolen
@@ -181,7 +181,7 @@ What are the two different styles, really:
 
 Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce another nebulous bid.
 
-*Nebulous* 2♣ : Real 5+ clubs  and all other balanced hands without 5 card suits.
+*Nebulous* 2♣ : Real 5+ clubs  and all other balanced hands without 5 card <span style="color:red;">♦</span>/<span style="color:red;">♥</span>.
 
 1. Nebulous 2♣
   - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
@@ -195,8 +195,7 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
   - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
   - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
 
-3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-?
-   - Bidding is natural except :
+3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-? Bidding is natural except 2oM showing real clubs.
    - 1♠-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(other major) showing real clubs
    - 1<span style="color:red;">♥</span>-2♣-2<span style="color:red;">♦</span>-2♠(other major) showing real clubs
 
@@ -208,8 +207,7 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
    - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2NT (6+ card, as in Schuler)
 
-5. Schuler style extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
-
+5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
    - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(nebulous, might have <span style="color:red;">♥</span>,  to be shown later)
    - 1♠-2<span style="color:red;">♦</span>-2♠(6 cards)
    - 1♠-2<span style="color:red;">♦</span>-2NT(18-19, because 12-14 goes through nebulous)
