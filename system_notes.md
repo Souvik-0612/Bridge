@@ -53,7 +53,6 @@ hide:
 
 We use Stayman and transfers as usual, including texas. 
 With 3 card minors,  bid 3!c puppet Stayman (GF)
->>>>>>> 03b1f849c35ebd3a6e0ebcd41845819e849000d4:system_notes.md
 
   - 3!d denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
@@ -87,11 +86,11 @@ assign different meanings to these sequences, esp with 4 card support. While we 
 
 - Jacoby 2NT, (4+ cards)
 - 2/1 GF through another suit (3+ cards), and then followed by picture-jumps (later)
-- Splinters, (shortness, 4 card support, undefined point range)
+- Splinters, (shortness, 4 card support, limited)
 
 A suggested solution is:
 
-- Jacoby 2NT, no really guide 2nd suit. With an excellent 5-card side suit go through 2/1, and then picture jump to show 4 card support or good trumps.
+- Jacoby 2NT, no really good 2nd suit. With an excellent 5-card side suit go through 2/1, and then picture jump to show 4 card support or good trumps.
 - Splinters, small point range, 12-15 HCP, other wise go through J2NT or 2/1 GF
 - 2/1 bid--- use only if great 2nd suit, or no 4 card support
 
@@ -117,8 +116,8 @@ After an 1!h/1!s opening is doubled, we try to ignore it as much as possible:
 
 - 2NT Jacoby 
 - 3!c/3!d Bergen Raise 
-- 1NT: requires stopper and 6-10 (***not forcing***)
-- Rdbl: 
+- 1NT: requires stopper and 6-10 (**not forcing**)
+- Rdbl : 
    - Forcing NT with limit raise 
    - 2/1 GF bids without support
    - Real NT hands, 10+ pts 
@@ -147,69 +146,79 @@ Responder bids(Ogust) :
 - 4!d/!h/!s: 4 cards fit
 
 ## 2/1 Continuations
-### Standard sequences
-1!s-2!c-2!s :  5 cards  
-1!s-2!c-2!d/2!h:  4 !d/!h   
-1!s-2!c-2NT: 12-14 pts or 18-19 pts (rebid later), guarantees balanced. stoppers desirable  
-~~Alternative:  ***Schuler Shift***: 2NT shows 6 !s~~
 
-### Picture-bid sequences
-We should follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
 
-The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture jump, it  shows 3 things :
+### Nebulous and Schuler bids: a proposal
 
- 1. good trumps (4 cards, or HHx)
- 2. good, 5 card, second suit.
- 3. *no outside controls*
+This is again from  (Gumpertz's articles)[link.com]
 
-Examples: 
+#### [Lawrence and Bergen styles in 2/1](https://bridgewinners.com/article/view/bw-21-shape-and-strength-system-summaries/)
 
-**When only 3-level and 4-level raises are avialble**
+What are the two different styles, really:
 
--  1!s-2!d-2!s-? 
-    - 4!s : Picture Jump hand
-    - 3!s : all other game forcing hands with !s support
--  1!s-2!d-3!d-? 
-    - 4!s : Picture Jump hand
-    - 3!s : all other game forcing hands with !s support
-- 1!s-2!h- ?
-    - 3!h : hearts support
-    - 4!h : Picture jump in !h. 5 !s, good  !h support, no outside controls
+ 1. Lawrence (strength) style: 
+    - 1!s-2!c-2NT is a stopper rich.
+    - 1!s-2!c-2!d and 1!s-2!c-2!h shows 4+ card suit
+    - all other hands bid the waiting 1!s-2!c-2!s. 
+    - 2!s is a *nebulous* bid:  6 card spades + all other 5 card spade hands without stoppers in unbid suits.
+    - 1!h-2!c-2!s (reverse) shows extras. Without extras, opener rebids 2!h (waiting) and waits for responser to bid his 4 card spades if she has them.
+    - disadvantage: difficult to distinguish 6 and 5 card opener
 
-**When 2, 3 and 4-level bids are available**
+ 2. Bergen (shape) style: 
+    - 1!s-2!c-2!s promises 6 cards.
+    - 1!s-2!c-2NT contains all other balanced hands with or without stoppers
+    - 2NT is the *nebulous* bid: contains all balanced hands with or without stoppers.
+    - without a balanced hand and 5 card spades, opener must bid his 4 card suit with or without values.
+    - 1!h-2!c-2!s shows 4 spades with no extras.
 
-When all three bids are available. We use the 3-level bid as a picture jump which shows the outside controls that the 4 level bid denies :
+ 3. [Schuler style]() :
+    - 1!s-2!c-2!s denies 6 cards (lying allowed)
+    - 2!s is *nebulous*: 5 card !s hands with or without stoppers. 
+    - 1!s-2!c-2NT shows 6 !s
+    - The nebulous Schuler 2!s groups 1) all Lawrence style 2!s hands without 6 cards , and Lawrence style 2NT hands, whereas the 6 card spades go to 2NT
 
- - Good trumps (4 cards or HHx)
- - Good 5 card second suit 
- - 1 or 2 outside controls.
+#### Nebulous 2 bids for better 2/1 bids:
 
-- 1!s-2!c-2!d-?
-   - 2!s game force, 5 spades.
-   - 3!s, strong Picture Jump (with outside controls)
-   - 4!s, normal picture Jump.
-- Openers Rebids: 1!s-2!c-?
-     - 3!s. Solid 1 loser suit, 1 or 2 outside controls (outside !c and !s)
-     - 4!s. Solid 1 loser suit, no outside controls.
-     - 2!s : all other.
+Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce another nebulous bid.
 
-**To add**: Minor suit auctions    
+*Nebulous* 2!c : Real 5+ clubs  and all other balanced hands without 5 card suits.
 
- **Frivolous 3NT**
+1. Nebulous 2!c
+  - 1!s-2!d shows 5+ diamonds
+  - 1!s-2!h shows 5+ hearts
+  - 1!s-2!c *nebulous* : all other balanced GF hands or GF hands with real 5+ !c (all GF hands, basically)
+
+2. Responses to Nebulous 2!c 
+  - 1!s-2!c-2!h : 4+ cards (std)
+  - 1!s-2!c-2!d : nebulous (waiting, all other hands) or real !d 
+  - 1!s-2!c-2!s : 6 card spades
+  - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+  - 1!h-2!c-2!s: no extras, 4 spades
+
+3. Responses to the waiting 2!d: 1!s-2!c-2!d-?
+   - Bidding is natural except :
+   - 1!s-2!c-2!d-2!h(other major) showing real clubs
+   - 1!h-2!c-2!d-2!s(other major) showing real clubs
+
+4. Simple Schuler extensions
+   - 1!s-2!d-2!s (nebulous)
+   - 1!s-2!d-2NT (6 !s, as in Schuler)
+   - 1!s-2!h-2!s (nebulous)
+   - 1!s-2!h-2NT (6 !s, as in Schuler)
+   - 1!h-2!d-2!h (nebulous)
+   - 1!h-2!d-2NT (6+ card, as in Schuler)
+
+5. Schuler style extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
+
+   - 1!s-2!d-2!h(nebulous, might have !h,  to be shown later)
+   - 1!s-2!d-2!s(6 cards)
+   - 1!s-2!d-2NT(18-19, because 12-14 goes through nebulous)
+   - 1!s-2!h-2!s (nebulous)
+   - 1!s-2!h-2NT (6 !s, as in Schuler)
+   - 1!h-2!d-2!h (nebulous)
+   - 1!h-2!d-2NT (6+ card, as in Schuler)
+
  
- 1.  After a *major suit* is agreed upon, and the responder *does not picture jump* bid 3NT as an obligatory (unserious) slam try
-  2.   Cuebids showing controls become serious slam tries. 
-3.  Friv 3NT usually takes place when *no Picture Jump* as taken place
-
-Examples: 
-
-- 1!s-2!c-2!s (no Picture Jump)- ?
-    - 3NT Frivolous slam try --- partner to bid on with extras.
-    - Cuebid : opener interested in slam, strong hand.
-- 1!s-2!h-3!h (no Picture Jump)- ?
-  - 3NT, unserious slam try
-  - cuebid, serious slam try.
-
 ## XYZ Continuations
 Perhaps it is useful to separate auctions XYNT and XYZ.
 
@@ -237,15 +246,19 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 ### 1x-1y-1z
 Work under progress
 
-# Agreements for strong game forcing auctions
+## Agreements for strong game forcing auctions
 
-## Jacoby 2NT  
-1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
+
+### Jacoby 2NT  
+
+Game forcing. 4 cards (extremely good 3 cards allowed).
 
 We play Larry Cohen's [modified Jacoby 2NT](https://bridgewinners.com/article/view/modified-jacoby-2nt/). 
-We can use the mnemonic MSDLB (use your own mnemonic: minimum sound dolby)
+
+We can use the mnemonic MSDLB (use your own mnemonic: my sound dolby)
 
 1M-2NT-? 
+
   - M: 3!c minimum 12-14 pts (responses SDLB)
       - S: 3!d shortage, minimum
       - D: two doubletons 5-4-2-2 
@@ -265,26 +278,98 @@ We can use the mnemonic MSDLB (use your own mnemonic: minimum sound dolby)
          - in steps, LMH
   - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
 
-## Two way splinters
+### Two way splinters
 
 Use [2-way splinters](https://bridgewinners.com/article/view/slam-bidding-limiting-your-hand-with-a-splinter/) as limit bids, limits responders hand and shape precisely.
 
 We don't splinter with a singleton Ace or King, to not mislead partner
 
-### Weak splinter (9-11 HCP)
+#### Weak splinter (9-11 HCP)
 - 1!s-3NT-? or 1!h-3!s-?  (**shows unspecified shortage**, don't reveal shape with weak hands)
    - Responder jumps to game with a weak hand or relays for information
    - Relay responses show shortage LMH
 
-### Strong splinters (11-14 HCP)
+#### Strong splinters (11-14 HCP)
   - 1!h -3NT  (shows spades)
   - 1!h -4!c/4!d (shows !c/!d)
   - 1!s - 4!c/4!d/4!h (shows !c/!d/!h)
 
 
+### Picture Jumps
+
+We follow Andrew Gumpertz's articles in the Bridge Winners ([Part 1](https://bridgewinners.com/article/view/21-auctions-fast-arrival-vs-picture-bidding/), [Part 2](https://bridgewinners.com/article/view/more-about-picture-jumps-and-fast-arrival/) and [Part 3](https://bridgewinners.com/article/view/fast-arrival-and-picture-jumps-the-3nt-slam-try/)) in bridge winners. Another source is [Fred Gitelman](https://www.bridgebum.com/improving_two_over_one_auctions_part_1.php), who also covers Italian style cuebids, which we play.
+
+The basic idea is that, in a 2/1 GF auction, the jump to 4 level is a picture jump, it  shows 3 things :
+
+ 1. good trumps (4 cards, or HHx)
+ 2. good, 5 card, second suit.
+ 3. *no outside controls*
+
+Further, when a jump to the three level is available, it shows 
+
+ 1. good trumps (4 cards, or HHx)
+ 2. good, 5 card, second suit.
+ 3. *one or two outside controls*
+
+Also use picture jumps in jump rebids of own suit, to show solid 1-loser suits.
+
+Examples: 
+
+-  1!s-2!d-2!s-? 
+    - 4!s : Picture Jump hand
+    - 3!s : all other game forcing hands with !s support
+-  1!s-2!d-3!d-? 
+    - 4!s : Picture Jump hand
+    - 3!s : all other game forcing hands with !s support
+- 1!s-2!h- ?
+    - 3!h : hearts support
+    - 4!h : Picture jump in !h. 5 !s, good  !h support, no outside controls
+
+
+When all three bids are available. We use the 3-level bid as a picture jump which shows the outside controls that the 4 level bid denies :
+
+ - Good trumps (4 cards or HHx)
+ - Good 5 card second suit 
+ - 1 or 2 outside controls.
+
+- 1!s-2!c-2!d-?
+   - 2!s game force, 5 spades.
+   - 3!s, strong Picture Jump (with outside controls)
+   - 4!s, normal picture Jump.
+
+Other Picture jumps
+
+- 1!s-2!c-3!c-4!s (again, !c and !h, no outside controls)
+- 1!s-2!h-4!h (very good 5-4 in !s and !h, no outside controls)
+- 1!s-2!c-2!h-4!h ( very good 5-4 in !c and !h)
+
+
+- Openers Rebids: 1!s-2!c-?
+     - 3!s. Solid 1 loser suit, 1 or 2 outside controls (outside !c and !s)
+     - 4!s. Solid 1 loser suit, no outside controls.
+     - 2!s : all other.
+
+Minor suit auctions    
+
+-  For now, no picture jumps
 
 
 
+### Frivolous 3NT
+
+We play the frivolous/unserious 3NT as a slam try after a major suit has been agreed. This can be used after any game-forcing auction.
+ 
+ 1.  Cuebids showing controls become serious slam tries. 
+ 2.  Friv 3NT usually takes place when *no Picture Jump* as taken place. The idea being that after a Picture jump the partner of the picture-jumper can judge the contract and ask for Aces if need be
+
+Examples: 
+
+- 1!s-2!c-2!s (no Picture Jump)- ?
+    - 3NT Frivolous slam try --- partner to bid on with extras.
+    - Cuebid : opener interested in slam, strong hand.
+- 1!s-2!h-3!h (no Picture Jump)- ?
+  - 3NT, unserious slam try
+  - cuebid, serious slam try.
 
 
 
