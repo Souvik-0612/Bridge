@@ -1,0 +1,56 @@
+site_name: Souvik-Sounak Bridge
+theme:
+  name: material
+  logo: images/logo.png
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_javascript:
+  - js/scroll.js
+extra_css:
+  - css/custom.css
+
+  
+nav:
+  - System notes: index.md
+  - Card Play: HandPlayMod.md
+  # Add other pages here if needed
+hide:
+  - navigation
+markdown_extensions:
+  - toc:
+      permalink: True
+      toc_depth: 3  # This ensures that headers up to level 2 (##) are included in the TOC
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  navigation:
+    - name: Home
+      title: index.md
+      level: 3  # Set this to ensure all headers up to level 2 (##) are shown
