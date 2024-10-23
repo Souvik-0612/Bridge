@@ -28,8 +28,12 @@
          - pass with weak diamonds
          - bid shortness with strong hand.
 
+- 1NT-3!c is a game forcing puppet
+    - 3!d denies 5 card major, but can have 4
+      -  follow-ups exactly like 2NT puppet
+    - 3!h/3!s shows 5 card major
+    - 3NT denies 5 or 4 card majors.
 
-~To include: 3!c as 5 card GF stayman~
 
 ## 2NT opening
 With 3 card minors,  bid 3!c puppet Stayman
@@ -155,22 +159,55 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 ## 1x-1y-1z
 Work under progress
 
+# Agreements for strong game forcing auctions
 
-
-# Jacoby 2NT  
+## Jacoby 2NT  
 1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
-1M-2NT-?  
-- 3(!c/!d/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
-- 3M: Interest in slam
-- 3NT: balanced hand, 12-14 HCP
-- 4(!c/!d/oM): 5 cards  
->Note :
-1. You cannot bid 1!h-2NT-4!s to show 5 cards !s because we cannot stop at 4!h level!  
-2. The priority of bids: 
-- First show the 5 cards other suit.
-- Second show the short suit.  
 
-After the opener bid any bid by the responder is **control bids** and 4NT is RKCB.
+We play Larry Cohen's [modified Jacoby 2NT](https://bridgewinners.com/article/view/modified-jacoby-2nt/). 
+We can use the mnemonic MSDLB (use your own mnemonic: minimum sound dolby)
+
+1M-2NT-? 
+  - M: 3!c minimum 12-14 pts (responses SDLB)
+      - S: 3!d shortage, minimum
+      - D: two doubletons 5-4-2-2 
+      - L: 6 card suit (length),  6-3-2-2
+      - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
+  - S: 3!d shortage, 15+
+       - Realy asks for shortage, answers in steps
+         - V: void, followed by relay and LMH response 
+         - L: lowest suit, !c
+         - M: middle  suit, !d
+         - H: higher suit, other major
+  - D: two doubletons 5-4-2-2, 15+
+      - Relay aks for 2nd suit 
+         - in steps, LMH (low middle high)
+  - L: 6 card suit (length),  6-3-2-2, 15+
+      - Relay aks for 2nd suit 
+         - in steps, LMH
+  - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
+
+## Two way splinters
+
+Use [2-way splinters](https://bridgewinners.com/article/view/slam-bidding-limiting-your-hand-with-a-splinter/) as limit bids, limits responders hand and shape precisely.
+
+We don't splinter with a singleton Ace or King, to not mislead partner
+
+### Weak splinter (9-11 HCP)
+- 1!s-3NT-? or 1!h-3!s-?  (**shows unspecified shortage**, don't reveal shape with weak hands)
+   - Responder jumps to game with a weak hand or relays for information
+   - Relay responses show shortage LMH
+
+### Strong splinters (11-14 HCP)
+  - 1!h -3NT  (shows spades)
+  - 1!h -4!c/4!d (shows !c/!d)
+  - 1!s - 4!c/4!d/4!h (shows !c/!d/!h)
+
+
+
+
+
+
 
 
 
