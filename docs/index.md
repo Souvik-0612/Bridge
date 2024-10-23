@@ -40,16 +40,20 @@ hide:
          - pass with weak diamonds
          - bid shortness with strong hand.
 
-We also have some unassigned bids
+- 1NT-3♣ is a game forcing puppet
+    - 3<span style="color:red;">♦</span> denies 5 card major, but can have 4
+      -  follow-ups exactly like 2NT puppet
+    - 3<span style="color:red;">♥</span>/3♠ shows 5 card major
+    - 3NT denies 5 or 4 card majors.
 
-- 1NT-3♣-?  Possible use as a game forcing Puppet hand with a 3cM, looking for a 5-3 fit in a major with opener. 
 - 1NT-3<span style="color:red;">♦</span> ? Possible use, two suiters in minors
-- 1NT-3<span style="color:red;">♥</span> and 1NT-3♠, possible use: splinters
+- 1NT-3<span style="color:red;">♥</span> and 1NT-3♠, possible use: splinters with singleton
 
 ### 2NT opening
 
 We use Stayman and transfers as usual, including texas. 
 With 3 card minors,  bid 3♣ puppet Stayman (GF)
+>>>>>>> 03b1f849c35ebd3a6e0ebcd41845819e849000d4:system_notes.md
 
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
@@ -233,26 +237,54 @@ Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and 
 ### 1x-1y-1z
 Work under progress
 
-
+# Agreements for strong game forcing auctions
 
 ## Jacoby 2NT  
+1M - 2NT:Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
 
-1M - 2NT: Shows **GF** hand with ***min 4 cards support or 3 cards having two of top three honors***.  
-1M-2NT-?  
+We play Larry Cohen's [modified Jacoby 2NT](https://bridgewinners.com/article/view/modified-jacoby-2nt/). 
+We can use the mnemonic MSDLB (use your own mnemonic: minimum sound dolby)
 
-- 3(♣/<span style="color:red;">♦</span>/oM): shows void or singleton in that suit. Re-biding that suit at 4 level ensures void 
-- 3M: Interest in slam
-- 3NT: balanced hand, 12-14 HCP
-- 4(♣/<span style="color:red;">♦</span>/oM): 5 cards  
+1M-2NT-? 
+  - M: 3♣ minimum 12-14 pts (responses SDLB)
+      - S: 3<span style="color:red;">♦</span> shortage, minimum
+      - D: two doubletons 5-4-2-2 
+      - L: 6 card suit (length),  6-3-2-2
+      - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
+  - S: 3<span style="color:red;">♦</span> shortage, 15+
+       - Realy asks for shortage, answers in steps
+         - V: void, followed by relay and LMH response 
+         - L: lowest suit, ♣
+         - M: middle  suit, <span style="color:red;">♦</span>
+         - H: higher suit, other major
+  - D: two doubletons 5-4-2-2, 15+
+      - Relay aks for 2nd suit 
+         - in steps, LMH (low middle high)
+  - L: 6 card suit (length),  6-3-2-2, 15+
+      - Relay aks for 2nd suit 
+         - in steps, LMH
+  - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
 
-Note :
+## Two way splinters
 
-1. You cannot bid 1<span style="color:red;">♥</span>-2NT-4♠ to show 5 cards ♠ because we cannot stop at 4<span style="color:red;">♥</span> level!  
-2. The priority of bids: 
-- First show the 5 cards other suit.
-- Second show the short suit.  
+Use [2-way splinters](https://bridgewinners.com/article/view/slam-bidding-limiting-your-hand-with-a-splinter/) as limit bids, limits responders hand and shape precisely.
 
-After the opener bid any bid by the responder is **control bids** and 4NT is RKCB.
+We don't splinter with a singleton Ace or King, to not mislead partner
+
+### Weak splinter (9-11 HCP)
+- 1♠-3NT-? or 1<span style="color:red;">♥</span>-3♠-?  (**shows unspecified shortage**, don't reveal shape with weak hands)
+   - Responder jumps to game with a weak hand or relays for information
+   - Relay responses show shortage LMH
+
+### Strong splinters (11-14 HCP)
+  - 1<span style="color:red;">♥</span> -3NT  (shows spades)
+  - 1<span style="color:red;">♥</span> -4♣/4<span style="color:red;">♦</span> (shows ♣/<span style="color:red;">♦</span>)
+  - 1♠ - 4♣/4<span style="color:red;">♦</span>/4<span style="color:red;">♥</span> (shows ♣/<span style="color:red;">♦</span>/<span style="color:red;">♥</span>)
+
+
+
+
+
 
 
 
@@ -284,7 +316,7 @@ Examples :
 
 ### Two suiters
 
-We are currently playing the ***Minimax Style***: With 11-15 HCP open the **higher** suit.
+We are currently playing the Minimax Style: With 11-14 HCP open the higher suit.
 Responder assumes the weaker hand. Opener must bid again with the stronger hand.
 #### U2NT 
 
