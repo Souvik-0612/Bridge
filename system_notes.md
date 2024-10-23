@@ -257,11 +257,12 @@ We can use the mnemonic MSDLB (use your own mnemonic: my sound dolby)
 
 1M-2NT-? 
 
-  - M: 3!c minimum 12-14 pts (responses SDLB)
-      - S: 3!d shortage, minimum
-      - D: two doubletons 5-4-2-2 
-      - L: 6 card suit (length),  6-3-2-2
-      - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
+  - M: 3!c minimum 12-14 pts (responder relays to ask for shape, responses SDLB)
+      - Relay (3!d) asks for shape of minimum hand
+        - S: shortage, minimum
+        - D: two doubletons 5-4-2-2 
+        - L: 6 card suit (length),  6-3-2-2
+        - B: 3N: proper balanced hands (18+, 15-17 opens 1N)
   - S: 3!d shortage, 15+
        - Realy asks for shortage, answers in steps
          - V: void, followed by relay and LMH response 
