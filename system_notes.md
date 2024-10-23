@@ -172,7 +172,7 @@ What are the two different styles, really:
     - 1!h-2!c-2!s shows 4 spades with no extras.
 
  3. [Schuler style]() :
-    - 1!s-2!c-2!s denies 6 cards (lying allowed)
+    - 1!s-2!c-2!s denies 6 cards (lying allowed), includes all other hands.
     - 2!s is *nebulous*: 5 card !s hands with or without stoppers. 
     - 1!s-2!c-2NT shows 6 !s
     - The nebulous Schuler 2!s groups 1) all Lawrence style 2!s hands without 6 cards , and Lawrence style 2NT hands, whereas the 6 card spades go to 2NT
@@ -183,38 +183,38 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
 
 *Nebulous* 2!c : Real 5+ clubs  and all other balanced hands without 5 card !d/!h.
 
-1. Nebulous 2!c
-  - 1!s-2!d shows 5+ diamonds
-  - 1!s-2!h shows 5+ hearts
-  - 1!s-2!c *nebulous* : all other balanced GF hands or GF hands with real 5+ !c (all GF hands, basically)
-
-2. Responses to Nebulous 2!c 
-  - 1!s-2!c-2!h : 4+ cards (std)
-  - 1!s-2!c-2!d : nebulous (waiting, all other hands) or real !d 
-  - 1!s-2!c-2!s : 6 card spades
-  - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
-  - 1!h-2!c-2!s: no extras, 4 spades
-
-3. Responses to the waiting 2!d: 1!s-2!c-2!d-? Bidding is natural except 2oM showing real clubs.
-   - 1!s-2!c-2!d-2!h(other major) showing real clubs
-   - 1!h-2!c-2!d-2!s(other major) showing real clubs
-
-4. Simple Schuler extensions
-   - 1!s-2!d-2!s (nebulous)
-   - 1!s-2!d-2NT (6 !s, as in Schuler)
-   - 1!s-2!h-2!s (nebulous)
-   - 1!s-2!h-2NT (6 !s, as in Schuler)
-   - 1!h-2!d-2!h (nebulous)
-   - 1!h-2!d-2NT (6+ card, as in Schuler)
-
-5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
-   - 1!s-2!d-2!h(nebulous, might have !h,  to be shown later)
-   - 1!s-2!d-2!s(6 cards)
-   - 1!s-2!d-2NT(18-19, because 12-14 goes through nebulous)
-   - 1!s-2!h-2!s (nebulous)
-   - 1!s-2!h-2NT (6 !s, as in Schuler)
-   - 1!h-2!d-2!h (nebulous)
-   - 1!h-2!d-2NT (6+ card, as in Schuler)
+ 1. Nebulous 2!c
+   - 1!s-2!d shows 5+ diamonds
+   - 1!s-2!h shows 5+ hearts
+   - 1!s-2!c *nebulous* : all other balanced GF hands or GF hands with real 5+ !c (all GF hands, basically)
+ 
+ 2. Responses to Nebulous 2!c 
+   - 1!s-2!c-2!h : 4+ cards (std)
+   - 1!s-2!c-2!d : nebulous (waiting, all other hands) or real !d 
+   - 1!s-2!c-2!s : 6 card spades
+   - 1!s-2!c-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+   - 1!h-2!c-2!s: no extras, 4 spades
+ 
+ 3. Responses to the waiting 2!d: 1!s-2!c-2!d-? Bidding is natural except 2oM showing real clubs.
+    - 1!s-2!c-2!d-2!h(other major) showing real clubs
+    - 1!h-2!c-2!d-2!s(other major) showing real clubs
+ 
+ 4. Simple Schuler extensions
+    - 1!s-2!d-2!s (nebulous)
+    - 1!s-2!d-2NT (6 !s, as in Schuler)
+    - 1!s-2!h-2!s (nebulous)
+    - 1!s-2!h-2NT (6 !s, as in Schuler)
+    - 1!h-2!d-2!h (nebulous)
+    - 1!h-2!d-2NT (6+ card, as in Schuler)
+ 
+ 5. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits.
+    - 1!s-2!d-2!h(nebulous, might have !h,  to be shown later)
+    - 1!s-2!d-2!s(6 cards)
+    - 1!s-2!d-2NT(18-19, because 12-14 goes through nebulous)
+    - 1!s-2!h-2!s (nebulous)
+    - 1!s-2!h-2NT (6 !s, as in Schuler)
+    - 1!h-2!d-2!h (nebulous)
+    - 1!h-2!d-2NT (6+ card, as in Schuler)
 
  
 ## XYZ Continuations
