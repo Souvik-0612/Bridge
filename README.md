@@ -106,9 +106,33 @@ The main differences are
   - 2<span style="color:red;">♦</span>,  Drury 4+ cards.  9-12 HCP
   - 1NT can be 6-11 pts, but never with 3 card support for partner. Those must go through Drury
 
+### 1m  raises.
 
+The present style involves flip-flop raises, and inverted minor raises as game forces. A different approach using only inverted minor raises as invtiational or better has been described by [Adam Parrish and Steve Weinstein](https://bridgewinners.com/article/view/1m-2m-now-what/). Another promising relay based approach is advocated by [Eric Kokish](https://www.acblunit390.org/Simon/inverted-minors-kokish.htm)
 
+The minor suit raise structure incorporates inverted Minor and criss-cross raises:
 
+  - 1m-2m is 13+ points, GF (forcing to 4m). ♣ must have 5+ cards. <span style="color:red;">♦</span> can be raised with good 4.
+  - 1m-3m is weak hands, <7 pts 
+  - constructive raises, 8-9 points must go through 1NT, unfortunately.
+  - 1♣-2<span style="color:red;">♦</span>, 1<span style="color:red;">♦</span>-3♣ (jump shift in other minor is a limit raise).
+  - Minor suit raises deny 4 card major
+  - 1m-1NT is natural
+  - 1m-2NT is 11-12 points
+  - 1m-3NT is 13-15 points with stoppers 
+  - 1♣-2<span style="color:red;">♦</span> is GF
+
+Follow ups to 1m-2m : 
+  - opener's 2 level rebids are stopper/suit showing.
+  - opener's 2NT, shows major suit stoppers, at least
+  - 1m -2m-2NT-?
+     - 3m stopper ask
+  - opners 3m - nothing else can be bid.
+  - 1m-2m-2x-?
+    - 2y, stoppers
+    - 2NT, stoppers, 13-15 points
+    - 3NT, stoppers, 15-17 points
+  
 
 ### When opponents double
 
@@ -155,7 +179,7 @@ Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce a
 
 *Nebulous* 2♣ : Real 5+ clubs  and all other balanced hands without 5 card <span style="color:red;">♦</span>/<span style="color:red;">♥</span>.
 
-One can design different follow ups, among them the simpler ones being the natural [Gumpertz](http://bridgewinners.com/article/view/better-21-bidding-the-nebulous-2c-bid/) and the artificial (but perhaps simpler) [Spear](https://bridgewinners.com/article/view/spear-them/). 
+One can design different follow ups, among them the simpler ones being the natural [Gumpertz](http://bridgewinners.com/article/view/better-21-bidding-the-nebulous-2c-bid/) and the artificial (but perhaps simpler) [Spear](https://bridgewinners.com/article/view/spear-them/). For now, let us go with the first.
 
  1. Nebulous 2♣
     - 1♠-2<span style="color:red;">♦</span> shows 5+ diamonds
@@ -171,10 +195,15 @@ One can design different follow ups, among them the simpler ones being the natur
     - Jumps to three level show shape from opener when possible:
        - 1♠-2♣-3<span style="color:red;">♦</span>, splinter for <span style="color:red;">♦</span> with 4+ ♣, 5-1-2-4 or 5-0-3-5
        - 1♠-2♣-3<span style="color:red;">♥</span>, splinter for <span style="color:red;">♥</span> with 4+ ♣, 5-2-1-4 or 5-3-0-5
+       - 1♠-2♣-3♣, 4 clubs, deny other features.
  
  3. Responses to the waiting 2<span style="color:red;">♦</span>: 1♠-2♣-2<span style="color:red;">♦</span>-? Bidding is natural except 2oM showing real clubs.
     - 1♠-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(other major) showing real clubs
     - 1<span style="color:red;">♥</span>-2♣-2<span style="color:red;">♦</span>-2♠(other major) showing real clubs
+ 4. Other shape showing continuations
+    - 1♠-2♣-2<span style="color:red;">♦</span>-2NT-3<span style="color:red;">♦</span>, 5-5 in spades and diamonds
+    - 1♠-2♣-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-, 5 clubs and 4 diamonds, not much else to say.
+    - When opener has 5-2-4-2 and responder has 2-3-4-4, the fit cannot be found early
  
  4. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits. (on trial)
     - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(nebulous, might have <span style="color:red;">♥</span>,  to be shown later)
@@ -491,7 +520,8 @@ Simple reverse: 1<span style="color:red;">♦</span>-1♠-2<span style="color:re
 - Standard 2♣, 22+ points or 9-ish tricks
 - There are  **only two non-forcing** sequences:
     1. 2♣-2<span style="color:red;">♦</span>-2NT (shows 22-23/24 pts) 
-    2. Responder bids cheapest new suit at 3 level called a *second negative*
+    2. 2♣-2<span style="color:red;">♥</span> is a bust, 3- points, 4+ hands go through 2<span style="color:red;">♦</span>.
+    3. Responder bids cheapest new suit at 3 level called a *second negative*
           1. 2♣-2<span style="color:red;">♦</span>-2♠-3♣ (2nd neg)-3♠
           2. 2♣-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2♣-2<span style="color:red;">♦</span>-2♠-3♣-3♠-4♣ (responder rebids 2nd neg. suit to say he has real ♣)
@@ -518,9 +548,10 @@ Simple reverse: 1<span style="color:red;">♦</span>-1♠-2<span style="color:re
 
 ## Slam Bidding Agreements
 Presently we play RKC 1430 with King Ask showing specific kings. 
+The keycard ask is kickback style. 
+4T+1 is always keycards for T.
+
 Future Improvements:
-  - Minorwood
-  - Kickback
   - Exclusion Keycard
   - Standard void showing responses.
   - Kantar's book
