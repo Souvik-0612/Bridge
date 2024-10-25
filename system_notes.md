@@ -98,7 +98,6 @@ A suggested solution is:
 ### 1M openings in the 3rd/4th hand
 
 The main differences are 
-
   - We can open light, and rarely with 4 cards. 
   - Count *Cansino points*, Open if (HCP + number of !s=15)  
   - No Bergen Raises. 1M-3!c and 1M-3!d are invitational hands with long minors.
@@ -123,6 +122,7 @@ The minor suit raise structure incorporates inverted Minor and criss-cross raise
   - 1!c-2!d is GF
 
 Follow ups to 1m-2m : 
+
   - opener's 2 level rebids are stopper/suit showing.
   - opener's 2NT, shows major suit stoppers, at least
   - 1m -2m-2NT-?
