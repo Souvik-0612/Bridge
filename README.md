@@ -40,7 +40,7 @@ hide:
          - pass with weak diamonds
          - bid shortness with strong hand.
 
-- 1NT-3♣ is a game forcing puppet
+- 1NT-3♣ is a game forcing puppet (with 3 card minor, or 3-4 in majors)
     - 3<span style="color:red;">♦</span> denies 5 card major, but can have 4
       -  follow-ups exactly like 2NT puppet
     - 3<span style="color:red;">♥</span>/3♠ shows 5 card major
@@ -52,7 +52,7 @@ hide:
 ### 2NT opening
 
 We use Stayman and transfers as usual, including texas. 
-With 3 card minors,  bid 3♣ puppet Stayman (GF)
+With 3 card majors,  bid 3♣ puppet Stayman (GF)
 
   - 3<span style="color:red;">♦</span> denies 5 card major (has one 4cM)
       - 3NT (no 4cM)
@@ -98,18 +98,19 @@ A suggested solution is:
 ### 1M openings in the 3rd/4th hand
 
 The main differences are 
+
   - We can open light, and rarely with 4 cards. 
   - Count *Cansino points*, Open if (HCP + number of ♠=15)  
   - No Bergen Raises. 1M-3♣ and 1M-3<span style="color:red;">♦</span> are invitational hands with long minors.
   - 2♣, Drury, 3+ cards, 9-12 HCP 
   - 2<span style="color:red;">♦</span>,  Drury 4+ cards.  9-12 HCP
-  - 1NT can be 6-11 pts, but never with 3 card support for partner. Those must go through Drury
+  - 1NT can be 6-11 pts, but never with 3 card support for partner. Note the slightly increased point range because of the possibility of weakish openings. Those must go through Drury
 
-### 1m  raises.
+### 1m  openings and raises
 
 The present style involves flip-flop raises, and inverted minor raises as game forces. A different approach using only inverted minor raises as invtiational or better has been described by [Adam Parrish and Steve Weinstein](https://bridgewinners.com/article/view/1m-2m-now-what/). Another promising relay based approach is advocated by [Eric Kokish](https://www.acblunit390.org/Simon/inverted-minors-kokish.htm)
 
-The minor suit raise structure incorporates inverted Minor and criss-cross raises:
+The minor suit raise structure incorporates inverted Minor (GF) and criss-cross(INV) raises:
 
   - 1m-2m is 13+ points, GF (forcing to 4m). ♣ must have 5+ cards. <span style="color:red;">♦</span> can be raised with good 4.
   - 1m-3m is weak hands, <7 pts 
@@ -132,6 +133,13 @@ Follow ups to 1m-2m :
     - 2y, stoppers
     - 2NT, stoppers, 13-15 points
     - 3NT, stoppers, 15-17 points
+
+Follow ups to 1♣-2<span style="color:red;">♦</span> and 1<span style="color:red;">♦</span>-3♣
+
+  - opener is the captain, as responder has limited himself to 11-12 pts
+  - 3m is a rejection of invit. 
+  - 2NT (when available) is both majors
+  - 3 of a suit is stopper asking (mostly from opener, and is at least forcing to 4m)
   
 
 ### When opponents double
