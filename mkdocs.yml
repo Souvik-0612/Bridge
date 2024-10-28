@@ -53,4 +53,4 @@ extra:
   navigation:
     - name: Home
       title: index.md
-      level: 3  # Set this to ensure all headers up to level 2 (##) are shown
+      level: 2  # Set this to ensure all headers up to level 2 (##) are shown
