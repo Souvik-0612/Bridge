@@ -163,6 +163,7 @@ or 1♠-(2♣/2<span style="color:red;">♦</span>/2<span style="color:red;">♥
 -  2NT: usual, 10-12 pts, with stopper
 - Cuebid (3 cards limit raise)
 - All other hands, X  
+
 ## Weak 2 openings
 Exactly 6 cards with 6-11 pts(Not HCP) open 2<span style="color:red;">♦</span>/<span style="color:red;">♥</span>/♠  
 
@@ -198,7 +199,7 @@ One can design different follow ups, among them the simpler ones being the natur
     - 1♠-2♣-2<span style="color:red;">♥</span> : 4+ cards (std)
     - 1♠-2♣-2<span style="color:red;">♦</span> : nebulous (waiting, all other hands) or real <span style="color:red;">♦</span> 
     - 1♠-2♣-2♠ : 6 card spades
-    - 1♠-2♣-2NT : 18-19 pts, 12-14 goes through nebulous (or we could make it Lawrence style 2NT)
+    - 1♠-2♣-2NT : 18-19 pts or 12-14 NT goes through nebulous (promises stoppers)
     - 1<span style="color:red;">♥</span>-2♣-2♠: no extras, 4 spades
     - Jumps to three level show shape from opener when possible:
        - 1♠-2♣-3<span style="color:red;">♦</span>, splinter for <span style="color:red;">♦</span> with 4+ ♣, 5-1-2-4 or 5-0-3-5
@@ -214,9 +215,9 @@ One can design different follow ups, among them the simpler ones being the natur
     - When opener has 5-2-4-2 and responder has 2-3-4-4, the fit cannot be found early
  
  4. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits. (on trial)
-    - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(nebulous, might have <span style="color:red;">♥</span>,  to be shown later)
-    - 1♠-2<span style="color:red;">♦</span>-2♠(6 cards)
-    - 1♠-2<span style="color:red;">♦</span>-2NT(18-19, because 12-14 goes through nebulous)
+    - 1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>(4+ <span style="color:red;">♥</span>)
+    - 1♠-2<span style="color:red;">♦</span>-2♠(nebulous, balanced-ish)
+    - 1♠-2<span style="color:red;">♦</span>-2NT(6+ ♠)
     - 1♠-2<span style="color:red;">♥</span>-2♠ (nebulous)
     - 1♠-2<span style="color:red;">♥</span>-2NT (6 ♠, as in Schuler)
     - 1<span style="color:red;">♥</span>-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> (nebulous)
