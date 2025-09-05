@@ -1,0 +1,478 @@
+\documentclass{article}
+
+\usepackage[a4paper,landscape,margin=0.5cm]{geometry}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{tikz}
+
+\let\humlaut=\H
+\let\sectsym=\S
+\newcommand\C{\ensuremath{\clubsuit}}
+\newcommand\D{\ensuremath{\diamondsuit}}
+\renewcommand\H{\ensuremath{\heartsuit}}
+\renewcommand\S{\ensuremath{\spadesuit}}
+\newcommand\N{{\footnotesize NT}}
+\newcommand\PASS{{\footnotesize PASS}}
+\newcommand\X{{\footnotesize X}}
+\newcommand\XX{{\footnotesize XX}}
+
+\newcommand\tick{\ensuremath{\surd}}
+
+\begin{document}
+\noindent
+\small{
+\begin{minipage}{90mm}
+	\begin{tabular}{| p{88mm} |}
+		\hline
+		\cellcolor[gray]{0.9} \textbf{DEFENSIVE AND COMPETITIVE BIDDING} \\ \hline
+		\textbf{OVERCALLS} \\ \hline
+                8+, 6+ in balancing pos.
+		\\ \hline
+		\\ \hline
+                RESP: 2/1 NF (neg. ), 1/1 F, 2/2 F
+		\\ \hline
+                RESP: CUE=INV+, JS =?
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{1\N \ OVERCALL} \\ \hline
+		\\ \hline
+                15-18 pts, SYS ON
+		\\ \hline
+                12-14 in Balancing pos, systems off, CUE=STAY
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{JUMP OVERCALLS} \\ \hline
+		\\ \hline
+                Weak, Preemptive
+		\\ \hline
+                2NT= 5-5 in minors
+		\\ \hline
+		Reopen: \\ \hline
+		\textbf{DIRECT \& JUMP CUE BIDS} \\ \hline
+                Michaels, shows highest and another
+		\\ \hline
+                responses: cuebid shows support
+		\\ \hline
+                [2x]-3x = STP ASK G/T 
+		\\ \hline
+		\\ \hline
+		\textbf{VS. NT} \\ \hline
+                Multi-Landy (\ref{oneNTdef})
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{VS. PREEMPTS} \\ \hline
+                Overcalls NAT, [2X]-3X=STP ASK
+		\\ \hline
+                Leaping and non-leaping Michaels (~\ref{leaping})
+		\\ \hline
+                \X\ can be followed by Lebensohl (\ref{leb})
+		\\ \hline
+		\textbf{VS. ARTIFICIAL STRONG OPENINGS} \\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{OVER OPPONENTS' TAKEOUT DOUBLE} \\ \hline
+		\\ \hline
+                Mostly ignore T/O \X\
+		\\ \hline
+                All fit showing RESP and SPL
+                exactly as openings w/o \X\
+		\\ \hline
+		\\ \hline
+                1NT=6-10 pts (NF)
+		\\ \hline
+                Rdbl=10+ pts, 2NT 3+ supp
+		\\ \hline
+                2/1 NF Neg. Freebid, Bergen Raises On
+		\\ \hline
+                Inv Minors and Criss-Cross On
+		\\ \hline
+		\\ \hline
+	\end{tabular}
+\end{minipage}
+}
+\begin{minipage}{5mm}
+	\begin{tabular}{| p{5mm} |}
+	\end{tabular}
+\end{minipage}
+\begin{minipage}{90mm}
+	\begin{tabular}{| p{88mm} |}
+		\hline
+		\cellcolor[gray]{0.9} \textbf{LEADS AND SIGNALS} \\ \hline
+		\textbf{OPENING LEADS STYLE} \\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{15.25mm} | p{32mm} | p{32mm} |}
+		& Lead & In Partner's Suit \\ \hline
+		Suit       &3/5 & \\ \hline
+		Notrump    &3/5 & \\ \hline
+		Subsequent & & \\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{88mm} |}
+		Other: top of nothing in NT \\ \hline
+		\\ \hline
+		\textbf{LEADS} \\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{11.25mm} | p{34mm} | p{34mm} |}
+                %Honor leads
+		Lead   & Vs. Suit            & Vs. NT \\ \hline
+                Ace    &Ax, AKx(+), AKx(+)   & AKJ(+),AKQ(+) \\ \hline
+                King   &KQ(+), KQJ(+)        &KQx(+), KQJ(+) \\ \hline
+                Queen  &QJ(+),QJT(+),AQJ(+)  & \\ \hline
+                Jack   &JT(+)                & JT(+),JT9(+) \\ \hline
+                T      &T9(+),KJT(+)         & T9(+),KJT(+) \\ \hline
+                9      &98,QT9(+)         & 98,QT9(+) \\ \hline
+
+                %small card leads
+                Hi-X   & Sx                  &Sx,Sxx,Sxxx \\ \hline
+                Lo-X   &xxS,xxSx,xxxxS       & HxS(+),HxxxS(+)\\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{88mm} |}
+
+		\textbf{SIGNALS IN ORDER OF PRIORITY} \\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{8.9mm} | p{22mm} | p{22mm} | p{22mm} |}
+		       & Partner's Lead & Declarer's Lead & Discarding \\ \hline
+		1      &Lo=Enc          & Lo/Hi=E         & Lo=Enc \\ \hline
+		2 Suit &Lo/Hi=Enc       & Lo=Enc          & \\ \hline
+		3      &S/P             &                 & \\ \hline
+		1      &Lo=Enc          & Lo/Hi=E         & Lo=End \\ \hline
+		2 NT   &Lo/Hi=E         & Lo=Enc          & \\ \hline
+		3      &S/P             &                 & \\ \hline
+	\end{tabular}
+	\begin{tabular}{| p{88mm} |}
+		Signals: \\ \hline
+		\\ \hline
+		\\ \hline \hline
+		\cellcolor[gray]{0.9} \textbf{DOUBLES} \\ \hline
+		\textbf{TAKEOUT DOUBLES} \\ \hline
+                Sound in direct seats, WK in balancing. 
+		\\ \hline
+                Any shape if 18+
+		\\ \hline
+                RESP: CUE =F1 (10+ or both M), Jump RESP=8+  
+		\\ \hline
+		\\ \hline
+		\textbf{MISCELLANEOUS DOUBLES/REDOUBLES} \\ \hline
+		\\ \hline
+                NEG \X\ thru 3\S\
+		\\ \hline
+                1\C\ - (1\D\ )- \X\ promises 4+ in both \H and \S
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+	\end{tabular}
+\end{minipage}
+\begin{minipage}{5mm}
+	\begin{tabular}{| p{5mm} |}
+	\end{tabular}
+\end{minipage}
+\begin{minipage}{90mm}
+	\begin{tabular}{| p{88mm} |}
+		\hline
+		\cellcolor[gray]{0.9} \textbf{WBF CONVENTION CARD} \\ \hline
+		\textbf{CATEGORY:} \\
+		\textbf{NCBO:} \\
+		\textbf{EVENT:}  \\
+		\textbf{PLAYERS:} Olli and Sounak \\
+		\multirow{2}{*}{} \\
+		\\
+		\cellcolor[gray]{0.9} \textbf{SYSTEM SUMMARY} \\ \hline
+		\textbf{GENERAL APPROACH AND STYLE} \\ \hline
+                5 card Majors (1NT resp F1), 2/1 GF, 15-17 1NT , 20-21 1NT
+                \\ \hline
+                3+ minors. 1m-2m raise FG, JS in o/m LR
+                \\ \hline
+                All jump raises weak
+		\\ \hline
+                Bergen Raises , 2-way rev Drury in 3/4 hand
+		\\ \hline 
+                sound Preempts, weak 2s with 6 cards 
+		\\ \hline
+		\\ \hline
+                2/1 FG (\ref{2over1})
+		\\ \hline
+		\\ \hline
+		\textbf{SPECIAL BIDS THAT MAY REQUIRE DEFENSE} \\ \hline
+                2 \C\ 22+ or 9 tricks (2\H\ resp weak, 2\D\ 4+)
+		\\ \hline
+                Kap Int: 1\H\-1\S\ shows 0-4 \S\ , 1\H\-1NT= 5\S\
+		\\ \hline
+                2\D\, 2\H\, 2\S\ weak with 6+ cards
+		\\ \hline
+                Smolen
+		\\ \hline
+                Michaels Cuebid shows 5-5 in highest unbid suit and lower suit
+		\\ \hline
+                U2NT shows 5-5 in lowers
+		\\ \hline
+		\\ \hline
+            LEB after a)1NT interference (except 2 \C\ ), 
+          \\  \hline b) openers Reverse (\textit{4th S or 2NT is LEB})
+                \\ \hline, c) \X\ of opp wk2 . 
+		\\ \hline
+		\\ \hline
+                 Modern LEB: 3NT=STOP, CUE=STOP ASK, 2NT RELAY=STAY
+		\\ \hline
+                \\ Good-Bad 2NT, Sandwich 1NT
+		\\ \hline
+                Neg. X thru 3\S\
+		\\ \hline
+		\\ \hline
+		\textbf{SPECIAL FORCING PASS SEQUENCES} \\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{IMPORTANT NOTES} \\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\\ \hline
+		\textbf{PSYCHICS:} \\ \hline
+	\end{tabular}
+\end{minipage}
+
+\noindent
+\begin{tabular}{| p{9mm} | p{6mm} | p{9mm} | p{9mm} | p{30mm} | p{80mm} | p{62mm} | p{46mm} |}
+	\hline
+	\cellcolor[gray]{0.9} \textbf{OPEN} & \cellcolor[gray]{0.9} \textbf{ART} & \cellcolor[gray]{0.9} \textbf{MIN CRDS} & \cellcolor[gray]{0.9} \textbf{NEG. DBL} & \cellcolor[gray]{0.9} \textbf{DESCRIPTION} & \cellcolor[gray]{0.9} \textbf{RESPONSES} & \cellcolor[gray]{0.9} \textbf{SUBSEQUENT ACTION} & \cellcolor[gray]{0.9} \textbf{COMPETITIVE \& \cellcolor[gray]{0.9} PASSED HAND BIDDING} \\ \hline
+        %minor openings 1C
+        1\C & &3 & 3\S\ &11-21, no 5cM. \C\ $>$ \D\ or 3-3 in mm 
+        & {\footnotesize  1 \D\ = 4+ \D\ 6+ with no 4cM or 11+, 1 / \H\ / \S\ = 4+ \H\ / \S\  6+ PTS , 1NT=6-10 NAT, 2\C\ = FG 5supp, 2\D\ =INV 5supp, 2\H\ /  2\S\ = WJS  , 2NT=NAT 11-12, 3\C\ =WK, 3\D\ /\H\ /\S\ =SPL, 3NT=NAT 13-15 \par } 
+        &{ \footnotesize After 1\C\ -2\C\ :  2NT= \H\ \S\ STP; 2x = x STP; 3y = STP ASK; 3\C\ =no STP ; 3NT = 18+, Similar after 1\C\ -2\D\ ;  4\C\ = INV,  4\C\ = KCB,  XYZ   \par }
+        & 1\C-2\C\ and 1\C\ - 2\D\ NAT in COMP. 1\C\ - 2\C\ = INV+ in 3rd/4th \\ \hline
+        %minor opening 1 diamond
+	1\D & &3 & 3\S\ &11-21, no 5cM. \D\ $>$ \C\ and not 3-3 in mm 
+        &{\footnotesize 1/ \H\ / \S\ = 4+ \D\ / \H\ / \S\ 6+PTS, 1NT=6-10 NAT, 2\C\ = FG, 2\D\ =FG 4supp, 2\H\ /2\S\ =WJS, 2NT=NAT 11-12, 3\C\ =INV 5supp, 3\D\ =WK, 3 \H\ 3\S\ 4\C\ =SPL, 3NT=NAT 13-15 \par }
+        &{\footnotesize After 1\D\ -2\D\ :  2NT= \H\ \S\ STP; 2x = x STP; 3y = STP ASK; 3\D\ =no STP ; 3NT = 18+, Similar after 1\D\ -3\C\ ;    4\D\ = KCB, XYZ \par }
+        & 1\D-2\D\ and 1\D\ - 3\C\ NAT in COMP. 1\D-2\D = INV+ in 3rd/4th
+        \\ \hline
+
+        %major openings
+	1\H & &5 & 3\S\ &11-21 
+        &{\footnotesize 1/ \S\ / \S\ = 0-4 \S\  F1 6+PTS, 1NT $<=$12 pt, 5+ \S\,  2\C\ = FG NAT or BAL (SUPP), 2\D\ =FG 5+\D\ , 2\H\ = FG 5+ \H\ , 2\S\ =  8-10 3supp, 2NT= GF 3Supp, 3\C\ = 7-10 4supp, 3\D\ = 10-12 4supp, 3\H\ = PRE 4Supp, 3\S\ / 3NT/ 4\C\ / 4\D\ = SPL, 4\H\ = PRE 5supp, 4\S\ = KCB \par }
+        & {\footnotesize After 1\H\ -2\D\ : 2\H\ =5 \H, 2N=6+\H\.   
+        After 1\H\- 2NT  follow ups in (x) 
+      After 1 \H\ - 3\D\ : show shortness ; After 1 \H\ -3\C\ : SS G/T; After 1\H\ - 3\D\ :  CUE, After 1\H\ - 2\H - 2way G/T. \par }
+        & In COMP: 1\H\-3\C\ , 1\H\-3\D\ = INV; In 3rd/4th: 1\H\-2\C\ = INV+ 3supp, 1\H-2\D\ = INV+ 4supp
+        \\ \hline
+	1\S & & 5 & 3\S\ & 11-21  
+        & {\footnotesize Same as 1 \H\ except: 1NT $<=$ 12 inc 3Supp, 2\H\ = FG 5+ \H\ , 2\S\ = 8-10 3supp, 3\S\ = PRE 4Supp, 3\H=SOL INV+, 4\S\ = PRE 5Supp, 4\H = SPL, 4NT = KCB \par }
+        &  {\footnotesize Same as 1\H\ except 1\S\ - 2\H\ -2\S\ = 5\S\ waiting, 1\S\ -2\H\ -2NT = 6+ \S\ \par }
+        & {\footnotesize In COMP: 1\S\ -3\C\ , 1\S\ -3\D\ = INV; In 3rd/4th: 1\S\ -2\C\ = INV+ 3supp, 1\S\ -2\D\ = INV+ 4supp \par } \\ \hline
+      1\N & & & 3\S\ & BAL 15-17 
+      &{\footnotesize 2\C=STAY, 2\D\ = TRF \H\ , 2\H\ = TRF \S\ , 2\S\ = TRF \C\ or BAL 8-9 , 2 NT = TRF \D\ or BAL 8-9, 3 \C\ = PUPP STAY, 3\D\ = mm, 3\H\  /  3\S\ = SPL, 3NT= 10-15 NAT, 4\D\ =TRF 4\H\ , 4\H\ =TRF 4\S\, 4NT= QUANT \par}
+        & 
+       {\footnotesize After 2\S\ : 2NT= 15, 3\C\ = 16+;  After 2NT : 3\C\ = 15, 3\D\ = 16+; 
+        After 2\C\ - 2\D\ : 2NT = 8-9, 3M = FG, 5-4  in oM-M; 2\H\ = WK (54)xx ; 2\S\ =  INV 54xx
+      1NT-2\D\ - 2\H\-2\S\ = INV 45xx, 1NT - 2\H\- 2\S\ -3\H\ = 55xx \par }
+      & Lebensohl (slow denies) (\ref{leb})\\ \hline
+	2\C &\tick\ & 0 & 4\S\ & 22+ or 8.5 tricks 
+        & 2\H\ = 3- Pts or no A/K, 2\D=4+ Pts ,  2\H\ , 2\S\ , 3 \C\ , 3\D\ = NAT 8+ pts
+        & After 2\C\ -2\H\ : NAT, After 2\C\ - 2\D\ : 2\H\ = \H\ or BAL or \H and other suit ,  2\S\ = \S\ or \S\ and other suit  (\ref{kokish})
+        & In COMP: \X\ = 3- Pts or no A/K, PASS=Waiting \\ \hline
+	2\D & &6 &4\H\ & WK PRE&2NT=F1 15+,3\D\ =NF, NS=NF &After 2\D\-2NT: 3\C\ = 1H 6-8, 3\D\=2H 6-8, 3\H\ = 1H 8+, 3\S\ = 2H 8+, 3NT= 3H 8+  & \\ \hline
+	2\H & &6 & &PRE 6-10 &same as 2\D\ &same as 2\D\ & \\ \hline
+	2\S & &6 & &PRE 6-10 &same as 2\D\ &same as 2\D\ & \\ \hline
+	2\N & & & &20-21 & 3\C =PUPP STAY, 3\D= TRF 3\H\ , 3\H\= TRF 3\S\, 4NT=QUANT & & \\ \hline
+	3\C & &7 & &PRE & & & \\ \hline
+	3\D & &7 & &PRE & & & \\ \hline
+	3\H & &7 & &PRE & & & \\ \hline
+	3\S & &7 & &PRE & & & \\ \hline
+	3\N & & & & & & & \\ \hline
+	4\C & &8 & &PRE & & & \\ \hline
+	4\D & &8 & &PRE & & & \\ \hline
+	4\H & &8 & &PRE & & & \\ \hline
+	4\S & &8 & &PRE & & & \\ \hline
+        4\N & & & & & &\multicolumn{2}{c}{\cellcolor[gray]{0.9} \textbf{HIGH LEVEL BIDDING}} \\ \hline
+        5\C & & & & & &RKC 1403, spec. K, void-showing (\ref{kickback})   & Cuebids\\ \hline
+        5\D & & & & & & 4\C\ = Optional KCB for \C\ , 4\D\= Opt. KCB for \D\  & 1st and 2nd rnd CTRL togeter \\ \hline
+	5\H & & & & & &4\S\ = KCB for \H\ , 4NT = KCB for \S\  & \\ \hline
+	5\S & & & & & &Exclusion KCB  & 1\S\ - 3NT, 1\H - 3\S\  = 9-11, SPL w unspec shortness \\ \hline
+	5\N & & & & & &Unserious slam-try 3NT & 1\H\ - 3NT = SPL w \S\ shortness\\ \hline
+\end{tabular}
+
+\noindent
+%\big{Supplementary Notes}
+%\begin{tabular}{| p{139.1mm} | p{139.1mm} |}
+%	\cellcolor[gray]{0.9} \textbf{HIGH LEVEL BIDDING} & \cellcolor[gray]{0.9} \textbf{ADDITIONAL NOTES} \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%	& \\ \hline
+%\end{tabular}
+
+\section{Supplementary Notes}
+\begin{multicols}{2}
+  \subsection{1NT sequences}
+  \label{1ntfollowups}
+  \begin{itemize}
+    \item 1NT-2\C\ - 2\D\ -?  2\H\ = weak, both major, pass or correct, 3\S\ = 5 \H\ and 4\S\ FG, 3\H\ = 5\S\ and 4\H\ FG, 2\S\ = 5 \S\ and 4\H\ INV
+    \item 1NT-2\H\-2\S\-3\H\ = 5-5 in M, FG
+    \item 1NT-2\D\-2\H\-2\S\ = 5\H\ and 4\S\ , INV
+    \item 1NT-?: 3\C\ = STAY with 3cM, 3\D\ = 5-5 in mm, FG, 3\H\ , 3\S\ = SPL exactly 3=1=(5=4) or 1=3=(5=4)
+  \end{itemize}
+
+
+
+  \subsection{Relays after Jacoby 2NT}
+  \label{j2nt}
+  After 1M-2NT, opener replies in steps:
+  \begin{itemize}
+    \item 12-14,15-17,18+
+    \item Relay to ask Shortness: LMHN ( Single in Lower suit, Mid suit, Higher suit resp,N)
+    \item Next Relay: RKC, first step shows void
+  \end{itemize}
+  \subsection{Splinters}
+  \label{spl}
+   \begin{itemize}
+     \item weaker splinter (10-12) and stronger splinter (12-14)
+     \item 1\S\ - 3NT and 1\H\ - 3\S\ is weaker splinter with \H\ and \S\ shortness, resp. Partner relays to ask shortness, responses in steps LMH 
+     \item 1\H\ - 3NT is stronger SPL for \S\ . STD SPL after 1\S\ strong SPL  
+   \end{itemize}
+  \subsection{Special 2/1 continuations}
+  \label{2over1}
+  \begin{itemize}
+    \item 1\H\ - 2\D\ ,  1\S\ - 2\D\ and 1\S\-2\H\ = 5+ cards, FG. Then: 2NT = 6 cM, 2 M = waiting, REV=15+.
+    \item 1 M - 2 \C\ = BAL or 5+ \C\ .
+    \item 1M- 2\C\ - 2\D\ = \D\ or waiting. 1M- 2\C\ - 2\D\- 2oM = 5+ \C\ , BAL or UNBAL
+    \item 1\S\- 2\C\ - 2\H\ = 4 \H\ . 1\H\ - 2\C\ - 2\S\ = 4 \S\ , no extras.
+    \item 1M- 2\C\ - 2M = 6 cM. 1M- 2\C\ - 2NT shows 18-19 PTS, BAL
+    \item 1M- 2\C\ - 3\C\ = 4+ \C\ = 4+ \C\ , exactly 5=4=2=2 , otherwise SPL
+    \item 1\S\- 2\C\ - 3\D\ / \H\  or 1\S\ - 2\C\ - 3\D\ = SPL with \C\ 
+    \end{itemize}
+  %  \subsection{Picture Jumps}
+  %  \label{picture}
+  %  Picture Jumps apply after 2/1 GF auctions. They show strong two suiters confirming or denying outside controls, or  in case of jump rebids, long 1-loser solid suits.
+  %  \begin{itemize}
+  %  \item After 2/1, Jump to 4M is Picture jump, shows excellent trumps (xxxx or HHx) and great (runnable) 5+ cards 2/1 suit, denies outside controls(can be followed by unserious 3NT and/or  cuebids).
+  %  \item After 2/1 if the bid of 3M \emph{is a jump}, then it shows outside controls, excellent trumps and great 5 card 2/1 suit.
+  %  \item 1\S-2\H\-4\H\ also shows strong 2-suiter in \S\ and \H\
+  %  \item After 2/1 GF, jump rebids show 1 loser solid suit. 
+  %\end{itemize}
+%  \subsection{Lebensohl sequences }
+%  \label{leb}
+%  \begin{itemize}
+%    \item After 1NT-(2x)-?: if 2y is available then 2y=Signoff, 2NT-3\C\ -3y = INV, 3y = FG.
+%    \item After 1NT-(2x)-?: if 2y is not available then  2NT-3\C\ -3y = signoff, 3y = FG.
+%    \item After 1NT-(2x) or any other aritifical overcall showing x, 3x= Stayman w/o STP, 2NT- 3\C\ - 3x = Stayman w STP, 3NT = FG w/o STP, 2NT-3\C\-3NT FG w STP.
+%    \item After Weak 2s, (2M)-\X\ -? : LEB structure. Except that when 2y is not available, 3y =INV+ (Not FG). Everything else is ast after 1NT. Opener disobeys the relay with a very strong hand
+%    \item After a Reverse following a 1-over-1 bid, we play LEB. All bids except an responder's rebid of her own suit are one round forcing. All 3-level bids are FG. There is no cuebid-Stayman. 2NT relays to 3\C\ and disobeying the relay shows GF strength (19+)
+%\end{itemize}
+  
+
+%  \subsection{Keycards}
+%  \label{kickback}
+%  \begin{itemize}
+%\item We play Kickback, T+1 (suit higher than trumps) is the asking suit, to be called ASK=T+1. For \S\ , 4NT is still the keycard ask, \textit{i.e.},  ASK is NT. 4NT can be still keycards if 4T+1 can be interpreted as a natural bid (rare)--- perhaps when it is the openers suit or 2/1 suit.
+%\item   4T+1 asks for Keycards with T as trumps. Responses are 04,13, 25 w/o Q, 25 w Q.
+% \item After 14 and 03 responses, next step is Q ask, responses are 1)w/o Q and 2) w Q in steps.
+% \item After checking for Keycards, 5ASK is King ask. Responsder shows spec Kings. 6T=no Kings, 5N = K of Asking suit (we stay below 6T). 6ASK= All three Kings
+% \item Void showing responses: After 4ASK: 5ASK= Even no. of Keycards with a void in side suit. 5x = Odd no. of Keycards with a void in x (5NT is for ASK)
+% \item After 4T+1 : 5N= even no. of Keycards with a void.
+% \item Exclusion: Only when the trump suit is absolutely crystal clear, jump bid beyond 4ASK shows void in the jumped suit (with 4NT filling in for ASK), partner shows Keycards outside the void suit. (1403 response structure in steps). \emph{4NT can be used as exclusion only when trump suit is crystal clear}
+%   In detail: 
+%   \begin{itemize}
+%     \item With  \S\ as T 4NT is normal keycards, 5\C\ , 5\D\ and 5\H\ are keycard asks excluding voids.
+%     \item With \H\ as T 4\S\ is normal keycards , 4N (\S\ ) , 5\C\ and 5\D\ are keycard asks with exclusion.
+%     \item With \D\ as T 4\H\ is normal keycards , 4\S\ 4N (\H\ ) , 5\C\   are keycard asks with exclusion.
+%     \item With \C\ as T 4\D\ is normal keycards , 4\H\ , 4\S\ ,  4N (\D\ )    are keycard asks with exclusion.
+%     \end{itemize}
+% \end{itemize}
+
+
+ \subsection{After strong 2\C\ }
+ \label{kokish}
+ \begin{itemize}
+   \item 2\C\ - 2\H\ is weak (<4 pts or no keycards). NAT responses (no Kokish)
+   \item 2\C\ - 2NT = 22-23 PTs
+   \item 2\C\ - 2\D\ - 2\H\ REL to 2\S\ .  After : 2NT=24+, 3\H\ = 6+ \H\ , 3y= \H and y
+   \item 2\C\ - 2\D\ - 2\S\ REL to 2NT, if opener doesn't want to play NT. After :  3\S\ = 6+ \S\ , 3y= \S\ and y
+   \end{itemize}
+ \subsection{Leaping and non-leaping Michaels }
+ \label{leaping}
+ \begin{itemize}
+   \item After Weak 2M: 4\C\ = \C\ and OM, 4\D\ = \D\ and oM, 4oM (rarea and ridiculous) = both min
+   \item After Weak 2\D\ and Multi 2\D\ : 4\C\ = \C\ and M, 4\D\ = \D\ and M, 4\D\ = both M
+   \item  Same response after weak 3 bids
+ \end{itemize}
+  \subsection{Competitive auctions}
+  \label{comp}
+  \subsubsection{After opponents X}
+  What changes After 1M-(x)-?  :
+  \begin{itemize}
+    \item 2/1 is $<=$10 pts (Neg Freebid), 5+ cd
+    \item XX shows 10+ points including INV+ hands with 3SUPP (but not 4SUPP)
+    \item 1M-1NT = 6-10 points NF (no 3Supp)
+    \item 1M-2M = 6-10 points (not 8-10)
+    \item 1M-2NT = 3Supp INV
+  \end{itemize}
+  What doesn't change After 1M-(x)-?  :
+  \begin{itemize}
+    \item  1M-3\C and 1M-3\D\ = 4Supp, Drury in 3/4th hand. 
+    \item SPL bids
+    \item XYZ sequences
+  \end{itemize}
+  \subsubsection{After opponents overcall}
+  \begin{itemize}
+    \item 1 \C\ - (1 \D\ ) - X shows 4-4 in MAJ 
+    \item 1m - (1 \H\ ) - X shows 4 \S\ , 1\S\  shows 5 +
+    \item 1x-(any)-2y = 10+ pts, 5+  cards
+    \item 1x-(any)-3y = FG, 5+  cards
+    \item 1x-(any)-2NT= 4+ supp, INV+
+    \item CUE of opponent's suit = 3+, INV+
+    \item JUMP CUE = Mixed raise
+    \item JS= PRE, WK
+    \item XYZ on, if it can be completed
+  \end{itemize}
+  \subsubsection{After Partner overcalls}
+  After (1x)-1y-(P)-?
+  \begin{itemize}
+    \item 2y = 3SUPP, 8+
+     \item JS= WK, PRE
+     \item CUE = F1, INV+ or other forcing hands
+  \end{itemize}
+  \subsubsection{After Partner doubles}
+  After (1x)-X-(P)-?
+  \begin{itemize}
+    \item 1y = <8 pts
+    \item 2y = 8-10 pts
+    \item 2x (CUE) = 10+ pts, F1 or both majors when P doubles 1m
+     \item (1x)-X-(P)-P-(P)-1NT rebid shows 19+ BAL
+  \end{itemize}
+  \subsubsection{Against 2-suiters}
+  \label{twosdefence}
+  When both suits are known:
+  \begin{itemize}
+    \item When both suits are known, we play lower-lower
+    \item After 1\S\ - (2NT) showing \C\ and \D\ : 3\C\ = FG with \H\ , 3\D\ = INV+ in \S\ , X=PEN, 3\S\ = PRE
+    \item After 1\H\ -(2\H\ ) showing \S\ and lower, 2\S\ INV+ in \H\ , 3\H\ = PRE, X = 10+ 
+    \end{itemize}
+\end{multicols}
+
+\end{document}
