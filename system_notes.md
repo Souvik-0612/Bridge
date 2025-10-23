@@ -235,7 +235,8 @@ One can design different follow ups, among them the simpler ones being the natur
 Perhaps it is useful to separate auctions XYNT and XYZ.
 
 ### 1m-1M-1NT
-Let us consider bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
+Let us consider bin reverse to the 4 or splinter for the 3 support happily, not showing extras. 5-4-2-2 can non-jump bid the 4 card suit at whatever level
+  4. 1M-2d-2M is 6. The pdding after 1m-1M-1NT, where oM and om denote other major and other minor.
 
 1m-1M-1NT-?
 
