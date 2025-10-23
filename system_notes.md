@@ -408,8 +408,8 @@ Examples :
 
 *Negative Freebids* (weak, <10 points) also show 5 cards. They are applicable after opponents double, or bid NT.  Examples :
 
-1. 1!h-(X)-1!s (5!s, <10 points. With more than 10 points we Rdbl).
-1. 1!h-(X)-2!c (5!s, <10 points. With more than 10 points we Rdbl).
+1. 1!h-(X)-1!s (5!ss, <10 points. With more than 10 points we Rdbl).
+1. 1!h-(X)-2!c (5!cs, <10 points. With more than 10 points we Rdbl).
 2. (1!d)-1!s-(P)-2!c (*Positive Freebid*, 10+ points 5!c).
 3. (1!d)-1!s-1NT-2!c (*negative Freebid*, <10 points, 5!c) 
 
