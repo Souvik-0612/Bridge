@@ -498,6 +498,15 @@ When the opener's 1NT is interfered with.  1NT-(2♠)-? . The problem is that th
 - 1NT-(2♠)-3♠ (game force, 4<span style="color:red;">♥</span>, ♠ stopper, FASS)
 - 1NT-(2♠)-2NT-3♣-3♠ (game force, no ♠ stopper, FASS)
 
+*Good-Bad Lebenshol, Scrambling*
+This section tries to summarise Robson-Segal
+
+-  *Generally*, 2NT is Lebensohl in response to a t/o double. It is *always* so when RHO bids after t/o.
+-  If enemy has bib 2♠ / 2<span style="color:red;">♥</span>, parter makes a t/o double, and RHO passes, then it is *scrambling* in the following situations 
+    1. auctions in which partner has balanced
+    2. When responder to t/o had one chance to bid Lebensohl, but did not.
+- In all competitive non-fit auctions where opener's 3nd bid is over 2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠ by RHO, *unless* responder made  a forcing 2-leve bid, then 2NT is nat.
+
 
 
 
