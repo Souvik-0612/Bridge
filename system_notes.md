@@ -181,7 +181,7 @@ Responder bids(Ogust) :
 ## 2/1 Continuations
 
 
-### Nebulous and Schuler bids
+### Nebulous 2!c
 
 
 Another desirable thing would be to have 2/1 suits be 5 cards. So we introduce another nebulous bid.
@@ -213,22 +213,7 @@ One can design different follow ups, among them the simpler ones being the natur
     - 1!s-2!c-2!d-2NT-3!d, 5-5 in spades and diamonds
     - 1!s-2!c-2!d-3!d-, 5 clubs and 4 diamonds, not much else to say.
     - When opener has 5-2-4-2 and responder has 2-3-4-4, the fit cannot be found early
- 
- 4. Schuler extensions: Openers cheapest suit can be nebulous, to distinguish between 5 and 6 card suits. (on trial)
-    - 1!s-2!d-2!h(4+ !h)
-    - 1!s-2!d-2!s(nebulous, balanced-ish)
-    - 1!s-2!d-2NT(6+ !s)
-    - 1!s-2!h-2!s (nebulous)
-    - 1!s-2!h-2NT (6 !s, as in Schuler)
-    - 1!h-2!d-2!h (nebulous)
-    - 1!h-2!d-2NT (6+ card, as in Schuler)
-
-    - 1!s-2!d-2!s (nebulous)
-    - 1!s-2!d-2NT (6 !s, as in Schuler)
-    - 1!s-2!h-2!s (nebulous)
-    - 1!s-2!h-2NT (6 !s, as in Schuler)
-    - 1!h-2!d-2!h (nebulous)
-    - 1!h-2!d-2NT (6+ card, as in Schuler)
+ 5. No reverses aftr 2/1
  
  
 ## XYZ Continuations
@@ -498,20 +483,10 @@ When the opener's 1NT is interfered with.  1NT-(2!s)-? . The problem is that the
 - 1NT-(2!s)-3!s (game force, 4!h, !s stopper, FASS)
 - 1NT-(2!s)-2NT-3!c-3!s (game force, no !s stopper, FASS)
 
-*Good-Bad Lebenshol, Scrambling*
-This section tries to summarise Robson-Segal
-
--  *Generally*, 2NT is Lebensohl in response to a t/o double. It is *always* so when RHO bids after t/o.
--  If enemy has bib 2!s / 2!h, parter makes a t/o double, and RHO passes, then it is *scrambling* in the following situations 
-    1. auctions in which partner has balanced
-    2. When responder to t/o had one chance to bid Lebensohl, but did not.
-- In all competitive non-fit auctions where opener's 3nd bid is over 2!d/2!h/2!s by RHO, *unless* responder made  a forcing 2-leve bid, then 2NT is nat.
 
 
 
-
-
-### When partner doubles their weak TWO
+### When partner doubles their weak-2
 
 This situation is similar to the case after 1NT, but after a takeout double the partner *must* always bid, and *PASS* is not available. So when only 2 levels of bids are available, the direct 3 level bid is **not GF**, but often only invitational. For GF bids, one must either use 3NT or the cuebid-Stayman.
 
@@ -544,8 +519,18 @@ Simple reverse: 1!d-1!s-2!h
           1. 2!c-2!d-2!s-3!c (2nd neg)-3!s
           2. 2!c-2!d-3!d-3!h(2nd neg)-4!d
           3. 2!c-2!d-2!s-3!c-3!s-4!c (responder rebids 2nd neg. suit to say he has real !c)
+### Other competitive auctions, (Good-bad etc)
+This section tries to summarise Robson-Segal
 
- [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
+-  *Generally*, 2NT is Lebensohl in response to a t/o double. It is *always* so when RHO bids after t/o.
+-  If enemy has bib 2!s / 2!h, parter makes a t/o double, and RHO passes, then it is *scrambling* in the following situations 
+    1. auctions in which partner has balanced
+    2. When responder to t/o had one chance to bid Lebensohl, but did not.
+- In all competitive non-fit auctions where opener's 3nd bid is over 2!d/2!h/2!s by RHO, *unless* responder made  a forcing 2-leve bid, then 2NT is nat.
+
+
+
+## [Kokish Relay](https://www.bridgewebs.com/nkbc/Kokish.pdf) (KR) 
 
  Like all relays, it creates space. The usual pattern of Kokish Relay is 2!c-2!d-2!h-2!s, with the 2!h-2!s known as the Kokish relay
 
