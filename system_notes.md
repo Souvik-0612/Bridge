@@ -578,22 +578,12 @@ And you have the hand !s Q8543!hKj954!c3!d54, would you pass at this situation?
 
 1. We can find some examples in [bridgebum](https://www.bridgebum.com/sos_redouble.php).  
 2. (Write whatever you like from the "considerations" section of Bridgebum)  
-## Run after opponents double 1NT
-### Moscow Escapes
-If opponents dbl after your(partner) 1NT as penalty(i.e, 15+ HCP), I hardly have 10 HCP. So, we have only (1) transfer(most frequent) or (2) stayman(no so frequent). 
-
-1NT-(X)-?  
-- Pass, to play  
-- XX, single suiter, opener bids 2!c  
-- 2!c, !c and higher  
-- 2!d, !d and higher  
-- 2!h, !h and !s  
-- 2!s, 5+ !ss weaker than XX  
 
 ## Rules of thumb
 ### Rule of 20
-> Guideline for opening bid less than 12 HCP.
+Guideline for opening bid less than 12 HCP.
 Count the total HCP and then add the total number of cards of longest suits, if the value is equal to or more than 20 then open at 1 level.
+### Rule of 7
+When your partner makes a bid over a preempt, he is always making a wish of sorts. He is wishing that you have something. About seven points is the traditional guideline of what he is allowed to wish for.
 
-### Restricted play
 
