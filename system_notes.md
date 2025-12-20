@@ -545,9 +545,13 @@ This section tries to summarise Robson-Segal
 - Two suiters with spades (later)
 - Unassigned sequence: 2!c-2!d-3!h (without relay)
 
-## Opponents don't play standard systems
-### Precision 2!c opening
-> Treat as **natural**.
+## When opponents don't play standard systems what should be our defence
+
+### Defence of precision 1!c(16+) opening
+> We don't have game but can be a good competitor.
+- 1NT for both minors
+- Rest are natural.
+### Defence of 2!d(weak in major)
 
 
 ## Slam Bidding Agreements
