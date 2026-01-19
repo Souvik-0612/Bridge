@@ -5,7 +5,7 @@ hide:
 ## No-Trump Openings
 ### 1NT opening
 - Standard Stayman and Transfers: not in note.
-- Weak stayman (*not Garbage Stayman*): 1NT- 2♣-2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠: Bad hand, shortness in clubs, willingness to play in any other suit.
+- Weak Stayman (*not Garbage Stayman*): 1NT- 2♣-2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠: Bad hand, shortness in clubs, willingness to play in any other suit.
 - Garbage Stayman: Weak hand, 4-4 in majors or better. Would play *any major*
         - 1N-2♣-2<span style="color:red;">♥</span>-P
         - 1N-2♣-2♠-P
@@ -23,7 +23,6 @@ hide:
          - 1N-2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> *does not work* (because this sequence would be Garbage Stayman)
          - 1N-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2♠, Transfer to <span style="color:red;">♥</span> and bid ♠.
    - With 5-5 in majors, Transfer to ♠ and then bid <span style="color:red;">♥</span> (GF)
-         
 
 - 1NT-2♠-? (range ask for ♣, bid with balanced invit hands)
      - 2N (15 pts)  
@@ -46,8 +45,10 @@ hide:
     - 3<span style="color:red;">♥</span>/3♠ shows 5 card major
     - 3NT denies 5 or 4 card majors.
 
-- 1NT-3<span style="color:red;">♦</span> ? Possible use, two suiters in minors
-- 1NT-3<span style="color:red;">♥</span> and 1NT-3♠, possible use: splinters with singleton
+- 1NT-3<span style="color:red;">♦</span> two suiters in minors
+- Remember after a transfer sequence 1NT-(2M-1)-2M, responders bid of 4M is always a *mild slam try*. Without slam interest he makes a *Texas* transfer.
+- 1NT-3<span style="color:red;">♥</span> and 1NT-3♠, possible use: splinters with exactly 1=3=(5=4) or 3=1=(5=4)
+- 1NT-2♣-2M-3♠ 
 
 ### 2NT opening
 
@@ -72,7 +73,7 @@ direct raises. These are the example sequences for indirect raises
 
 The direct raises are
 
- - 1M-2M, Constructive Raise, 7-10 HCP. The increased point range allows easy invites and game tries.
+ - 1M-2M, Constructive Raise, 8-10 HCP. The increased point range allows easy invites and game tries.
  - 1M-3♣, Bergen, 4 cards, 7-10 HCP, constructive raise
  - 1M-3<span style="color:red;">♦</span>, Bergen, 4 cards, 10-12 HCP, limit raise
  - 1M-2NT, [Jacoby 2NT](#jacoby-2nt), 4 cards, GF
@@ -86,7 +87,7 @@ assign different meanings to these sequences, esp with 4 card support. While we 
 
 - Jacoby 2NT, (4+ cards)
 - 2/1 GF through another suit (3+ cards), and then followed by picture-jumps (later)
-- Splinters, (shortness, 4 card support, limited)
+- Splinters, (shortness, 4 card support-- we play 2 kinds of splinters now-- roughly 9-11 and 12-14 hcp)
 
 A suggested solution is:
 
@@ -102,9 +103,9 @@ The main differences are
   - We can open light, and rarely with 4 cards. 
   - Count *Cansino points*, Open if (HCP + number of ♠=15)  
   - No Bergen Raises. 1M-3♣ and 1M-3<span style="color:red;">♦</span> are invitational hands with long minors.
-  - 2♣, Drury, 3+ cards, 9-12 HCP 
-  - 2<span style="color:red;">♦</span>,  Drury 4+ cards.  9-12 HCP
-  - 1NT can be 6-11 pts, but never with 3 card support for partner. Note the slightly increased point range because of the possibility of weakish openings. Those must go through Drury
+  - 2♣, Drury, 3+ cards, 9-11 HCP 
+  - 2<span style="color:red;">♦</span>,  Drury 4+ cards.  9-11 HCP
+  - 1NT can be 6-11 pts, but never with 3 card support for partner. Note the slightly increased point range because of the possibility of weakish openings. 
 
 ### 1m  openings and raises
 
@@ -217,29 +218,34 @@ One can design different follow ups, among them the simpler ones being the natur
  
  
 ## XYZ Continuations
-Perhaps it is useful to separate auctions XYNT and XYZ.
+Perhaps it is useful to separate auctions XYNT and XYZ. Our agreements are based on Paul Thurston's book.
 
 ### 1m-1M-1NT
 Let us consider bin reverse to the 4 or splinter for the 3 support happily, not showing extras. 5-4-2-2 can non-jump bid the 4 card suit at whatever level
-  4. 1M-2d-2M is 6. The pdding after 1m-1M-1NT, where oM and om denote other major and other minor.
+  4. 1M-2d-2M is 6. The bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
 
 1m-1M-1NT-?
 
   -  2NT: Invitational, without 5 cards in M, or 4 in oM.
-  -  2 ♣: Invitational with 5M or 4oM, or desire to quit in <span style="color:red;">♦</span>. It relays to 2<span style="color:red;">♦</span> from the opener. follow-ups are 
+  -  2 ♣: Invitational with 5M or 4oM, or desire to quit in <span style="color:red;">♦</span>, or game forcing hand that wants to check for stoppers. It relays to 2<span style="color:red;">♦</span> from the opener. follow-ups are 
         - 2♣-2<span style="color:red;">♦</span>-Pass, weak, signoff in <span style="color:red;">♦</span> 
         - 2♣-2<span style="color:red;">♦</span>-2M, 5 cards in M. classic nmf situation.
         - 2♣-2<span style="color:red;">♦</span>-2oM, 4 cards in other major.  
-  - 2<span style="color:red;">♦</span> : game forcing
-      - 2<span style="color:red;">♦</span>-2M opener's 3 card support 
-      - 2<span style="color:red;">♦</span>-2oM opener shows 4 cards in oM
-      - 2<span style="color:red;">♦</span>-3m good 5+ cards suit in minor.
-      - 2<span style="color:red;">♦</span>-2NT,  default response from opener.
-- When no fit is found after the xyz relay, 3 level bids are stopper asking.
-- **Advanced** : *Two or three important sequences still have to be assigned meaning*
-    -  NT after relay. Since 1NT-2NT is still a valid bid. What is shown by 1m-1M-1NT-2♣-2<span style="color:red;">♦</span>-2NT. This can be used as an additional relay. We will see about how to use it later.
-   -  Direct 3m raise: 1m-1M-1NT-3m
-   -  3m raise after relay 1m-1M-1NT-2♣-2<span style="color:red;">♦</span>-3m
+  -  2<span style="color:red;">♦</span> : game forcing
+        - 1♣-1M-2<span style="color:red;">♦</span>-2M show opener's 3 card support 
+        - 1♣-1♠-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span> show 4 cards in "skipped major"
+        - 1♣-1M-1NT-2<span style="color:red;">♦</span>-3m good 5+ cards suit in minor.
+        - 1♣-1M-1NT-2<span style="color:red;">♦</span>-2NT,  default response from opener.
+        - 1♣-1M-1NT-2<span style="color:red;">♦</span>-3NT could be a good hand.
+  -  Double Relay Auctions  1m-1M-1NT-2♣-2<span style="color:red;">♦</span>-2NT is the "double relay" to 3♣. 1m-1M-1NT-2<span style="color:red;">♦</span>-2NT-3♣ is also the double relay
+        - 1x-1M-1NT-2♣-2<span style="color:red;">♦</span>-2NT-3♣-p is to quit in 3♣
+        - 1♣-1y-1NT-2♣-2<span style="color:red;">♦</span>-3♣ now shows an invite with with 5 clubs and 4 of y 
+        - 1♣-1y-1NT-3♣ can be used with 4-5 in Mm and invitational strength.
+        - 1♣-1y-1NT-2<span style="color:red;">♦</span>-3♣ can be used with 5-5  and GF.
+  -  Stopper ask auctions with two sets of relays 
+        - 1♣-1y-1NT-2♣-2<span style="color:red;">♦</span>-2NT-3♣-3z (stopper ask in z)
+        - For clubs, 1!x(not clubs)-1y-1NT-2♣-2<span style="color:red;">♦</span>-2NT-3♣-3NT (No club stopper)
+
   
 ### 1x-1y-1z
 Work under progress
@@ -519,14 +525,15 @@ Simple reverse: 1<span style="color:red;">♦</span>-1♠-2<span style="color:re
           1. 2♣-2<span style="color:red;">♦</span>-2♠-3♣ (2nd neg)-3♠
           2. 2♣-2<span style="color:red;">♦</span>-3<span style="color:red;">♦</span>-3<span style="color:red;">♥</span>(2nd neg)-4<span style="color:red;">♦</span>
           3. 2♣-2<span style="color:red;">♦</span>-2♠-3♣-3♠-4♣ (responder rebids 2nd neg. suit to say he has real ♣)
+
 ### Other competitive auctions, (Good-bad etc)
-This section tries to summarise Robson-Segal
+This section tries to summarise the Robson-Segal book
 
 -  *Generally*, 2NT is Lebensohl in response to a t/o double. It is *always* so when RHO bids after t/o.
--  If enemy has bib 2♠ / 2<span style="color:red;">♥</span>, parter makes a t/o double, and RHO passes, then it is *scrambling* in the following situations 
-    1. auctions in which partner has balanced
+-  If enemy has bid 2♠ / 2<span style="color:red;">♥</span>, partner makes a t/o double, and RHO passes, then it is *scrambling* in the following situations 
+    1. auctions in which partner has bid in the balancing position.
     2. When responder to t/o had one chance to bid Lebensohl, but did not.
-- In all competitive non-fit auctions where opener's 3nd bid is over 2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠ by RHO, *unless* responder made  a forcing 2-leve bid, then 2NT is nat.
+- In all competitive non-fit auctions where opener's 2NT bid is over 2<span style="color:red;">♦</span>/2<span style="color:red;">♥</span>/2♠ by RHO, *unless* responder made  a forcing 2-level bid, then 2NT is nat.
 
 
 
@@ -542,16 +549,22 @@ This section tries to summarise Robson-Segal
    2. with 5-3-3-2 and 5 hearts, bid NT (as usual)
 - Two suiters with hearts
    1. 2♣-2<span style="color:red;">♦</span>-2<span style="color:red;">♥</span>-2♠-3♣ (double suiter, hearts and ♣, 5-4 or better)
-- Two suiters with spades (later)
+- Two suiters with spades go through 2♠ relay(2♣ -2<span style="color:red;">♦</span>-2♠-2NT-3♣)
 - Unassigned sequence: 2♣-2<span style="color:red;">♦</span>-3<span style="color:red;">♥</span> (without relay)
 
-## When opponents don't play standard systems what should be our defence
+## Defence against special systems
 
 ### Defence of precision 1♣(16+) opening
-> We don't have game but can be a good competitor.
 - 1NT for both minors
+- X for both majors
 - Rest are natural.
+
 ### Defence of 2<span style="color:red;">♦</span>(weak in major)
+- ACBL defence 1
+  - Double is a takeout in hearts 
+  - 2<span style="color:red;">♥</span> is a takeout in spades
+  - Everything else natural
+  - 3x shows 6+ hearts and good points.
 
 
 ## Slam Bidding Agreements
@@ -562,7 +575,6 @@ The keycard ask is kickback style.
 Future Improvements:
   - Exclusion Keycard
   - Standard void showing responses.
-  - Kantar's book
 ## Scoring techniques matter!
 Read [IMPs vs MPs](https://pi.math.cornell.edu/~belk/impmp.htm) before every tournament!
 ## SOS redouble
