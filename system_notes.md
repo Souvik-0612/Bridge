@@ -214,37 +214,43 @@ One can design different follow ups, among them the simpler ones being the natur
     - 1!s-2!c-2!d-2NT-3!d, 5-5 in spades and diamonds
     - 1!s-2!c-2!d-3!d-, 5 clubs and 4 diamonds, not much else to say.
     - When opener has 5-2-4-2 and responder has 2-3-4-4, the fit cannot be found early
- 5. No reverses aftr 2/1
+ 5. No reverses after 2/1
+ 6. reverse to the 4 or splinter for the 3 support happily, not showing extras. 5-4-2-2 can non-jump bid the 4 card suit at whatever level
+ 7. 1M-2d-2M is 6. The bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
  
  
 ## XYZ Continuations
-Perhaps it is useful to separate auctions XYNT and XYZ. Our agreements are based on Paul Thurston's book.
+The key changes are ( *tldr: all invites thru 2!c-2!d relay. 1x-1y-1z-2NT is Lebenshol-> 3!c. Direct 3 level jumps are 5-5 GF*)
+   1. All invitational sequences go through 2!c, except the sequence 1m-1!h-1NT-2!s which shows invitational with 4-4 in MM, whereas 1m-1!h-1NT-2!c-2!d-2!s would show 5-4 in !h and !s.
+   2. A direct bid of '2NT' after xyz is always a relay to 3!c--- it is a sort of Lebensohl. This either wants to sign off in clubs, or wants to show clubs and show shortness (check a stopper) on the way to 3NT.
+   3. Balanced hands wanting to invite to NT game must go through the 2!c-2!d relay (2NT is Lebensohl)
+   4. Jump bids into the three level like 1m-1!h-1NT-3!d shows GF with good 5-5 in suits. This is no longer an invitation, as invites go through 2!c-2!d.
+   5. In XYNT auctions, one partner has limited itself, so bidding 2NT or 3M instead of game shows slam interest. Whereas in XYZ auctions, partner can bid 3M or 2NT with nothing to say, and slam tries can go through unserious 3NT or cuebids.
 
-### 1m-1M-1NT
-Let us consider bin reverse to the 4 or splinter for the 3 support happily, not showing extras. 5-4-2-2 can non-jump bid the 4 card suit at whatever level
-  4. 1M-2d-2M is 6. The bidding after 1m-1M-1NT, where oM and om denote other major and other minor.
+### Invitational and sign-off sequences 
+  - 1!c-1!h-1NT-2!c-2!d-2!h-? inv with 5 !h
+  - 1!c-1!h-1NT-2!c-2!d-3!h-? inv with semi-solid 6 !h
+  - 1!c-1!s-1NT-2!c-2!d-2!h-? inv with  5-4 in !s-!h
+  - 1!c-1!h-1NT-2!c-2!d-2!s-? inv with 5-4 in !h-!s
+  - 1!c-1!h-1NT-2!s-? inv with 4-4 in !h-!s
+  - 1!c-1M-1NT-2!c-2!d-2NT-? inv balanced.
+  - 1!c-1M-1NT-2!c-2!d-3!d-? inv with 5-5 in M and !c. We want 5-5 for 3 level bids
+  - 1!c-1M-1NT-2!c-2!d-3!c-? inv with 4-5 in M and !c. 
+  - 1!c-1M-2NT-3!c-p signoff in clubs 
+### GF sequences 
+  - 1!c-1!h-1NT-2!d-2!h-4!h, usual GF looking for 5-3 fit
+  - 1!c-1!h-1NT-2!d-2!h-3NT, wants to suggest playing 3NT with 5-3 fit, perhaps at Matchpoints. After opener has limited his hand, 3NT does not shows extras. Opener can invite slam with 4NT if he so wishes
 
-1m-1M-1NT-?
+  - 1!c-1!h-1NT-2!d-2!h-2NT possible slam interest or GF but wants to play in minor
+  - 1!c-1!h-1NT-2!d-2!h-3!c shows 5 hearts and 4+ clubs (relay shows 5 hearts)
+  - 1!c-1!h-1NT-2NT-3!c-3NT shows 4 hearts and 4 clubs
+  - 1!c-1!h-1NT-2!d-2!h-2!s shows 4-4 or 5-4 in majors.
+  - 1!c-1!h-1NT-2!d-2!h-3!h very good hand with hearts (possibly slam interested, since partner has already limited himself). 
+  - 1!c-1!h-1NT-3!h shows a better solid (1 loser) suit than this.
+  - 1c -1!h-1NT-2!d-2!d-3!h, 5 hearts, 4+ diamonds, GF. (bad suit if 5-5)
+  - 1!c-1!h-1NT-2NT-3!c-3X, 4!h, 5+!c, singleton in X
+  - 1!c-1!h-1NT-2NT-3!c-3NT, 4!h, 5+!c, no shortness
 
-  -  2NT: Invitational, without 5 cards in M, or 4 in oM.
-  -  2 !c: Invitational with 5M or 4oM, or desire to quit in !d, or game forcing hand that wants to check for stoppers. It relays to 2!d from the opener. follow-ups are 
-        - 2!c-2!d-Pass, weak, signoff in !d 
-        - 2!c-2!d-2M, 5 cards in M. classic nmf situation.
-        - 2!c-2!d-2oM, 4 cards in other major.  
-  -  2!d : game forcing
-        - 1!c-1M-2!d-2M show opener's 3 card support 
-        - 1!c-1!s-2!d-2!h show 4 cards in "skipped major"
-        - 1!c-1M-1NT-2!d-3m good 5+ cards suit in minor.
-        - 1!c-1M-1NT-2!d-2NT,  default response from opener.
-        - 1!c-1M-1NT-2!d-3NT could be a good hand.
-  -  Double Relay Auctions  1m-1M-1NT-2!c-2!d-2NT is the "double relay" to 3!c. 1m-1M-1NT-2!d-2NT-3!c is also the double relay
-        - 1x-1M-1NT-2!c-2!d-2NT-3!c-p is to quit in 3!c
-        - 1!c-1y-1NT-2!c-2!d-3!c now shows an invite with with 5 clubs and 4 of y 
-        - 1!c-1y-1NT-3!c can be used with 4-5 in Mm and invitational strength.
-        - 1!c-1y-1NT-2!d-3!c can be used with 5-5  and GF.
-  -  Stopper ask auctions with two sets of relays 
-        - 1!c-1y-1NT-2!c-2!d-2NT-3!c-3z (stopper ask in z)
-        - For clubs, 1!x(not clubs)-1y-1NT-2!c-2!d-2NT-3!c-3NT (No club stopper)
 
   
 ### 1x-1y-1z
