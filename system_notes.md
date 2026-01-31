@@ -221,10 +221,15 @@ One can design different follow ups, among them the simpler ones being the natur
  
 ## XYZ Continuations
 The key changes are ( *tldr: all invites thru 2!c-2!d relay. 1x-1y-1z-2NT is Lebenshol-> 3!c. Direct 3 level jumps are 5-5 GF*)
+
    1. All invitational sequences go through 2!c, except the sequence 1m-1!h-1NT-2!s which shows invitational with 4-4 in MM, whereas 1m-1!h-1NT-2!c-2!d-2!s would show 5-4 in !h and !s.
+
    2. A direct bid of '2NT' after xyz is always a relay to 3!c--- it is a sort of Lebensohl. This either wants to sign off in clubs, or wants to show clubs and show shortness (check a stopper) on the way to 3NT.
+
    3. Balanced hands wanting to invite to NT game must go through the 2!c-2!d relay (2NT is Lebensohl)
+
    4. Jump bids into the three level like 1m-1!h-1NT-3!d shows GF with good 5-5 in suits. This is no longer an invitation, as invites go through 2!c-2!d.
+
    5. In XYNT auctions, one partner has limited itself, so bidding 2NT or 3M instead of game shows slam interest. Whereas in XYZ auctions, partner can bid 3M or 2NT with nothing to say, and slam tries can go through unserious 3NT or cuebids.
 
 ### Invitational and sign-off sequences 
